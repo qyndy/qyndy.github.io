@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Éd. Dans l'engrenage</dc:publisher>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Forrest, Katherine V." opf:role="aut">Forrest, Katherine V.</dc:creator>
+    <meta name="calibre:timestamp" content="2017-02-28T18:35:32.792000+00:00"/>
+    <dc:title>Hancock Park</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2009-10-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9782915342185</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">848785db-c73b-49a0-8456-cf3bd4e28b70</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8c1b8c40-5d78-4d3c-9d79-566aee4533c5</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="images/calibre_cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Hancock_Park_split_000.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_001.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_002.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_003.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_004.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_005.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_006.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_007.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Hancock_Park_split_008.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Hancock_Park_split_008.html#filepos608008" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
