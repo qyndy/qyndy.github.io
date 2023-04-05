@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Gallimard</dc:publisher>
+    <dc:description>&lt;div&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"&gt;&lt;span style="mso-bidi-font-style:italic"&gt;Dans la « serre chaude » de l'école où elles
+travaillent sous pression, les jeunes filles gardent chacune leur
+individualité, leur manière personnelle de sentir, de souffrir et aussi de
+jouir.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"&gt;&lt;span style="mso-bidi-font-style:italic"&gt;Partagées entre l'obsession des examens et
+le besoin de s'évader, elles inspirent une certaine pitié, plus intellectuelle
+d'ailleurs que profonde.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"&gt;&lt;span style="mso-bidi-font-style:italic"&gt;Mais elles ne subissent pas seulement
+l'étreinte de leur labeur, elles subissent la hantise plus ou moins formulée de
+l'amour.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"&gt;&lt;span style="mso-bidi-font-style:italic"&gt;Et sous quelles nuances équivoques Jeanne
+Galzy nous dépeint cette hantise ! À petites touches délicates, fort
+adroites au surplus et pleines d'art, elle glisse partout le reflet de voluptés &lt;/span&gt;troubles.&lt;/p&gt;
+
+&lt;p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"&gt;&lt;p&gt; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Jeanne Galzy : (1884 - 1977)&lt;span style="mso-spacerun:yes"&gt;  &lt;/span&gt;était une romancière et biographe française,
+membre du jury du Prix Femina. De son vrai nom, Louise Jeanne Baraduc, elle est
+la fille d'un négociant et d'une poétesse non éditée. Elle grandit dans un milieu
+protestant et fait des études supérieures, fait rarissime pour une jeune fille
+à l'époque. Elle est notamment Sèvrienne et agrégée. Messagère d'un art de vie
+et d'une sagesse dont elle-même s'est servie pour guider son existence, elle a
+aussi l'âme d'un poète qui a su prendre le temps de contempler la vie et
+l'aimer par dessus tout. Elle peut dès lors nous toucher, nous lecteurs, par
+l'émotion et tout à la fois par la lucidité avec laquelle elle a observé une
+société parfois dure.&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Galzy, Jeanne" opf:role="aut">Galzy, Jeanne</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:54.003000+00:00"/>
+    <dc:title>Jeunes filles en serre chaude</dc:title>
+    <dc:date>1934-04-10T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c675a494-a955-4907-912c-0702e71b5928</dc:identifier>
+    <dc:subject>roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

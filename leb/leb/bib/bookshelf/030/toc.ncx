@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="c675a494-a955-4907-912c-0702e71b5928" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jeunes filles en serre chaude</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0c6ee379-023e-4f32-babe-54723b90dea4" playOrder="1">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u4eeccfcd-705f-49f6-8961-09240f6921b5" playOrder="2">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u757f829e-ef41-4984-8816-183d8174d39b" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u1d7f8976-10c0-47e8-9eee-515a71ab8f21" playOrder="4">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u1792444d-1988-4c57-afc2-53bf4da3c65b" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u4b57318a-4c07-49c8-96ed-aa6f5f80132b" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="udd441551-0822-422a-b6e3-c7b28fc9a234" playOrder="7">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u2751c148-b8eb-477b-be09-b9890d83b238" playOrder="8">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="ue6c46b6f-9bbc-415a-8907-92a97af91f24" playOrder="9">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u0f8aface-9f6b-4537-99a0-665bfff2334a" playOrder="10">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="uab2ff897-3618-4429-9f4a-ce9c7eb5a28f" playOrder="11">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="u181cec70-d961-4a30-aff2-c84a5c38c67d" playOrder="12">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u5d265674-54eb-4c65-b863-5c0778912767" playOrder="13">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="u2837e965-2045-4d17-b3ec-25f9fc46733e" playOrder="14">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="ue9d09f84-c327-4380-aa71-ca1233850bfc" playOrder="15">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u685f9e63-557b-40e2-907a-fc7526a8c4c7" playOrder="16">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="ua9217915-7dac-4673-90d2-4a38bdb528b8" playOrder="17">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u38924d09-8da1-4d05-a5ca-47c017f5932f" playOrder="18">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u5f13d83a-c227-40be-a4cf-c5dc903bf24f" playOrder="19">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="u5b95ae79-086a-41a8-a692-4abad75f6280" playOrder="20">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u7776da34-197b-4693-b481-ac304a7efe57" playOrder="21">
+      <navLabel>
+        <text>QUATRIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-55"/>
+    </navPoint>
+  </navMap>
+</ncx>

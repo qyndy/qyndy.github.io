@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Le Cherche Midi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Point Clear, Alabama. Après avoir marié la dernière de ses filles, Sookie Poole aspire à un repos bien mérité. Elle aimerait se consacrer enfin à elle, à son couple, faire avec Earle, son mari, les voyages dont elle rêve. Mais elle doit encore compter avec sa mère, l'incroyable Lenore Simmons Krackenberry qui, à 88 ans, épuise les infirmières à domicile les unes après les autres. Si certains de ses coups d'éclat récents peuvent laisser penser qu'elle souffre de démence sénile, le diagnostic n'est pas aisé à établir car, toute sa vie, son comportement a été des plus excentriques.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font face="MS Shell Dlg 2, sans-serif"&gt;&lt;span style="font-size: 12px;"&gt;Le jour où un mystérieux interlocuteur révèle à Sookie un secret de famille parfaitement inattendu, son existence vole en éclats, à commencer par ses rapports avec sa mère. Afin de comprendre qui elle est vraiment, Sookie va alors se mettre sur la piste d'une femme exceptionnelle, Fritzi, qui, en 1940, tenait avec ses trois soeurs une station-service dans le Wisconsin. Le destin incroyable de Fritzi donnera-t-il à Sookie une nouvelle inspiration pour sa propre vie ?&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;span style="font-size: 12px;"&gt;Fannie Flagg met ici en scène deux femmes, Sookie et Fritzi, qui, à quelques décennies d'intervalle, vont devoir se réinventer. Connaisseuse aguerrie des pleins et des déliés de la destinée, elle nous offre une nouvelle fois un roman au charme fou, à la fois tendre, touchant, comique et riche en retournements.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Flagg, Fannie" opf:role="aut">Flagg, Fannie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:40.276000+00:00"/>
+    <dc:title>La dernière réunion des filles de la station service</dc:title>
+    <dc:date>2014-12-31T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">35edcda5-9c11-45ad-a30a-b64850087b03</dc:identifier>
+    <dc:subject>Littérature américaine</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added58" media-type="image/jpeg"/>
+    <item href="000001.jpg" id="added55" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="000004.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="000005.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="000006.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="000007.jpg" id="added60" media-type="image/jpeg"/>
+    <item href="000008.jpg" id="added46" media-type="image/jpeg"/>
+    <item href="000009.jpg" id="added41" media-type="image/jpeg"/>
+    <item href="000010.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="000011.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="000012.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="000013.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="000014.jpg" id="added62" media-type="image/jpeg"/>
+    <item href="000015.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="000016.jpg" id="added44" media-type="image/jpeg"/>
+    <item href="000017.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="000018.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="000019.jpg" id="added42" media-type="image/jpeg"/>
+    <item href="000020.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="000021.jpg" id="added38" media-type="image/jpeg"/>
+    <item href="000022.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="000023.jpg" id="added39" media-type="image/jpeg"/>
+    <item href="000024.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="000025.jpg" id="added40" media-type="image/jpeg"/>
+    <item href="000026.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="000027.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="000028.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="000029.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="000030.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="000031.jpg" id="added52" media-type="image/jpeg"/>
+    <item href="000032.jpg" id="added43" media-type="image/jpeg"/>
+    <item href="000033.jpg" id="added53" media-type="image/jpeg"/>
+    <item href="000034.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="000035.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000036.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="000037.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000038.jpg" id="added54" media-type="image/jpeg"/>
+    <item href="000039.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000040.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="000041.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="000042.jpg" id="added48" media-type="image/jpeg"/>
+    <item href="000043.jpg" id="added56" media-type="image/jpeg"/>
+    <item href="000044.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="000045.jpg" id="added57" media-type="image/jpeg"/>
+    <item href="000046.jpg" id="added47" media-type="image/jpeg"/>
+    <item href="000047.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="000048.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="000049.jpg" id="added61" media-type="image/jpeg"/>
+    <item href="000050.jpg" id="added50" media-type="image/jpeg"/>
+    <item href="000051.jpg" id="added45" media-type="image/jpeg"/>
+    <item href="000052.jpg" id="added37" media-type="image/jpeg"/>
+    <item href="000053.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="000054.jpg" id="added59" media-type="image/jpeg"/>
+    <item href="000055.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="000056.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="000057.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="000058.jpg" id="added49" media-type="image/jpeg"/>
+    <item href="000059.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="000060.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="000061.jpg" id="added51" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

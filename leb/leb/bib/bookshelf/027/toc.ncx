@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="35edcda5-9c11-45ad-a30a-b64850087b03" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>La dernière réunion des filles de la station service</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u84bbbd53-1f5a-4db5-a94d-9a016e2490eb" playOrder="6">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-167"/>
+    </navPoint>
+    <navPoint id="u6fa42c86-a204-4e45-9a47-461e8fe5a847" playOrder="7">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-168"/>
+    </navPoint>
+    <navPoint id="u703dc98b-c4cc-458e-9c79-0109a935da0a" playOrder="8">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-169"/>
+    </navPoint>
+    <navPoint id="u54ab3e06-82e3-40dc-92c6-24416c83f3c7" playOrder="10">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-175"/>
+    </navPoint>
+    <navPoint id="u61472f18-741f-4a1d-9abd-f227e7bdb083" playOrder="13">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-179"/>
+    </navPoint>
+    <navPoint id="ue9a12f0b-7c9d-46a1-998b-414a18dfdc64" playOrder="16">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-184"/>
+    </navPoint>
+    <navPoint id="ufc02f508-61a8-40f6-909e-090404afb25b" playOrder="23">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-192"/>
+    </navPoint>
+    <navPoint id="ua3e9cab2-f6a1-4f54-b528-2f1a2b291330" playOrder="36">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-211"/>
+    </navPoint>
+    <navPoint id="udd2eb136-580a-4588-ae1f-fd405c5049b1" playOrder="37">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-217"/>
+    </navPoint>
+    <navPoint id="u6042fb6d-fa37-47c2-b7ba-11617651ea7d" playOrder="38">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-220"/>
+    </navPoint>
+    <navPoint id="ue74b0fe3-3d25-47c9-ae0b-e95c5c9e7c19" playOrder="39">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="ud75dd613-d545-403a-bb4d-96749cdb2c4c" playOrder="40">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-241"/>
+    </navPoint>
+    <navPoint id="u3df12aaf-c0ee-44d1-930c-651a049a33ed" playOrder="41">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-247"/>
+    </navPoint>
+    <navPoint id="u54356395-f774-4bb7-81e9-e3950c49fd14" playOrder="42">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-248"/>
+    </navPoint>
+    <navPoint id="ua8815594-3257-40f5-9100-64c13f640d71" playOrder="43">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-249"/>
+    </navPoint>
+    <navPoint id="u51ee5448-a9c7-4d97-a5ce-72669daed803" playOrder="44">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-250"/>
+    </navPoint>
+    <navPoint id="u78aadf5e-67dc-4e50-b62f-637b5e7f5c1f" playOrder="45">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-237"/>
+    </navPoint>
+    <navPoint id="uc761c910-6bfb-41e8-8202-f6e6768980fc" playOrder="46">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-149"/>
+    </navPoint>
+    <navPoint id="u848e2daf-fe02-41fd-a389-b801d7515879" playOrder="47">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="uaa00d312-3b11-40e9-a0aa-af2cb9039e7a" playOrder="48">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="ufdd0facd-0054-4871-9daa-eda2d0e87d9b" playOrder="49">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="ub8160146-e197-41cb-a763-e258a3866b5e" playOrder="50">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u3899269b-2ac3-4da3-b93d-4a25198b7ae3" playOrder="1">
+      <navLabel>
+        <text>Du même auteur au cherche midi</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="uebb771b5-71bf-4430-b638-8478e36162ab" playOrder="2">
+      <navLabel>
+        <text>Exergue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u474ee556-1119-4df3-a085-74e2d52c9930" playOrder="3">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="uda8d106e-075a-4a8a-b391-03511999fe3c" playOrder="4">
+      <navLabel>
+        <text>UNE SEMAINE TOUT À FAIT INHABITUELLE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-44"/>
+    </navPoint>
+    <navPoint id="u86b07664-a318-4511-8a95-9122ae3cba92" playOrder="5">
+      <navLabel>
+        <text>Mardi 7 juin 2005</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-45"/>
+    </navPoint>
+    <navPoint id="u2889d7a6-c79b-4535-9476-cc2855391122" playOrder="9">
+      <navLabel>
+        <text>Mercredi 8 juin 2005</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-46"/>
+    </navPoint>
+    <navPoint id="u285db979-fe53-474c-8818-9c56bcc16e89" playOrder="11">
+      <navLabel>
+        <text>QUI DONC ?</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="u8e2ba0b4-8d44-4758-80de-f65c1146180e" playOrder="12">
+      <navLabel>
+        <text>RETOUR À POINT CLEAR</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u4213d0e4-1192-4aa2-8de4-fb5cd70a08b0" playOrder="14">
+      <navLabel>
+        <text>LA VIE CONTINUE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-49"/>
+    </navPoint>
+    <navPoint id="u69a2e617-edf5-49bd-8c89-07831b76c171" playOrder="15">
+      <navLabel>
+        <text>ET MAINTENANT ?</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-50"/>
+    </navPoint>
+    <navPoint id="u35f03a2e-6b21-4f07-8a6e-4c38c92bb176" playOrder="17">
+      <navLabel>
+        <text>POINT CLEAR, ALABAMA</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-51"/>
+    </navPoint>
+    <navPoint id="ue0dc4ce4-6d99-4588-80fa-1b91dc3f8fae" playOrder="18">
+      <navLabel>
+        <text>WINK’S PHILLIPS 66</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-52"/>
+    </navPoint>
+    <navPoint id="u22d0d47a-1a2d-4b87-b698-78916179d839" playOrder="19">
+      <navLabel>
+        <text>Le lendemainSamedi 11 juin 2005</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="ua040abd8-798a-4f70-92a5-f5a414b849d8" playOrder="20">
+      <navLabel>
+        <text>QUI PASSE PAR MILWAUKEE…</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u87136dd3-b17c-4b64-b4d1-0a5961b3a5c6" playOrder="21">
+      <navLabel>
+        <text>LES LETTRES</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="u064fbddb-e6ec-47b6-acff-daa820af7f87" playOrder="22">
+      <navLabel>
+        <text>MILWAUKEE, WISCONSIN</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="uf45911d0-b38c-46c5-b3d7-ee347305ffcb" playOrder="24">
+      <navLabel>
+        <text>MON VRAI PATRIMOINE GÉNÉTIQUE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-57"/>
+    </navPoint>
+    <navPoint id="ufeaced42-e52a-48cd-80d6-2decd0f58825" playOrder="25">
+      <navLabel>
+        <text>SOUS LE CHARME</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-58"/>
+    </navPoint>
+    <navPoint id="u1dfce16c-cdf6-425f-b298-517e167b3cb8" playOrder="26">
+      <navLabel>
+        <text>MAIS C’EST OÙ, PULASKI ?</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-59"/>
+    </navPoint>
+    <navPoint id="u4e14abb4-e6a4-4296-936f-3bf992540c9b" playOrder="27">
+      <navLabel>
+        <text>PULASKI, WISCONSIN</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-60"/>
+    </navPoint>
+    <navPoint id="u580ae812-e8b1-431d-9241-18895e09d8d7" playOrder="28">
+      <navLabel>
+        <text>LA FEMME INVISIBLE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-61"/>
+    </navPoint>
+    <navPoint id="ud1d8d5f4-4234-46dc-9984-c65ea2daf527" playOrder="29">
+      <navLabel>
+        <text>GRAND RAPIDS, WISCONSIN</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-62"/>
+    </navPoint>
+    <navPoint id="u58069b0e-4391-45a2-bb3a-f0608437ee3b" playOrder="30">
+      <navLabel>
+        <text>QUI SUIS-JE ?</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-63"/>
+    </navPoint>
+    <navPoint id="u8dff2733-19b2-4de8-8f5a-5d64b9157a1b" playOrder="31">
+      <navLabel>
+        <text>UNE ÉTOILE EST NÉE</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ucbb57507-112e-4dc5-9f09-0d439173fda7" playOrder="32">
+      <navLabel>
+        <text>AU SECOURS !</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="uc3552588-7531-4720-9f53-8ddbdd86add1" playOrder="33">
+      <navLabel>
+        <text>LA MAISON DE LA GAUFRE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-68"/>
+    </navPoint>
+    <navPoint id="u30a154ef-cd42-4e53-9855-41b7df1e282b" playOrder="34">
+      <navLabel>
+        <text>LA GUERRE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-69"/>
+    </navPoint>
+    <navPoint id="uf05aa191-7c46-44bc-a78a-837521d735d3" playOrder="35">
+      <navLabel>
+        <text>DÉJEUNER AVEC LENORE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-70"/>
+    </navPoint>
+  </navMap>
+</ncx>
