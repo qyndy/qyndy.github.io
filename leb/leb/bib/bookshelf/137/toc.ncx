@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="ddf400ef-e75e-4948-9fd5-454a8a2cbc67" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Comme son ombre</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5e7aca08-b614-46f9-a05b-48699a519481" playOrder="39">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u9350d37d-7832-4c8f-a7df-8e147fb6b3d3" playOrder="40">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u65587868-943d-4698-966f-c866a9f938c7" playOrder="41">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u2fbd2bd6-b89d-4947-b3fe-1477105b8513" playOrder="1">
+      <navLabel>
+        <text>Dédicace</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u5c92ac1c-b992-47a1-b217-4b9fcf3bf032" playOrder="2">
+      <navLabel>
+        <text>Exergue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u5c56b189-6516-4640-aecd-78c023557aa4" playOrder="3">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="u45f20888-61fc-4117-998f-a26936c3dc0a" playOrder="4">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u5d36e42c-95f2-4378-beb0-f10eb81a5c5e" playOrder="5">
+      <navLabel>
+        <text>1 - Mardi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="u2b325e77-0636-4a57-aa36-4b482c4fc6c8" playOrder="7">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u00be9981-4a9c-4773-b6f5-cf6350dfcce6" playOrder="8">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="uaeaedd78-446b-4d74-867b-a06685f133db" playOrder="9">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u6ff2f91b-9e55-42f7-b7ce-7e30d40351ab" playOrder="10">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="u36d7ace3-3ba5-417e-a4c6-e9800d92e5b6" playOrder="11">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="uf021f98d-b14b-48c2-887e-9898efdcfe5a" playOrder="12">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u52c17cb6-72b1-43d5-af48-748057cfae20" playOrder="13">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="uf6183b19-369d-427c-83e7-695313930106" playOrder="14">
+      <navLabel>
+        <text>11 - Samedi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="ud05cf55b-0428-4221-8efe-786a2d961d3a" playOrder="15">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u7e0965e6-404b-4b92-8a57-8b6c2a589fd8" playOrder="16">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="u51f8bc61-4d49-4ab4-9c2b-f3be5f98693e" playOrder="17">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="uf7bfd5a4-a5d6-4b08-bb67-e6be11872223" playOrder="18">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u45c330b7-28cb-4afb-8d31-0f9c34a2b26d" playOrder="19">
+      <navLabel>
+        <text>11 - Lundi</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="u9bec9f78-6184-4645-b440-fb41a1b03950" playOrder="20">
+      <navLabel>
+        <text>15 - Mardi</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-51"/>
+    </navPoint>
+    <navPoint id="u6fe79464-0748-4602-8a99-7e716f245d4e" playOrder="21">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-52"/>
+    </navPoint>
+    <navPoint id="u466d5c27-bac2-41ae-bfb4-7d9889654a4d" playOrder="22">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="u77d243ef-8ff2-4b40-897c-29ed730d34ad" playOrder="23">
+      <navLabel>
+        <text>18 - Mercredi</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u1d237cce-f74b-4a23-bd14-9af1df9391a4" playOrder="24">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="u71b9da75-9fc7-4986-a258-1613a3807803" playOrder="25">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="u94a6e544-db2c-48f5-a73a-3039812e35bb" playOrder="26">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-57"/>
+    </navPoint>
+    <navPoint id="udb0b761d-9239-4a38-992c-df62cdd5923c" playOrder="27">
+      <navLabel>
+        <text>22 - Jeudi</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-58"/>
+    </navPoint>
+    <navPoint id="ub6e1b108-6ffc-4724-b710-e756d8c73954" playOrder="28">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-59"/>
+    </navPoint>
+    <navPoint id="u382b40bb-d62a-424c-9d1b-3f8d55d442b2" playOrder="29">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-60"/>
+    </navPoint>
+    <navPoint id="u07404e38-5fbb-47fe-916e-85c07275ae95" playOrder="30">
+      <navLabel>
+        <text>1 - Vendredi</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-61"/>
+    </navPoint>
+    <navPoint id="u95229ee7-6f66-4426-b66e-e61ec5c75b7e" playOrder="31">
+      <navLabel>
+        <text>4 - Samedi</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-64"/>
+    </navPoint>
+    <navPoint id="u5b493fd4-c45a-4ae6-a316-56a0a47ab557" playOrder="32">
+      <navLabel>
+        <text>5 - Dimanche</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-65"/>
+    </navPoint>
+    <navPoint id="u6b351b12-d688-46cb-b20c-407679108840" playOrder="33">
+      <navLabel>
+        <text>8 - Lundi</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-68"/>
+    </navPoint>
+    <navPoint id="u7f9ee39c-7286-4d94-8821-e0566f470d64" playOrder="34">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="uef775525-5299-4a41-ac2b-11e1bc3d75f6" playOrder="35">
+      <navLabel>
+        <text>12 - Mardi</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-72"/>
+    </navPoint>
+    <navPoint id="uecb7554e-02ae-47c4-9cf9-38f814f59b08" playOrder="36">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-75"/>
+    </navPoint>
+    <navPoint id="u3890f53d-694e-4192-b3c4-35b152b86b70" playOrder="37">
+      <navLabel>
+        <text>Huit mois plus tard</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-76"/>
+    </navPoint>
+    <navPoint id="u796c9400-88b0-4ee0-beb2-9d22aaf222f8" playOrder="38">
+      <navLabel>
+        <text>Remerciements</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-77"/>
+    </navPoint>
+    <navPoint id="u89826a7b-38ea-4f9d-9ef0-27d38b785f63" playOrder="6">
+      <navLabel>
+        <text>▲ Retour au texte</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-78"/>
+    </navPoint>
+  </navMap>
+</ncx>

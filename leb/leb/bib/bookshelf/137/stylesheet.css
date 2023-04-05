@@ -1,0 +1,38 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre4 {
+    font-size: 0.77778em
+    }
+.calibre5 {
+    height: auto;
+    width: auto
+    }
+.sgc {
+    font-style: italic
+    }
+.sgc1 {
+    font-weight: bold
+    }
+.sgc2 {
+    display: block;
+    font-style: italic;
+    margin: 1em 0
+    }
