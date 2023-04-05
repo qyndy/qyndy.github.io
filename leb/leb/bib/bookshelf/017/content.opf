@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Anaispsyc - TAZ</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.600000381469727px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 241); display: inline !important; float: none;"&gt;"Thérèse disait qu'elle se compromettait follement. Je n'ai pas coutume de m'occuper de l'opinion des autres, répondait Emma. La mienne me suffit. Et je trouve plus honorable d'être au ban de la société qu'en ses trônes d'honneur." C. H. Elles vivaient d'espoir est un roman qui raconte l'émancipation de deux femmes, Emma et Thérèse. Elles tentent de construire ensemble, dans les années trente, une vie à la fois amoureuse et engagée, parallèlement à la montée des utopies et du nazisme. Un homme et la guerre vont les séparer. Leur histoire personnelle rejoint alors la grande Histoire et l'horrible beauté des tragédies.&lt;/span&gt;&lt;br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.600000381469727px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 241);"&gt;&lt;br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.600000381469727px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 241);"&gt;&lt;a href="http://www.mediafire.com/?hvtmeilo7affhmy" class="bbc_link" target="_blank" style="outline: none; color: rgb(83, 131, 148); text-decoration: initial; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.600000381469727px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 241);"&gt;http://www.mediafire.com/?hvtmeilo7affhmy&lt;/a&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Hunzinger, Claudie" opf:role="aut">Hunzinger, Claudie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:01:59.433000+00:00"/>
+    <dc:title>Elles vivaient d'espoir</dc:title>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e54c4b1b-8de6-4f1d-a2c7-3452cfd6d28b</dc:identifier>
+    <dc:subject>2015-12-04T15:03:29.549000+01:00</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

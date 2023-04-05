@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="fe22257f-e008-4df3-9aed-23c054ffa6ec" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Trois jours avec elle</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u585a5dc2-01c0-403f-9a60-0b28c0d05440" playOrder="1">
+      <navLabel>
+        <text>Trois jours avec elle</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u0062c2a6-2754-4874-951a-3614bb76bfc5" playOrder="2">
+      <navLabel>
+        <text>Caroline Ellen</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u8a9695cc-fa91-4979-ba8d-43dc440ae5f4" playOrder="3">
+      <navLabel>
+        <text>Chapitre 1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u4c4fa957-d925-4abd-b048-d03eb709586b" playOrder="4">
+      <navLabel>
+        <text>Chapitre 2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u7b1d4699-fee0-4dc9-b24f-506dc33b147d" playOrder="5">
+      <navLabel>
+        <text>Chapitre 3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u7cf1f90f-3465-485f-b142-51c005f59b66" playOrder="6">
+      <navLabel>
+        <text>Chapitre 4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uae7ed290-dadd-474a-81d5-14ded89ed434" playOrder="7">
+      <navLabel>
+        <text>Chapitre 5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="ucaa16629-c834-4995-98a5-3016d55a28c6" playOrder="8">
+      <navLabel>
+        <text>Chapitre 6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u15b3b623-dfe0-472d-b028-2add04561bdf" playOrder="9">
+      <navLabel>
+        <text>Chapitre 7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="uf5371416-8ee0-4c28-968b-12be63e8c176" playOrder="10">
+      <navLabel>
+        <text>Chapitre 8</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u250ac5a3-5612-4471-87d8-73e836bb9f34" playOrder="11">
+      <navLabel>
+        <text>Chapitre 9</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="ud2a5fd88-53d7-4702-9c00-fc02b196180f" playOrder="12">
+      <navLabel>
+        <text>Chapitre 10</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u7d984a3c-4f13-40e5-b33f-1e646a3bfc4b" playOrder="13">
+      <navLabel>
+        <text>Chapitre 11</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="uf9624f78-d248-4cdb-9677-5a0cea446ea3" playOrder="14">
+      <navLabel>
+        <text>Chapitre 12</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u082c2fac-3c76-44a5-a26e-ef8b0a94e539" playOrder="15">
+      <navLabel>
+        <text>Chapitre 14</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="u45fb8666-da86-43ac-b437-30e79f7ea04e" playOrder="16">
+      <navLabel>
+        <text>Chapitre 15</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u0b140ca6-25d5-4c25-8f23-53b6de3d2ab3" playOrder="17">
+      <navLabel>
+        <text>Chapitre 16</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="uad9e3d85-1bbf-40f2-84d6-2e90399877c1" playOrder="18">
+      <navLabel>
+        <text>Chapitre 17</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="ud4efe043-b465-4219-b4e3-ff7848a6f148" playOrder="19">
+      <navLabel>
+        <text>Chapitre 18</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u66b6d9d0-8b51-4ddc-9b11-fa710bab5461" playOrder="20">
+      <navLabel>
+        <text>Chapitre 19</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ud0be8169-46a1-4087-84c6-02faf1372fb2" playOrder="21">
+      <navLabel>
+        <text>Chapitre 20</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="u9ad76455-39ac-4a6c-8dcf-5b31f1fcbcb4" playOrder="22">
+      <navLabel>
+        <text>Chapitre 21</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u4c61cb01-d0c6-46e4-ac6d-ea346dc64132" playOrder="23">
+      <navLabel>
+        <text>Chapitre 22</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u6b94308c-7779-40dd-bbd9-70ccb621411b" playOrder="24">
+      <navLabel>
+        <text>Chapitre 23</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="ud4caf0b4-437e-484f-a0f0-e79bd9888da2" playOrder="25">
+      <navLabel>
+        <text>Chapitre 24</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="uc97c32d7-5677-4cc8-a9e8-e15a5149f30e" playOrder="26">
+      <navLabel>
+        <text>Chapitre 25</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="ufe7f38e9-b06b-4547-9c96-cf4f56e2b0d4" playOrder="27">
+      <navLabel>
+        <text>Chapitre 26</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="ud5626222-351c-492c-aa46-9861e0e6e653" playOrder="28">
+      <navLabel>
+        <text>Chapitre 27</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u8399df5e-af3d-4e8f-a6f6-286908b36c12" playOrder="29">
+      <navLabel>
+        <text>Chapitre 28</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u06f8f0c9-96e3-4820-9579-424d7d3ad83f" playOrder="30">
+      <navLabel>
+        <text>Chapitre 29</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="ud7c7d010-6c26-46be-b2a9-5e245c0f54f2" playOrder="31">
+      <navLabel>
+        <text>Chapitre 30</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u546e38e8-622e-47bc-805b-63653df17952" playOrder="32">
+      <navLabel>
+        <text>Chapitre 31</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="ub1d64a4e-4dfd-4d8a-997a-516815999ca9" playOrder="33">
+      <navLabel>
+        <text>Du même auteur</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-40"/>
+    </navPoint>
+    <navPoint id="ufd4af108-44a1-4462-a175-d7ce0d683cb8" playOrder="34">
+      <navLabel>
+        <text>La vie est gay</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="ud0f27375-8e31-4fc2-b75d-945c153759c9" playOrder="35">
+      <navLabel>
+        <text>Comédie italienne</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u939b8d65-2e8e-4ba8-9ad0-bf7eb091f887" playOrder="36">
+      <navLabel>
+        <text>Mémoire d’août</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="uf46a32ce-ad64-4aa2-b79f-c912db05e0b7" playOrder="37">
+      <navLabel>
+        <text>Fragments d’exil</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-44"/>
+    </navPoint>
+    <navPoint id="u6b90b92c-a6d6-4b16-89ac-0f14bfcfd257" playOrder="38">
+      <navLabel>
+        <text>Le dernier chaos</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-45"/>
+    </navPoint>
+  </navMap>
+</ncx>

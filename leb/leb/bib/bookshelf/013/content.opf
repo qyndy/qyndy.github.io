@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM Editions</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;Maintenant installée depuis quelque temps à Los Angeles, où elle a rejoint l'agence d'investigation léguée par son père, Kylie Kendall a bien l'intention de devenir une vraie détective privée et ce, quoiqu'en pense Ariana, sa séduisante associée. L'occasion de mener sa première enquête va finalement se présenter lorsque Alf et Chicka Hartnidge, créateurs de l'émission pour enfants, La Bande à Sydney, viennent la solliciter personnellement afin de découvrir qui importe frauduleusement des opales à l'intérieur des peluches de leurs personnages. Pour ce faire, Kylie va alors devoir démêler l'écheveau dans lequel les deux Australiens se sont empêtrés en s'acoquinant avec un studio de cinéma, faire-valoir d'une église new age. Qui sait, un succès dans cette affaire contribuerait peut-être à attendrir l'inaccessible Ariana ?&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Claire McNab</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:01:44.307000+00:00"/>
+    <dc:title>Le coup du Kookaburra</dc:title>
+    <dc:date>2008-03-09T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c6c5c865-428b-48b0-91ca-73ec8b4a3ded</dc:identifier>
+    <dc:subject>2016-08-03T14:20:35.060000-03:00 JF</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

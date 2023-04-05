@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="5290a096-b05e-4d8b-aed5-1498ef03abd9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Comédie Italienne</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ud5faa2be-5f56-45c0-b84d-a0e9f15bd598" playOrder="1">
+      <navLabel>
+        <text>1. Douce nuit, belle nuit.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u2fa090c8-64a4-40f2-8de2-1e72f8560ada" playOrder="2">
+      <navLabel>
+        <text>2. Tout le monde descend !</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="ue070cf8b-eecf-4247-8340-f3b751b6c463" playOrder="3">
+      <navLabel>
+        <text>3. Fiat lux</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u47f5ddc4-1966-4f24-bc3c-9753ce3e98a6" playOrder="4">
+      <navLabel>
+        <text>4. Full contact</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-5"/>
+    </navPoint>
+  </navMap>
+</ncx>

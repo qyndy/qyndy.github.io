@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;p style="text-align: justify;"&gt;Un prof de menuiserie qui se fait assassiner dans un lycée de la banlieue de Sydney, il n'y a pas de quoi défrayer la chronique des journaux à sensation... Seulement voilà : la victime n'est autre que le fils d'un ancien premier ministre au passé controversé mais à l'influence toujours vivace. De plus, le meurtrier a fait dans l'originalité : il a patiemment foré un trou dans le crâne de sa victime au moyen d'une perceuse électrique. Et ce n'est pas la seule surprise qui attend la très médiatique inspecteur Carol Ashton durant son enquête. L'ambiance qui règne dans l'établissement est rien moins que lourde : lettres de dénonciation, menaces de mort, harcèlements y sont monnaie courante. Et puis, il y a Sybil Quade, trop belle, trop fuyante pour être honnête, et dont Carol s'éprend au premier regard. Mais, peut-on vraiment suspecter quelqu'un dont on est en train de tomber amoureux ? Et peut-on raisonnablement tomber amoureux de quelqu'un qu'on suspecte d'un crime aussi atroce ? Quelque part entre Agatha Christie et « Twin Peaks », Leçons de meurtre est un polar inclassable à l'ambiance étrange et décalée.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Claire McNab</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:01:48.315000+00:00"/>
+    <dc:title>Leçons de meurtre</dc:title>
+    <dc:date>2001-05-04T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dc7751f6-b03d-4de3-8c8c-34da01899916</dc:identifier>
+    <dc:subject>2016-08-02T10:40:44.042000-03:00 JF</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

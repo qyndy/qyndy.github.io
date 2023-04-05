@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>TheBookEdition</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;Début des années 80, assumer son homosexualité quand on sort à peine de l’adolescence, c’est pas une promenade de santé. Plutôt un chemin de croix. Et tous les chemins mènent à Rome. Heureusement, la ville éternelle est pleine de divines surprises !&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Ellen,Caroline</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:06.170000+00:00"/>
+    <dc:title>Comédie Italienne</dc:title>
+    <dc:date>2011-12-03T13:50:22+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5290a096-b05e-4d8b-aed5-1498ef03abd9</dc:identifier>
+    <dc:subject>Roman Lesbien</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

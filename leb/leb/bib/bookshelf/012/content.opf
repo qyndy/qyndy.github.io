@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;div&gt;&lt;p class="description" style="text-align: justify;"&gt;&lt;cite class="italique lang-en" lang="en"&gt;Wombat Strategy&lt;/cite&gt;&lt;/p&gt;&lt;p class="description" style="text-align: justify;"&gt;Lassée de sa petite ville perdue au fin fond de l'Australie, Kylie Kendall décide d'aller voir de l'autre côté du Pacifique, à Los Angeles, ce que son père lui a légué : 51 % de l'agence d'investigation Kendall &amp;amp; Creeling. Sa venue et sa volonté de devenir détective privé contrarient sa nouvelle associée, l'attirante et énigmatique Ariana Creeling. Lorsque le Dr Deer, thérapeute des stars, vient solliciter leurs services afin d'élucider la disparition d'éléments compromettants pour ses richissimes patients, c'est l'occasion de passer à l'action. A Kylie de faire face à ce challenge et de convaincre Ariana que sa place est à ses côtés. Kylie Kendall est le dernier personnage né sous la plume de l'Australienne Claire McNab, qui profite de l'occasion pour jeter un regard moqueur et plein d'humour sur les us et coutumes américains.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Claire McNab</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:01:40.299000+00:00"/>
+    <dc:title>La tactique du Wombat</dc:title>
+    <dc:date>2004-05-28T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3fc9bae4-4a31-4886-8c68-3c8a851641ff</dc:identifier>
+    <dc:subject>2016-08-03T14:20:34.946000-03:00 JF</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
