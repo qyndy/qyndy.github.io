@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="986018e8-bd57-4776-a47d-be1b01525219" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Les Oranges ne sont pas les seuls fruits</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc10ea514-d1bb-4f2f-84a1-541da3def4fc" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u6401d640-9b68-4900-b816-37e8fc87ae18" playOrder="1">
+      <navLabel>
+        <text>Collection</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u6323e609-c90d-43ab-a468-61ed302f89c5" playOrder="3">
+      <navLabel>
+        <text>Dédicace</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u58cc95bf-9712-4584-a038-7bf2adb69b58" playOrder="4">
+      <navLabel>
+        <text>Table des matières</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u13ac6f4f-0261-47b7-b5c5-51eeddf3d8a9" playOrder="5">
+      <navLabel>
+        <text>GENÈSE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u05c22a06-9db4-42a1-a481-165b77602617" playOrder="6">
+      <navLabel>
+        <text>EXODE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u44b5a09a-a24e-4a56-b51a-c2cec41e6e1a" playOrder="7">
+      <navLabel>
+        <text>LÉVITIQUE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u0d92dc53-cdc2-45a0-b3b7-d23eaa0ba2c6" playOrder="8">
+      <navLabel>
+        <text>NOMBRES</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="uc98520b3-f6ab-4146-a7e7-4f9ab644a8c0" playOrder="9">
+      <navLabel>
+        <text>DEUTÉRONOME</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u9559aac3-c7af-4054-813f-48aef4064286" playOrder="10">
+      <navLabel>
+        <text>JOSUÉ</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u48c1defa-45b1-4b81-b16d-190bd28bec6c" playOrder="11">
+      <navLabel>
+        <text>JUGES</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u45028ed5-ab0f-4f4b-90a7-0b03d16459dc" playOrder="12">
+      <navLabel>
+        <text>RUTH</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-19"/>
+    </navPoint>
+  </navMap>
+</ncx>

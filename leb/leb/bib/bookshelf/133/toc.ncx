@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="80f18bf5-3971-40e9-be27-e372000fab32" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vivre !</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub98eb092-c206-4b55-8dda-216882d237de" playOrder="4">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u55a10c24-74ae-4f8b-8887-0ae9fc7b7007" playOrder="5">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u974a1043-a6d4-458c-9081-45cef8b97d24" playOrder="1">
+      <navLabel>
+        <text>←1</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u871abf25-e259-46d5-aa6a-89037aab3c6a" playOrder="2">
+      <navLabel>
+        <text>←2</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u49196d93-f468-4ab7-8b96-f97d3f9b0eb0" playOrder="3">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-1"/>
+    </navPoint>
+  </navMap>
+</ncx>

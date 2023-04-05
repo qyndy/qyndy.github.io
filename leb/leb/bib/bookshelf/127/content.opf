@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Bella Books</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p&gt;Tori Hunter always worked solo, but in Samantha Kennedy she found a partner, in more ways than one. Casey O'Connor isn't thrilled to learn that she has a new partner on the way. It's been hard enough to transition from working with live victims to dead ones. Now Leslie Turner is going to slow down the process. &lt;/p&gt;&lt;p&gt;Professional duty trumps personal issues as the detectives focus on their latest case, a killer whose choice of victim is solitary women. The investigation raises a lot of questions around the killer's means and opportunities. Leslie would be happy if the questions stopped there, but she's also wondering why she'd rather spend time with these women--specifically Casey--than with her fiance.&lt;/p&gt;&lt;p&gt;Casey would also like to stick to business, but as the case intensifies she finds herself also watching Tori and Sam and wondering how they balance their public personas and private passions. Figuring it out is a pointless exercise, she tells herself, because that kind of lightning can't possibly strike twice. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Partners&lt;strong&gt;&lt;em&gt; concludes the series that began with the chart-topping bestseller &lt;/em&gt;&lt;/strong&gt;Hunter's Way&lt;/strong&gt;,&lt;em&gt; and continued with the Lambda Literary and Golden Crown finalist&lt;/em&gt; &lt;strong&gt;In the Name of the Father&lt;/strong&gt;&lt;em&gt; -- with the sizzling intensity that only Gerri Hill can deliver. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Gerri Hill</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:41.269000+00:00"/>
+    <dc:title>Partners</dc:title>
+    <dc:date>2013-09-20T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b0bbf447-ec05-4fd2-a726-769b0c97033a</dc:identifier>
+    <dc:subject>Romance</dc:subject>
+    <dc:subject>Lesbian</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Contemporary</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

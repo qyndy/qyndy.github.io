@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="ee8e0edc-7787-4550-8d9f-bdc4a63b1c1a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Véronique Bréger</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf94f008a-d534-4869-9118-a272a3db4377" playOrder="1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u1aac1dd0-9739-4254-9624-1292ba5625f4" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u4f597386-6b12-4300-b3cb-ed49f3998a3d" playOrder="3">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="u4e79d2bc-06ab-4b27-8dac-b5e21c862ebf" playOrder="4">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="ub3ded75a-2c62-46ee-be16-e36aca0e3364" playOrder="5">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uc773eb7a-e3c0-47b5-bf49-e71e2d00823c" playOrder="6">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="ue5ba7092-46f9-4c64-ba80-a9d0ba4b1186" playOrder="7">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="uec25453d-baa5-4212-b210-5a3b2e695a27" playOrder="8">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="ud266cee2-100b-4fe0-8a8e-81f91e05c797" playOrder="9">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u9cab9d15-0693-4505-8714-8aae6d858cd3" playOrder="10">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uc7024498-6c51-40a3-b2fa-6ec8365a6b5d" playOrder="11">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="uc4a1799f-4a67-40a0-9db0-bfc9eb25a511" playOrder="12">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u49ef4552-cfd0-4c5e-8601-11d84e3e876f" playOrder="13">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u90bc0fdd-86df-43ee-9c13-0bd209384f1e" playOrder="14">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="ucfd42f18-aea5-49cd-92d6-5c7a7ee98897" playOrder="15">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="ubf47f042-ee2a-4337-8bd3-0105408cc406" playOrder="16">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u575483a4-d8d5-441d-9bf0-271c11620d31" playOrder="17">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u9c249dc8-c036-4280-8920-11267547b8a5" playOrder="18">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u3ad5967d-0e85-4bb6-a784-86905feb016d" playOrder="19">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="ub59374f5-ee14-4b3e-86e3-266b29dbbb57" playOrder="20">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u100dafbb-05a3-4b78-b2aa-389b12e5cb5f" playOrder="21">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u47735790-3b6c-4359-a4fc-ea8a30918c52" playOrder="22">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="uc627e3b6-6e9e-4631-898f-d7d4d30d5343" playOrder="23">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u01186f1d-7b6a-4ee3-a84b-f431ccda4e0a" playOrder="24">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="ucb536dc9-929d-40e4-91e8-5c4d9540484d" playOrder="25">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="ubd4ffdba-ccb6-4f70-8003-2c77b72ef4ec" playOrder="26">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="u547509f9-2f28-4592-870f-46aa043fadb0" playOrder="27">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="ua5c79db9-14a1-4a25-8ddf-7c9226002109" playOrder="28">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u107abd65-cac5-4113-8e12-e74b1db30eb3" playOrder="29">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="u8d3df306-5e64-4cd2-96bc-3dc76e5fff1d" playOrder="30">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u6b6598a3-5833-4c42-af37-b0636ae05669" playOrder="31">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="u324b3a55-b944-4a3f-938b-b9e60270a516" playOrder="32">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="ud6ac6d64-66a8-4ba8-afe6-2e2023dfe4ce" playOrder="33">
+      <navLabel>
+        <text>Remerciements</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-36"/>
+    </navPoint>
+  </navMap>
+</ncx>

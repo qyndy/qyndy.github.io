@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="664be9f1-1693-44c5-ae53-cd21007ca49b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Une mort pacifique</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0f17b32d-e2c3-4359-8895-fba9d61bfd6f" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="ubb98c888-4a00-47e4-9916-c5784958a266" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u0e6b1399-daf8-458c-9c51-21d88e17ddfa" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="ub97128d3-4050-47ac-a0b4-fd8104c563ae" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="uad079651-1791-4dd8-b946-06c3783a732a" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u501af912-eb2f-45b1-9f11-ca980b1fd022" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u23b53428-2f20-4cb2-a4ce-f61a552337fc" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u0c531f37-a544-41a7-b7cb-4fede9e9e39a" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u494f946f-440d-4675-909a-0655a3ab25ed" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u898ccc83-0a61-4457-b09f-db74fe749617" playOrder="10">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="u60cf86a7-b062-4512-bb8f-6bc1569352b9" playOrder="11">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ud3d8b214-b27c-43b6-aff5-cee8b03174a7" playOrder="12">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u21f514a0-9474-4a0e-a4f6-a600346cb1fd" playOrder="13">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="ud78070a2-064e-4974-a6f1-013a0d1def58" playOrder="14">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="ufe3f7885-4fe7-41d3-a740-33e8dbd75f49" playOrder="15">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="ua9ff81f2-223c-417c-b779-2ff6095e58c5" playOrder="16">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u8f3ed2c7-d883-4af2-8f1c-40f23e83df4d" playOrder="17">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="u6977808b-2eac-43ab-b5b1-f680ae78b5eb" playOrder="18">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u29b81e2f-9ed9-4a91-b469-50c8f226694a" playOrder="19">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u087cd9a2-048f-4781-a742-0d390fd26d5c" playOrder="20">
+      <navLabel>
+        <text>ÉPILOGUE</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-31"/>
+    </navPoint>
+  </navMap>
+</ncx>

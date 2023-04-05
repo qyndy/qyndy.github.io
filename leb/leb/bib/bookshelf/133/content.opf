@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>LFC Editions</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="text-align: justify;"&gt;C'est l'histoire d'une femme qui part en déroute à cause d'une rupture. Sa meilleure amie décide de l'envoyer passer une semaine en montagne, pour faire de la marche forcée. Nettoyer son organisme et sa tête... Mais qu'adviendra-t-il de son coeur ? Surtout quand la personne qui l'accompagne est un mixte entre Barbie et Lara Croft ?&lt;/p&gt;&lt;p style="text-align: justify;"&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Casey,Lisa F.</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:29:06.448000+00:00"/>
+    <dc:title>Vivre !</dc:title>
+    <dc:date>2015-05-17T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">80f18bf5-3971-40e9-be27-e372000fab32</dc:identifier>
+    <dc:subject>roman lesbien</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>
