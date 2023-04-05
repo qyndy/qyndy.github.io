@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="e99882e4-16a7-4490-9e02-1169f6149b63" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>La fille qui rêvait d'embrasser Bonnie Parker</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u25636a06-bad2-4793-9d6a-027c01250680" playOrder="1">
+      <navLabel>
+        <text>Démarrer</text>
+      </navLabel>
+      <content src="index1.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="45fe98e8-fa75-4da8-9163-8e3b0c11368c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Piste rose</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u704267e1-60c8-4dd0-acc6-d176ff7ae4e5" playOrder="1">
+      <navLabel>
+        <text>Copier/coller un texte, c’est voler son auteur.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u8d357cba-912a-4d2d-bf1d-d46a9dab1ebe" playOrder="2">
+      <navLabel>
+        <text>De la même auteure</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="ud36a7c81-6cf6-42b3-a02f-9d564bc882b7" playOrder="3">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="ua5f2a69c-51c1-4483-b02d-43594d307ce9" playOrder="4">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u3e06df57-7454-4124-90ad-bcb96a6a3284" playOrder="5">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uee806b71-e706-47b7-8e14-6aba3bc2e0c3" playOrder="6">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u3a38a506-afb6-4705-a96c-9300992d1d07" playOrder="7">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ua7714011-93b4-402f-98be-8b747e787c86" playOrder="8">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uc8ac2e81-e72b-4acf-bd87-b973bbf2ccb7" playOrder="9">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u0e35cf58-cc86-4d91-bf87-caadc512e996" playOrder="10">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uf0ace004-6779-4ac2-bbd1-99c8e1f3ac79" playOrder="11">
+      <navLabel>
+        <text>Épilogue</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u44db4a95-f479-4a6c-895f-c023879887bd" playOrder="12">
+      <navLabel>
+        <text>Contre la violence</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-15"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Bella Books, Incorporated</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="MsoNormal" style="text-align: justify;"&gt;Pour Tori Hunter et Sam Kennedy, des vacances loin de la
+ville, c’était comme avoir gagné à la loterie. En rejoignant leurs amies du
+Département de police de Dallas, Casey O’Connor et Leslie Tucker dans un
+camping-car de location, elles se mettent en route pour les montagnes du
+Nouveau-Mexique, et tombent sur une chasse à l'homme.&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;p class="description" style="text-align: justify;"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;&lt;p class="MsoNormal" style="text-align: justify;"&gt;Les agents du FBI, Cameron Ross et Andrea Sullivan pistent
+sur un territoire abandonné, un ex-coéquipier de Cameron des Forces Spéciales
+qui s’est dissimulé profondément dans la forêt, en se lançant dans une folie
+meurtrière. Un otage et le temps qui presse, Cameron accepte à contrecœur
+l'aide extérieure d’une femme qu’elle ne connait pas… ou en qui avoir
+confiance.&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;p class="description" style="text-align: justify;"&gt;A vacation out of the city sounds like just the ticket for Tori Hunter and Sam Kennedy. Joining their Dallas Police Department pals Casey O’Connor and Leslie Tucker in a rented RV, they set out for the New Mexico mountains—and on a collision course with a manhunt.  FBI agents Cameron Ross and Andrea Sullivan are tracking a deadly quarry in desolate territory. An ex-teammate from Cameron’s Special-Ops days is in deep hiding, planning who-knows-what to cap off a killing spree. With a hostage at stake and time running out, Cameron reluctantly agrees to outside help from women she doesn’t know…or trust.  In the crossover that fans have been clamoring for, it’s a heart-pounding race against time that challenges the courage and commitment of the exceptional women from Gerri Hill’s Hunter’s Way and Devil’s Rock Series.   Best-Selling Author Gerri Hill “Superb Story Telling Magic!”&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Hill, Gerri" opf:role="aut">Hill, Gerri</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:24.634000+00:00"/>
+    <dc:title>L'ange de feu (Angel Fire)(2015)</dc:title>
+    <dc:date>2015-01-12T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">360cba31-a94e-4a6d-bcda-ab77ec709044</dc:identifier>
+    <dc:subject>Romance</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Suspense</dc:subject>
+    <dc:subject>Contemporary</dc:subject>
+    <dc:subject>Lesbian</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

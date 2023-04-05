@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="2efeaa7b-bc7c-4ff4-8541-6c0de9d867c5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Le Rempart des Béguines</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0e9b8c98-d2f5-4c01-9905-52fa6ea48ce6" playOrder="16">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uf3741f16-b90b-4334-b14a-90fc657ab081" playOrder="17">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="ub049923e-cd8b-4f15-9853-8c3fcf35f4e3" playOrder="1">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u1f538a1c-3dfe-4a63-8d2c-943b9fbb0975" playOrder="2">
+      <navLabel>
+        <text>Chapitre 1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u95275504-028f-4794-92ee-34eafd1e2f93" playOrder="3">
+      <navLabel>
+        <text>Chapitre 2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="u84287e91-4824-4c0f-b074-1361c8ecafc8" playOrder="4">
+      <navLabel>
+        <text>Chapitre 3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u8a098026-dda9-4eea-8285-9742c899ebe1" playOrder="5">
+      <navLabel>
+        <text>Chapitre 4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="uea362bfa-f1f6-4f04-886c-25a3f34c5cc2" playOrder="6">
+      <navLabel>
+        <text>Chapitre 5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u282c583e-9dbe-4cc9-9fc9-ac8e6f3c55c5" playOrder="7">
+      <navLabel>
+        <text>Chapitre 6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="uaebafeea-60af-4ace-bd0c-478d4cd754bf" playOrder="8">
+      <navLabel>
+        <text>Chapitre 7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u894de00b-cf23-4f64-9ebc-a7134f88ecc4" playOrder="9">
+      <navLabel>
+        <text>Chapitre 8</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u8639c594-2fd4-4669-a26d-606892c2abd7" playOrder="10">
+      <navLabel>
+        <text>Chapitre 9</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u690576fe-8148-4338-9127-da11c406cc7c" playOrder="11">
+      <navLabel>
+        <text>Chapitre 10</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="uf6519a0d-5fe0-4227-9769-79735eeb32e0" playOrder="12">
+      <navLabel>
+        <text>Chapitre 11</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u0b9af97f-19e9-43a3-9364-2b3f94bc5223" playOrder="13">
+      <navLabel>
+        <text>Chapitre 12</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="u94e909df-439c-4892-a4f5-70837aee4889" playOrder="14">
+      <navLabel>
+        <text>Chapitre 13</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u80caaae0-5850-4733-99a2-a506e475deba" playOrder="15">
+      <navLabel>
+        <text>NOTES</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-34"/>
+    </navPoint>
+  </navMap>
+</ncx>

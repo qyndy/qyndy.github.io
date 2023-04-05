@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Le Cherche Midi</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description" style="font-family: georgia;text-indent: 1.2em;text-align: justify;"&gt;
+L'auteur de Beignets de tomates vertes signe l'un de ses romans les plus drôles et les plus émouvants. Elmwood Springs, Missouri. Elner Shimfissle, pétillante octogénaire, dérange un essaim de guêpes en cueillant des figues dans son arbre, se fait piquer et tombe de l'échelle. À l'hôpital, elle est déclarée morte. La nouvelle se propage vite dans la communauté. Tous ou presque évoquent cette femme d'un incroyable optimisme, toujours prête à rendre service. Son décès brutal pousse également ses proches à s'interroger sur le sens de la vie en général, et de la leur en particulier. C'est peut-être Elner elle-même qui, contre toute attente, détient les réponses à leurs questions. Revenue inopinément d'entre les morts, à la grande surprise des médecins et de sa famille, elle rapporte en effet des souvenirs de son bref passage dans l'au-delà. Ceux-ci vont bouleverser l'existence de cette petite ville jusqu'ici bien tranquille. On retrouve dans Nous irons tous au paradis tout le charme de Beignets de tomates vertes : humour, émotion, des personnages plus attachants les uns que les autres et, à travers les petites contrariétés de la vie, un appel au bonheur qui résonnera longtemps après avoir refermé ce livre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Flagg, Fannie" opf:role="aut">Flagg, Fannie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:32.961000+00:00"/>
+    <dc:title>Nous irons tous au paradis</dc:title>
+    <dc:date>2016-10-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4acb2406-caf1-451b-be18-1e923fad788f</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

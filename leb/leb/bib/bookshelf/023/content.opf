@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Gaëlle et Andréa sont mariées depuis quatre ans maintenant. Leur rencontre dans le train pour Paris, un matin, à 6h22 semble aujourd’hui bien loin. Elles vivent dans une belle et grande maison, avec leur fils, Nicolas, âgé de sept ans.  Alors que les deux jeunes femmes souhaitent agrandir la famille, leurs tentatives pour avoir un nouvel enfant restent infructueuses. Découragées après plusieurs échecs, elles décident de s’accorder un peu de répit. Mais entre quiproquos et incompréhensions, les préparatifs pour les fêtes de fin d’année vont s’avérer plus mouvementés que prévu…</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Clémence Albérie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:21.655000+00:00"/>
+    <dc:title>6h22 Un Matin de Noël</dc:title>
+    <dc:date>2015-12-03T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">641cca4f-02b8-4fc4-a11a-6261cb33ba7e</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="4acb2406-caf1-451b-be18-1e923fad788f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nous irons tous au paradis</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4b1e633b-e3a2-43e7-8a77-8b5f48a7961c" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-70"/>
+    </navPoint>
+    <navPoint id="udd8d1371-0e8b-4b7b-ae17-f6dc1d16126b" playOrder="3">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="u6d381534-3141-4d1c-bb6f-0a5b10552660" playOrder="4">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="ub45f3f67-16a3-4c09-900c-5f62d512a1e2" playOrder="1">
+      <navLabel>
+        <text>▲ Retour au texte</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-72"/>
+    </navPoint>
+  </navMap>
+</ncx>

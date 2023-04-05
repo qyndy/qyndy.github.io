@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="641cca4f-02b8-4fc4-a11a-6261cb33ba7e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>6h22 Un Matin de Noël</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc0b00984-fc57-4d39-9af0-ca9e16876748" playOrder="1">
+      <navLabel>
+        <text>Jour 1973 : 8h30</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="udfb97dcb-b141-499b-a579-39748219afa9" playOrder="2">
+      <navLabel>
+        <text>Jour 2001 : 11h35</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u54766bad-b58a-4ad2-8b74-b88af28949bf" playOrder="3">
+      <navLabel>
+        <text>Jour 2006 : 10h50</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u9746cd15-eae4-4d40-877d-9193af1bfe46" playOrder="4">
+      <navLabel>
+        <text>Jour 2006 : Train de 17h15</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uc8977401-7bd6-44f7-a5e0-bacc3b28e93e" playOrder="5">
+      <navLabel>
+        <text>Jour 2006 : 19h</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u7a89b6bf-a339-48e5-bfdd-2123a3563557" playOrder="6">
+      <navLabel>
+        <text>Jour 2007 : Train de 17h15</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u4994af16-706f-43a7-8466-50b55b8fe4ba" playOrder="7">
+      <navLabel>
+        <text>Jour 2008 : 15h52</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u7c3c258b-2093-4a8b-8daa-6b7404cf5eb0" playOrder="8">
+      <navLabel>
+        <text>Jour 2008 : 19h04</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u769107d1-d858-4879-9733-f3b46670af1b" playOrder="9">
+      <navLabel>
+        <text>Jour 2008 : 18h47</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u5dcaa21e-d673-4a54-8f06-2331e2f47e41" playOrder="10">
+      <navLabel>
+        <text>Jour 2008 : 23h07</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u39def69d-ac03-4382-953e-43bd4e42599e" playOrder="11">
+      <navLabel>
+        <text>Jour 2010 : 9h30</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u5ad4a740-cb3d-4c15-a053-b66ec2710406" playOrder="12">
+      <navLabel>
+        <text>Jour 2010 : 16h05</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u6fe503b7-1edc-491f-b0ad-f94dc01a587a" playOrder="13">
+      <navLabel>
+        <text>Jour 2010 : 19h57</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="ubdbb50fe-0baa-41c1-9bf6-fe7a882ce23f" playOrder="14">
+      <navLabel>
+        <text>Jour 2011 : 5h50</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u1402cc24-613e-4c01-9102-a479ff6d1ae9" playOrder="15">
+      <navLabel>
+        <text>Jour 2011 : 6h22</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-22"/>
+    </navPoint>
+  </navMap>
+</ncx>

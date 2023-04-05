@@ -1,0 +1,134 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre10 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre11 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 550px
+    }
+.calibre12 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 521px
+    }
+.calibre13 {
+    height: 379px;
+    vertical-align: baseline;
+    width: 576px
+    }
+.calibre14 {
+    height: 408px;
+    vertical-align: baseline;
+    width: 576px
+    }
+.calibre15 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 560px
+    }
+.calibre16 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 523px
+    }
+.calibre17 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 574px
+    }
+.calibre18 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 522px
+    }
+.calibre19 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 558px
+    }
+.calibre2 {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre20 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 557px
+    }
+.calibre21 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 559px
+    }
+.calibre22 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 519px
+    }
+.calibre23 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 499px
+    }
+.calibre3 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 482px
+    }
+.calibre4 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre5 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 520px
+    }
+.calibre6 {
+    height: 454px;
+    vertical-align: baseline;
+    width: 576px
+    }
+.calibre7 {
+    height: 347px;
+    vertical-align: baseline;
+    width: 576px
+    }
+.calibre8 {
+    height: 706px;
+    vertical-align: baseline;
+    width: 517px
+    }
+.calibre9 {
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }

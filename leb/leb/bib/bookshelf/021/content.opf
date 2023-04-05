@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Cy Jung</dc:publisher>
+    <dc:description>Prenez deux couples lesbiens dont un avec enfant, une célibataire, une monitrice de ski, un kiné militant de l’homosexualité politique, un barman peroxydé, quelques gendarmes et des kilos de tarte à la myrtille, plongez-les dans une station de sports d’hiver sur fond de tempête de neige et d’amours contrariées, secouez… encore… encore… Et vous obtenez Piste rose, le cinquième roman rose de Cy Jung où elle ne se départit ni de son impérissable écriture du désir lesbien, ni de ses engagements, ni de sa volonté de brosser un portrait tendre et caustique de nos amours et modes de vie !</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Cy Jung</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:14.997000+00:00"/>
+    <dc:title>Piste rose</dc:title>
+    <dc:date>2011-01-08T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">45fe98e8-fa75-4da8-9163-8e3b0c11368c</dc:identifier>
+    <dc:subject>roman lesbien</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

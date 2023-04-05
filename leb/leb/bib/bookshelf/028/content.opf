@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Julliard</dc:publisher>
+    <dc:description>&lt;div&gt;
+
+
+
+
+
+
+
+&lt;p class="p1"&gt;Dans une immense maison, Hélène, quinze ans, vit seule avec son père. Celui-ci, trop accaparé par sa liaison avec Tamara, n'a pas le temps de s'occuper de sa fille. Toute la ville parle de cette liaison scandaleuse, mais, loin d'en être gênée, Hélène ressent plutôt une attirance pour la séduisante maîtresse de son père : l'ayant rencontrée, elle ne pourra s'arracher à l'étrange fascination que la belle Tamara exerce sur elle. Dans la maison du Rempart des Béguines, elle vivra, pendant un temps, les plus belles heures de son adolescence.&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;i&gt;Le Rempart des Béguines&lt;/i&gt;, un grand roman devenu un classique et qui révéla en son temps l'immense talent de Françoise Mallet-Joris.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Mallet-Joris, Françoise" opf:role="aut">Mallet-Joris, Françoise</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:46.453000+00:00"/>
+    <dc:title>Le Rempart des Béguines</dc:title>
+    <dc:date>1951-04-15T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2efeaa7b-bc7c-4ff4-8541-6c0de9d867c5</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

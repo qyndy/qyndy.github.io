@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Isabelle Gagnon</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:49.791000+00:00"/>
+    <dc:title>La fille qui rêvait d'embrasser Bonnie Parker</dc:title>
+    <dc:date>2012-11-14T02:25:19+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e99882e4-16a7-4490-9e02-1169f6149b63</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="000004.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="000005.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="000006.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="000007.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="000008.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="000009.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000010.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="000011.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="000012.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="000013.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="000014.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000015.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="000016.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="000017.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="000018.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="000019.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="000020.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="000021.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="000022.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

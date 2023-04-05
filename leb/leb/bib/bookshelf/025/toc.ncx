@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="3c98979d-be2d-4f70-a4b9-3317be1b599f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Je jure de m'éblouir</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8dc12a23-74ca-4fac-a88b-d72da03cc0ca" playOrder="4">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u4b9d4d8e-f5ee-43dd-8291-5909a073e617" playOrder="1">
+      <navLabel>
+        <text>Titre</text>
+      </navLabel>
+      <content src="index1.html"/>
+    </navPoint>
+    <navPoint id="u2b540ba7-b5d1-4d0a-bfe1-907077f3a4a4" playOrder="2">
+      <navLabel>
+        <text>PRÉFACE</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="ub51e065f-5a56-4cb3-b234-e1ec4cfdbf9a" playOrder="3">
+      <navLabel>
+        <text>JOURNAL DE SYLVIE</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+  </navMap>
+</ncx>

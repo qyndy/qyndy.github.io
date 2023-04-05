@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>L'auteur de ce roman s'est suicidée l'été dernier, à l'âge de vingt-huit ans (d'après éditeur, 32 ans apparemment : 1925-1957) , et certes, l'intransigeance, le besoin d'absolu, en même temps que la confusion des valeurs dont témoigne Je jure de m'éblouir, ne sont pas étrangers à cette fin tragique. Ici tout est passion, même le cynisme, tout se passe en profondeur et engage l'être entier. Nous sommes bien dans la direction désinvolte d'une Françoise Sagan, mais avec Éveline Mahyère c'est vraiment du besoin d'aimer qu'il s'agit, ici l'ardeur est ardente et le désespoir vraiment désespéré. Ce roman, qui est donc un premier et un dernier roman, s'impose par une sorte de maîtrise forcenée, une sincérité qui sont d'une âme révoltée et qui n'a pas craint d'aller jusqu'au bout de sa révolte. C'est un livre d'une qualité et d'une gravité exceptionnelles.</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Mahyère, Eveline" opf:role="aut">Mahyère, Eveline</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:02:29.421000+00:00"/>
+    <dc:title>Je jure de m'éblouir</dc:title>
+    <dc:date>1958-03-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3c98979d-be2d-4f70-a4b9-3317be1b599f</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>
