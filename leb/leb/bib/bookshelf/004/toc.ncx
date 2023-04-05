@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="17b9f6b4-a402-40c2-86c6-8d975bafcf82" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>L'air adulte</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u930551a4-0fb8-45ce-ba65-6af5d7136422" playOrder="19">
+      <navLabel>
+        <text>*</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="ua4db0b0b-f427-4646-94ae-89c82bb10033" playOrder="1">
+      <navLabel>
+        <text>Présentation</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u647112d3-5642-4c48-8ec8-7726e41b44d1" playOrder="2">
+      <navLabel>
+        <text>Titre</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="ud2b36f80-f88c-4cb9-b82a-2de09b9b836e" playOrder="3">
+      <navLabel>
+        <text>De la même auteure</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u1f2302fe-039e-4b89-9f8c-7ac3fdf17c3a" playOrder="4">
+      <navLabel>
+        <text>Dédicace</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="uda32dda4-be2e-4a3b-aba5-78a4a3b9beb9" playOrder="5">
+      <navLabel>
+        <text>Exergue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u74d0c5c6-ed7d-4302-99f3-4bc0d0bb7af5" playOrder="6">
+      <navLabel>
+        <text>LUNDI</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ubcdaab15-ba78-485c-9ae9-040579f569a8" playOrder="7">
+      <navLabel>
+        <text>MARDI</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="ue07e996f-1412-48a3-b85c-1484c4ae51df" playOrder="8">
+      <navLabel>
+        <text>MERCREDI</text>
+      </navLabel>
+      <content src="index1_split_004.html"/>
+    </navPoint>
+    <navPoint id="u95ffe9fd-9921-49a8-90ab-ec894307d76a" playOrder="9">
+      <navLabel>
+        <text>JEUDI</text>
+      </navLabel>
+      <content src="index1_split_005.html"/>
+    </navPoint>
+    <navPoint id="u4b751fbc-f251-4474-af7e-623bf6c85ff0" playOrder="10">
+      <navLabel>
+        <text>VENDREDI</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="ud17cea97-c538-45dc-8118-75e1901c7d06" playOrder="11">
+      <navLabel>
+        <text>SAMEDI</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="u51efce60-9073-46e7-9751-0c3881294311" playOrder="12">
+      <navLabel>
+        <text>DIMANCHE</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u2ce6e264-3c63-4aac-81cb-696fb10c1e39" playOrder="13">
+      <navLabel>
+        <text>Remerciements</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="ub6fb59fd-6d16-4b13-b7a5-aadf1984ea17" playOrder="14">
+      <navLabel>
+        <text>Autorisations</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u684b97ba-5c48-4137-a4a0-1fd378c61d52" playOrder="15">
+      <navLabel>
+        <text>Un parfum de cèdre – Ce qu’on en a dit…</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u680b3dd4-faf5-412d-a393-c0cf3b00b8e4" playOrder="16">
+      <navLabel>
+        <text>Le vol du corbeau – Ce qu’on en a dit…</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="uf750a116-dcef-4f9b-ac64-95ea3f4e511d" playOrder="17">
+      <navLabel>
+        <text>Notes sur l’auteure</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u6ed304f1-4505-4b0e-9d1f-5ff79069f2f5" playOrder="18">
+      <navLabel>
+        <text>Note des traducteurs</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-39"/>
+    </navPoint>
+  </navMap>
+</ncx>

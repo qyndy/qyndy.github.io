@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="e96844e3-7433-43d4-8eaa-cabf05e8f978" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Caroline Ellen</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9a222c85-8a73-4c60-9895-3dcb77724c51" playOrder="1">
+      <navLabel>
+        <text>Démarrer</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

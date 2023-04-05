@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>calmann-levy</dc:publisher>
+    <dc:description>&lt;div&gt;"Ma Dame,&lt;br&gt;Laissez-moi vous aimer. Juste avec des mots. Rien que des mots. Plus fort grâce aux mots.&lt;br&gt;Vous êtes mon île, mon salut, ma survie, mon repos.&lt;br&gt;Que
+ ces lignes vous brûlent, vous percent, vous pénètrent dans l'extrême 
+beauté d'une passion dont les corps s'épousent malgré l'absence."&lt;br&gt;&lt;br&gt;Gabrielle,
+ Emilie. Deux femmes que tout sépare. Elles se rencontrent. 
+S'éblouissent. Doivent se quitter. Mais de ce moment éphémère s'est noué
+ un lien insensé qui les pousse à échanger des lettres à n'en plus finir
+ pour abolir l'espace, le temps, l'oubli et la douleur du manque.&lt;br&gt;C'est l'écriture d'une passion nourrie de la passion de l'écriture.&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Brami,Elisabeth</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T15:01:21.944000+00:00"/>
+    <dc:title>Je vous ecris comme je vous aime</dc:title>
+    <dc:date>2006-05-18T10:13:52+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e4b3dc6d-6947-49d5-8db6-d164988dbec4</dc:identifier>
+    <dc:subject>roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>
