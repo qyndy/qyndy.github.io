@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;div&gt;&lt;p align="justify"&gt;Détective dans  la police de Dallas, Tori Hunter n’en a toujours fait qu’à sa tête, obéissant à  son instinct et à ses propres règles.&lt;br&gt;		   Cependant,  sept ans à la Criminelle  et à peu près autant d’équipiers différents ne l’avaient pas préparée à se  retrouver avec pour partenaire Samantha Kennedy, une femme au caractère bien  trempé.&lt;br&gt;		   Une enquête  sur une série de meurtres frappant des femmes liées à un foyer d’accueil pour  jeunes lesbiennes et les péripéties parfois dramatiques de leur quotidien de  policières vont les conduire à se découvrir…&lt;br&gt;Au point que  maintenant leurs rapports sur le plan strictement professionnel ne sera pas le  moindre de leurs défis.&lt;/p&gt;&lt;p align="justify"&gt;Avec &lt;u&gt;Tête  Brûlée&lt;/u&gt;, &lt;a href="personnalite_gerri_hill.html" target="_self"&gt;Gerri Hill&lt;/a&gt; lance sa trilogie policière à succès autour de  l’imprévisible détective Tori Hunter. Un début fracassant.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Hill,Gerri</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:31.441000+00:00"/>
+    <dc:title>Tête brulée (Tori Hunter 1)</dc:title>
+    <dc:date>2012-04-09T11:41:24+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3f1e1b3f-9d99-4891-8599-145384882ef1</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

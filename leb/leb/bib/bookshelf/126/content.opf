@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>DANS L'ENGRENAGE</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; text-align: justify; "&gt;Les détectives de la police de Dallas   Tori Hunter et Samantha Kennedy enquêtent sur l'énigmatique meurtre   d’un prêtre, retrouvé étranglé, complètement nu. Un scandale menace   d’éclater, suscitant l'agitation du clergé. Lorsque l'unique suspect   est assassiné à son tour, l'affaire se complique terriblement. Et   l'arrivée d'une conseillère en communication à poigne, dépêchée   là pour contrôler le discours médiatique des enquêteurs, ne fait   rien pour diminuer les tensions, surtout quand les tentatives de   dissimulation se multiplient. &lt;/div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; text-align: justify; "&gt;Cependant, les détails du meurtre ne   tardent pas à filtrer, ainsi que la vie secrète d’un prêtre très   aimé de ses paroissiens. Déterminées à découvrir la vérité, Tori   Hunter et sa coéquipière dévoilent tour à tour mensonges et   tromperies, malgré la pression de leurs supérieurs qui ne veulent   qu’une chose : classer l’affaire. &lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;em style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;Après &lt;a href="tete_brulee_gerri_hill.html" target="_self"&gt;&lt;u&gt;Tê̂te Brûlée&lt;/u&gt;&lt;/a&gt;,   cette deuxième enquête de Tori Hunter l'entraîne dans de bien   troubles eaux, où même son soutien le plus cher risque de lui faire   défaut.&lt;/em&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Hill,Gerri</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:37.104000+00:00"/>
+    <dc:title>Tête Basse</dc:title>
+    <dc:date>2007-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7ed7e771-fc09-4e31-8757-db36339d6526</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

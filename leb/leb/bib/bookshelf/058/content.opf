@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Flammarion</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;Quatre amis, deux couples, dînent sur une terrasse. Ce soir d’été, Louise, la compagne de Léa, se prépare à partir en reportage dans un pays en guerre. On parle de l’éclipse qui passera bientôt sur la France. Personne n’imagine alors que ce sera la dernière soirée avec Louise. Personne n’imagine alors qu’il faudra affronter le deuil et ses lames de fond, la violence de l’actualité et le revirement des passions.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Kernel, Brigitte" opf:role="aut">Kernel, Brigitte</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:06.294000+00:00"/>
+    <dc:title>Fais-moi oublier</dc:title>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0e4e4e83-a5cb-41f9-a434-3eb1100227a1</dc:identifier>
+    <dc:subject>Mots a la bouche</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

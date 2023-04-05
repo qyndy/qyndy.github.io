@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Editions Dans l'Engrenage</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="padding: 0.6em 0px; margin: 0px; outline: none; list-style: none; border: 0px none; color: rgb(51, 51, 51); font-family: 'Droid Sans', Arial, Verdana, sans-serif; font-size: 13px; line-height: 19.5px; widows: 1; background-color: rgb(255, 255, 255);"&gt;En route vers un long séminaire d’écriture qui se tient dans une petite ville des montagnes du Colorado, Jennifer Kincaid se perd et échappe de justesse à une avalanche, grâce à l’intervention d’une femme mystérieuse qui vit en altitude, dans un chalet isolé.&lt;/p&gt;&lt;p style="text-align: justify; padding: 0.6em 0px; margin: 0px; outline: none; list-style: none; border: 0px none; color: rgb(51, 51, 51); font-family: 'Droid Sans', Arial, Verdana, sans-serif; font-size: 13px; line-height: 19.5px; widows: 1; background-color: rgb(255, 255, 255);"&gt;Bloquée là par la neige, Jen doit cohabiter avec L’ombrageuse Ryan, dont elle vient bouleverser les projets de solitude, loin de son passé et de ses blessures. Petit à petit, au rythme de l’hiver, elles se lient et se rapprochent.&lt;/p&gt;&lt;p style="text-align: justify; padding: 0.6em 0px; margin: 0px; outline: none; list-style: none; border: 0px none; color: rgb(51, 51, 51); font-family: 'Droid Sans', Arial, Verdana, sans-serif; font-size: 13px; line-height: 19.5px; widows: 1; background-color: rgb(255, 255, 255);"&gt;Lorsque vient le temps de retourner à sa vie en ville, à Santa Fe, et de retrouver son fiancé, l’incertitude et le trouble s’emparent de Jen. Elle ne tarde pas à se languir de celle dont elle a partagé l’intimité, mais dont elle ne connaît que le prénom…&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Hill, Gerri" opf:role="aut">Hill, Gerri</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:27.526000+00:00"/>
+    <dc:title>Sous la neige</dc:title>
+    <dc:date>2014-12-14T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">be91554d-943c-4fe7-b188-d273194a34c8</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

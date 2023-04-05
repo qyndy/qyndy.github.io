@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Editions Flammarion</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div&gt;"La suivre est un exercice délicat mais jouissif, du muscle et du temps, voilà ce qu'il faut, respiration souple, sens de l'observation, je m'offre à fond et je l'aurai. Elle ne m'échappera pas, ne quittera pas mon esprit, je lui interdit."&lt;/div&gt;&lt;div&gt;Dans les couloirs du métro, dans la rue, derrière des lunettes sombres ou les pages froissées d'un journal, une femme suit une autre femme. S'agit-il de sa rivale, de sa psy, de son amante? Comme un oiseau de proie, elle avance dans l'ombre de ses pas. Jusqu'où la mènera cette traque haletante et mystérieuse?&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Kernel, Brigitte" opf:role="aut">Kernel, Brigitte</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:09.976000+00:00"/>
+    <dc:title>Tout sur elle</dc:title>
+    <dc:date>2012-01-24T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">deb50245-b1f6-46da-9574-8e38efd21f66</dc:identifier>
+    <dc:subject>Mots a la bouche</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

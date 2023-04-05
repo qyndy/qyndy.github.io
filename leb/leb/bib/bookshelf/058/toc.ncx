@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="0e4e4e83-a5cb-41f9-a434-3eb1100227a1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fais-moi oublier</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8efba4ff-66d4-423e-a75c-7a9a62062fa4" playOrder="1">
+      <navLabel>
+        <text>Identité</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="uf35eaf43-4a52-47d8-9d86-dcacf7041b71" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u83583a39-e531-4862-9c6d-23cf8347be77" playOrder="3">
+      <navLabel>
+        <text>Couverture</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u59904325-4f25-46f6-9b57-b11112c7e0d5" playOrder="4">
+      <navLabel>
+        <text>Du même auteur</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u7ebd15df-b0b1-423f-a7f3-07c8197ee078" playOrder="5">
+      <navLabel>
+        <text>À J et M.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u395875b0-84a0-40f5-8ce8-e09db15c70f7" playOrder="6">
+      <navLabel>
+        <text>« Les curés, tant des villes</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="ufcd62032-1e43-4315-bff4-642885d852b1" playOrder="7">
+      <navLabel>
+        <text>PREMIER TEMPS - Léa, Louise et nous</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-40"/>
+    </navPoint>
+    <navPoint id="ua14a15dd-7f91-4ebe-b3d7-9b5db8ef3399" playOrder="8">
+      <navLabel>
+        <text>Chapitre 1.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="u384e3840-3227-4134-b475-5fb9a9ed22bd" playOrder="9">
+      <navLabel>
+        <text>Chapitre 2.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u489fd56e-2599-4dff-aaac-ff9b6fd5ce98" playOrder="10">
+      <navLabel>
+        <text>Chapitre 3.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="u2f1a2b33-d5a2-473f-90d6-3aa60c02b763" playOrder="11">
+      <navLabel>
+        <text>Chapitre 4.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-44"/>
+    </navPoint>
+    <navPoint id="u1d6330c0-2cfe-4b40-bb04-f2ce45ceb6ac" playOrder="12">
+      <navLabel>
+        <text>Chapitre 5.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-45"/>
+    </navPoint>
+    <navPoint id="u78a4a8a0-24cd-4119-8ced-00a5701ea478" playOrder="13">
+      <navLabel>
+        <text>Chapitre 6.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-46"/>
+    </navPoint>
+    <navPoint id="u63a3ccb0-1dd5-4732-8957-f830444d548a" playOrder="14">
+      <navLabel>
+        <text>Chapitre 7.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="ua32ea038-28d9-4ade-991d-adfb0862c3e7" playOrder="15">
+      <navLabel>
+        <text>SECOND TEMPS - Léa, Olivier et moi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u0caced2d-a10a-4eb0-a0d3-b45c192d461d" playOrder="16">
+      <navLabel>
+        <text>Chapitre 8.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="ud6a33d7e-78bd-4370-92df-aedce13eb8c8" playOrder="17">
+      <navLabel>
+        <text>Chapitre 9.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-57"/>
+    </navPoint>
+    <navPoint id="ub95e88e4-2143-404f-b3cc-13ef704866e4" playOrder="18">
+      <navLabel>
+        <text>Chapitre 10.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-58"/>
+    </navPoint>
+    <navPoint id="u492221ed-a1c5-4790-a2c1-1cbd6d6af998" playOrder="19">
+      <navLabel>
+        <text>Chapitre 11.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-59"/>
+    </navPoint>
+    <navPoint id="u5b2de1b6-5eb4-49ce-bf70-01c7da038f45" playOrder="20">
+      <navLabel>
+        <text>Chapitre 12.</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u80e1908f-5509-4622-8082-db3633c728aa" playOrder="21">
+      <navLabel>
+        <text>Chapitre 13.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-61"/>
+    </navPoint>
+    <navPoint id="u8cded02b-a1a1-4514-9917-200beeb5d92a" playOrder="22">
+      <navLabel>
+        <text>Chapitre 14.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-62"/>
+    </navPoint>
+    <navPoint id="u2475532d-dce2-495b-9818-5cae635d0c7f" playOrder="23">
+      <navLabel>
+        <text>Chapitre 15.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-63"/>
+    </navPoint>
+    <navPoint id="uf04f17e0-c1e3-41ea-969b-1cdece0805de" playOrder="24">
+      <navLabel>
+        <text>Chapitre 16.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-64"/>
+    </navPoint>
+    <navPoint id="uea63574a-bbb4-490c-8f8c-319fe5646b30" playOrder="25">
+      <navLabel>
+        <text>Chapitre 17.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-65"/>
+    </navPoint>
+    <navPoint id="u7a9f2147-326b-4492-a664-b0586b5e93e7" playOrder="26">
+      <navLabel>
+        <text>Chapitre 18.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="u182b503a-7111-4e4e-b7dc-f155ef46e1e0" playOrder="27">
+      <navLabel>
+        <text>TROISIÈME TEMPS - Léa et moi</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="u140d6c67-d369-4dde-9e1b-e7c2bd81a05f" playOrder="28">
+      <navLabel>
+        <text>Pendant les deux années durant</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-84"/>
+    </navPoint>
+    <navPoint id="u60d06903-bc6f-419b-a158-d3826cdb4249" playOrder="29">
+      <navLabel>
+        <text>Je ne me souvenais plus</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-85"/>
+    </navPoint>
+  </navMap>
+</ncx>

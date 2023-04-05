@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;p&gt;Livermore Falls, petite ville du Maine d'environ 1700 habitants. Kristen Adams, adolescente de 19 ans va bientôt mourir des mains de Faith Ryan, belle jeune femme aux traits insolents et à l'allure charismatique qui capture son attention au premier regard. Ce que Kristen ignore : Faith est née en l'an 936 dans le comté de Northumbrie en Angleterre. Ce qu'elle va devenir : Elle ne le sait pas encore, mais elle a été choisie et son dernier soupir rendu dans le Maine la conduira à New York où elle découvrira qui elle est, ou plutôt, qui elle a toujours été.&lt;br&gt;Le premier roman fantasy écrit par Kyrian et Jamie entre Dublin, Boston, Livermore Falls et Paris. Un livre qui revisite le mythe du vampire de ses origines jusqu'à nos jours.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Malone, Kyrian" opf:role="aut">Malone, Kyrian</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T14:28:13.252000+00:00"/>
+    <dc:title>De guerre, d'Amour et de Sang V1</dc:title>
+    <dc:date>2013-06-11T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2712da2a-1b17-430d-adfe-841f345a3e43</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

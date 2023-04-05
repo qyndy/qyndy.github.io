@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="2712da2a-1b17-430d-adfe-841f345a3e43" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>De guerre, d'Amour et de Sang V1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u220a6eb5-f734-46c6-bb2c-ca76b3535f5d" playOrder="15">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u592ebc21-9b6a-4c29-8112-08ba5c144a5c" playOrder="16">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="ucb5b0e5e-70e3-4fa7-8b03-cf513e125773" playOrder="17">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u1b539da9-87a4-45fb-a0ad-7f64b5606c8f" playOrder="18">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="u96eb5a9b-baaf-4bd7-99a1-dfc0d239fe71" playOrder="19">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="ua8990ff8-61b0-44d9-bc4a-b7956e518786" playOrder="1">
+      <navLabel>
+        <text>Chapitre 1 : Le feu</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u5efbbcbc-cdd9-4ad0-a327-e105fecd3cc3" playOrder="2">
+      <navLabel>
+        <text>Chapitre 2 : Le sang</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u7c40a8f6-4f3b-4387-87ed-bf1d32fe01ce" playOrder="3">
+      <navLabel>
+        <text>Chapitre 3 : Le monde des morts</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u09c798dd-f627-4547-af36-c0bc8621e3cf" playOrder="4">
+      <navLabel>
+        <text>Chapitre 4 : L’instinct</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u0556d704-d8b9-4e0a-b9d2-5e50ebe752e8" playOrder="5">
+      <navLabel>
+        <text>Chapitre 5 : Les règles</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u06e9e68f-d813-416c-9c05-151b2b71f32c" playOrder="6">
+      <navLabel>
+        <text>Chapitre 6 : Repas de famille</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u23a85088-bb5e-4c4b-8767-d1fcca10210d" playOrder="7">
+      <navLabel>
+        <text>Chapitre 7 : Le lien</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="ud2d1bf38-8ab7-45dd-b96f-9bed3d3e6d5f" playOrder="8">
+      <navLabel>
+        <text>Chapitre 8 : Le Sacre</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u3cd2aa5c-d02e-4fea-8fd5-efc2a0e88cf2" playOrder="9">
+      <navLabel>
+        <text>Chapitre 9 : Alice</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="uf4f40ec6-de4c-4724-9328-b5769d7478ef" playOrder="10">
+      <navLabel>
+        <text>Chapitre 10 : La genèse</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u783247d7-331c-4ab0-8454-84a7ebe623db" playOrder="11">
+      <navLabel>
+        <text>Chapitre 11 : Cara</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u5997591f-8c79-401c-8d81-ca742b47b689" playOrder="12">
+      <navLabel>
+        <text>Chapitre 12 : Réveil</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="ua9bde714-6fc5-443f-bdc2-3de585b43971" playOrder="13">
+      <navLabel>
+        <text>Chapitre 13 : Sarah</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="ub436db61-a0c1-4d3c-84da-ccd41a8f1741" playOrder="14">
+      <navLabel>
+        <text>Chapitre 14 : De vie ou de mort</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-27"/>
+    </navPoint>
+  </navMap>
+</ncx>

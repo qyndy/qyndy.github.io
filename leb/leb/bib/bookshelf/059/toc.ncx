@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="deb50245-b1f6-46da-9574-8e38efd21f66" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tout sur elle</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf4454aa2-4e20-4250-95fe-668a65f74d68" playOrder="22">
+      <navLabel>
+        <text>Couverture</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u9f1fcd17-16d2-4c18-bdc2-127e7bd0671b" playOrder="1">
+      <navLabel>
+        <text>Titre</text>
+      </navLabel>
+      <content src="index1.html"/>
+    </navPoint>
+    <navPoint id="uc48fcefc-f617-42e0-a203-713f19b0fcc5" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u673a7e86-1f61-4c70-a3d9-8d76ec5c8a2e" playOrder="3">
+      <navLabel>
+        <text>Table des matières</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u6481479d-f7dd-4074-947c-ebe1f8739bc8" playOrder="4">
+      <navLabel>
+        <text>Première Partie - Où es-tu ?</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u357b5d25-0214-4564-872e-0c4239b52ec6" playOrder="5">
+      <navLabel>
+        <text>Chapitre 1</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="ue76e306c-01ea-4a2a-a857-a03fa77d3474" playOrder="6">
+      <navLabel>
+        <text>Chapitre 2</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u00482c03-5ff7-4c43-8647-df3d27b4fd86" playOrder="7">
+      <navLabel>
+        <text>Chapitre 3</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="ue22b30ff-bb7d-4e68-a564-60e860bf936e" playOrder="8">
+      <navLabel>
+        <text>Chapitre 4</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="u32e584c2-2629-4d66-884f-9cbeefaf132b" playOrder="9">
+      <navLabel>
+        <text>Chapitre 5</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u11244169-beed-4779-8f84-7e65b20aebcb" playOrder="10">
+      <navLabel>
+        <text>Chapitre 6</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="uab65be82-3d38-434f-b26f-22e15149fffb" playOrder="11">
+      <navLabel>
+        <text>Chapitre 7</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u80bb8fe6-38f9-4a44-9238-4a5b4a9e0c05" playOrder="12">
+      <navLabel>
+        <text>Chapitre 8</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u57bcbbf1-e172-4ab9-a632-4fffb4a2aa2a" playOrder="13">
+      <navLabel>
+        <text>Chapitre 9</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u80cfc481-d101-4308-8bf8-c13150c1b402" playOrder="14">
+      <navLabel>
+        <text>Chapitre 10</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="uaf7be6e6-4484-4581-9ab0-f0d06c074398" playOrder="15">
+      <navLabel>
+        <text>Deuxième partie - Cinq mois plus tard</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u2e5a51bb-ccd9-46d4-b8f4-0a6ed0df1023" playOrder="16">
+      <navLabel>
+        <text>Chapitre 11</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="ucc2d8000-de48-495f-b3ce-0d102994d754" playOrder="17">
+      <navLabel>
+        <text>Chapitre 12</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="u97125f09-d4ed-45c8-9f47-d3d12478a844" playOrder="18">
+      <navLabel>
+        <text>Chapitre 13</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-40"/>
+    </navPoint>
+    <navPoint id="ueaf78a62-0bde-4a4a-a5f0-a63e168b24e7" playOrder="19">
+      <navLabel>
+        <text>Chapitre 14</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="u6ec5216b-e598-4546-83d1-a0e65a3c70e4" playOrder="20">
+      <navLabel>
+        <text>Épilogue - Elle savait tout de moi</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u37324e19-8d4f-4dad-9833-8dd25405e570" playOrder="21">
+      <navLabel>
+        <text>Transfert</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-43"/>
+    </navPoint>
+  </navMap>
+</ncx>
