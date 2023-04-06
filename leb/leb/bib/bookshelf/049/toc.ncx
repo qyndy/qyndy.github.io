@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="df9df5d8-a830-4a69-9a38-a413e072c04b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>La belle éprise</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6d8104c5-cf15-4110-97a8-657993b44872" playOrder="20">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="u1c27d857-b80a-4fd3-b23f-8cc25020fdfa" playOrder="21">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="udf44692c-641a-4654-a86f-1a5f246116f2" playOrder="22">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u95bbd280-1253-4559-9678-860500f392f8" playOrder="1">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u53208dcd-2503-4790-b6b4-6a5dd1337d90" playOrder="2">
+      <navLabel>
+        <text>Chapitre 1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uf19fa2f4-c295-4a9a-b9ea-3a5d435ab9f2" playOrder="3">
+      <navLabel>
+        <text>Chapitre 2 Un an auparavant</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="ubdc94965-26a4-41e8-ac4c-8016f133c4dd" playOrder="4">
+      <navLabel>
+        <text>Chapitre 3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u0d987058-5d66-4ecf-97b1-3a5c79f8094e" playOrder="5">
+      <navLabel>
+        <text>Chapitre 4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u675bfc7b-b1d9-4864-93bf-9c7644918cc2" playOrder="6">
+      <navLabel>
+        <text>Chapitre 5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="uf5edf556-a883-4f51-b1f7-99a88ebce815" playOrder="7">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u401f097b-4009-4e3b-9621-0ca3f2bf68ae" playOrder="8">
+      <navLabel>
+        <text>Chapitre 6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u1d557aa6-7b15-4c74-a787-14fc4f9f6164" playOrder="9">
+      <navLabel>
+        <text>Chapitre 7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u471b9b97-8e43-4ca2-9382-00ed3e728ff0" playOrder="10">
+      <navLabel>
+        <text>Chapitre 8</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u476d0f08-0af3-4785-ad87-20cc75f10274" playOrder="11">
+      <navLabel>
+        <text>Chapitre 9</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="udd1e7707-55e7-4e86-a8f6-c8c1c70d3998" playOrder="12">
+      <navLabel>
+        <text>Chapitre 10</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="uca4286fb-dc91-419d-8acf-f97fefde9a07" playOrder="13">
+      <navLabel>
+        <text>Chapitre 11</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="ucb110684-6cc9-4322-b69e-d7baddc8c4fb" playOrder="14">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u99085584-de75-4518-8f3a-babb7471e253" playOrder="15">
+      <navLabel>
+        <text>Chapitre 12</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ua438e1f8-dc70-4cf0-9ab9-0e950e649615" playOrder="16">
+      <navLabel>
+        <text>Chapitre 13</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u8366d197-d588-457b-b1de-c38971168e59" playOrder="17">
+      <navLabel>
+        <text>Chapitre 14</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u6aec588d-a472-460e-b4db-e2d9542a4036" playOrder="18">
+      <navLabel>
+        <text>Chapitre 15</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="ub109a538-bf5b-4e7f-998a-0335e4f1ed0b" playOrder="19">
+      <navLabel>
+        <text>Épilogue</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-28"/>
+    </navPoint>
+  </navMap>
+</ncx>
