@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;div&gt;&lt;p style="margin: 0cm 0cm 0pt; text-indent: 35.4pt; text-align: justify;"&gt;&lt;span style="font-family: times new roman,times;"&gt;&lt;span style="font-size: 12pt;"&gt;Comment grandir dans la conscience de sa différence et de son isolement dans l’Algérie des années 70 ? &lt;b style="mso-bidi-font-weight: normal;"&gt;Nina Bouraoui&lt;/b&gt; trouve une
+    réponse à cette question dans le partage de cette scission de l’intime avec un ami, Amine, auquel le roman &lt;em&gt;Garçon&lt;/em&gt; &lt;em&gt;manqué&lt;/em&gt;
+ (2000) est entièrement adressé. Cette longue déclaration
+    narrative à la première personne est une nouvelle occasion pour 
+l’auteur de revenir sur la difficile question de l’identité algérienne 
+et, par le choix d’un style saccadé et révolté, exorcise la
+    violence subie en tant qu’étrangère.&lt;/span&gt;&lt;/span&gt;
+  &lt;/p&gt;
+  &lt;p style="margin: 0cm 0cm 0pt; text-indent: 35.4pt; text-align: justify;"&gt;
+    &lt;span style="font-family: times new roman,times;"&gt;&lt;span style="font-size: 12pt;"&gt;De
+ cette enfance entre l’Algérie et la France ne demeure que la souffrance
+ des incompréhensions au sein et en
+    dehors du cercle familial. L’identité de la petite fille puis de la 
+jeune femme se présente comme le long apprentissage de l’étrangeté et 
+son acceptation. Une nouvelle fois l’écriture de &lt;b&gt;Nina
+    Bouraoui&lt;/b&gt; se plie et épouse les contours de la révolte ;  la 
+force de son écriture puise au cœur des contradictions 
+franco-algériennes et en fait ressortir la beauté et la
+    souffrance.    &lt;/span&gt;&lt;/span&gt;
+  &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Nina Bouraoui</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:25.440000+00:00"/>
+    <dc:title>Garcon Manque</dc:title>
+    <dc:date>2000-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">99d997c6-7bbd-48a8-8412-f6d7000d4678</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

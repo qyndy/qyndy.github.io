@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;p&gt;his 1926 novel opens circa 1890 and introduces the hero Gian-Luca, a 
+solemn faced little boy with blond hair. His mother had died in 
+childbirth having him, and because of this his grandmother has rejected 
+him as the cause of her daughter’s death. He grows up in Soho, London, 
+lonely and socially isolated, burdened with the stigma of illegitimacy, 
+and not knowing which community he belongs to, as he is half Italian. 
+Despite this inauspicious start, he works his way up to become a waiter 
+at the prestigious restaurant The Doric, He marries a motherly girl 
+named Maddalena, and serves in the armed forces in the 1914-1918 war. On
+ his return, his behaviour starts to show signs of mental ill-health and
+ he is ordered by his employer to take a family holiday in Italy to 
+recover. However, dramatic disclosures only make matters worse. What 
+follows is a story of pain, suffering and ultimately redemption.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Radclyffe Hall</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:28.918000+00:00"/>
+    <dc:title>Fils d'Adam</dc:title>
+    <dc:date>2015-07-11T18:05:23+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bedff603-d755-4997-8c06-109e0abf140e</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_005.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_006.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

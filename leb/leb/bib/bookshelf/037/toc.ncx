@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="99d997c6-7bbd-48a8-8412-f6d7000d4678" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Garcon Manque</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua81a4448-6c72-4b3f-a1aa-6b452c671259" playOrder="1">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="u11f54f0e-ff02-4936-afb0-9308bc72ab00" playOrder="2">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u89aa52be-e9f1-465c-ae9f-74f31197ae48" playOrder="3">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u001fdbd7-977b-4a2c-b6c4-f472a677580b" playOrder="4">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u60dd318f-bcd0-41fa-9d16-cd102eaa3012" playOrder="5">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u7a364414-347d-405b-ac3f-996dc948775c" playOrder="6">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-6"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="bedff603-d755-4997-8c06-109e0abf140e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fils d'Adam</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uc4867b7b-5e71-4a54-9d20-3c6b4e7e9a11" playOrder="1">
+      <navLabel>
+        <text>LIVRE I</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="uff0dea5c-d225-4bc9-bb9e-3ab997dee885" playOrder="2">
+      <navLabel>
+        <text>CHAPITRE PREMIER</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u6e8d6831-53fb-4f2d-a91a-017ae8b72de9" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u66ef423a-8968-4cb8-a279-a1f721a460f6" playOrder="4">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="uf2f146ff-a09a-4cd3-a948-e4e4c5f74cf3" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="u253367c3-0b18-4993-90e2-9c6c29fab4f5" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u49f3be73-d1a6-4a45-ba51-46cf02dd8a32" playOrder="7">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="ue143edc2-0271-485d-9668-adccadb6f8ca" playOrder="8">
+      <navLabel>
+        <text>CHAPITRE II</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="uf3b48280-38d5-4e94-9985-6c3c21434afd" playOrder="9">
+      <navLabel>
+        <text>CHAPITRE III</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="ufdeb4e3f-8eb8-4ca4-8abf-edf3a123ff79" playOrder="10">
+      <navLabel>
+        <text>CHAPITRE IV</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u8248ea72-6693-4ecd-ae93-004fb90a3d7d" playOrder="11">
+      <navLabel>
+        <text>CHAPITRE V</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u36ce7b11-d9b1-41ec-97ca-13109a95e4a4" playOrder="12">
+      <navLabel>
+        <text>CHAPITRE VI</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="u52fa7867-3f2c-4b07-9319-e11492ca1477" playOrder="13">
+      <navLabel>
+        <text>CHAPITRE VII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-57"/>
+    </navPoint>
+    <navPoint id="u1c9347f0-7dec-4f67-a23f-b72688e28938" playOrder="14">
+      <navLabel>
+        <text>CHAPITRE VIII</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ud5964bd5-9434-4cf8-a77b-f978b6b98a25" playOrder="15">
+      <navLabel>
+        <text>CHAPITRE IX</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="u871def2e-74b5-433a-9645-388a448cb5e1" playOrder="16">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-73"/>
+    </navPoint>
+    <navPoint id="ufd391ee9-497f-4f54-ba8a-48b22b602711" playOrder="17">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-74"/>
+    </navPoint>
+    <navPoint id="ue9de2381-af25-4679-88e7-8c45ff74a2bc" playOrder="18">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-75"/>
+    </navPoint>
+    <navPoint id="u8ba74afc-06ff-4920-a880-55303fd71157" playOrder="19">
+      <navLabel>
+        <text>CHAPITRE X</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-76"/>
+    </navPoint>
+    <navPoint id="udf11e69a-42fe-473e-a6af-f598392c89dd" playOrder="20">
+      <navLabel>
+        <text>CHAPITRE XI</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-82"/>
+    </navPoint>
+    <navPoint id="u0db0f20a-aae0-40e8-bbff-3b7716e13ca2" playOrder="21">
+      <navLabel>
+        <text>CHAPITRE XII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-87"/>
+    </navPoint>
+    <navPoint id="u50067151-3081-4718-adb8-710e1c4b0ea5" playOrder="22">
+      <navLabel>
+        <text>CHAPITRE XIII</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ud3f38699-87ae-4e4e-b4a3-fc713938713f" playOrder="23">
+      <navLabel>
+        <text>LIVRE II</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-101"/>
+    </navPoint>
+    <navPoint id="u8cf25374-ecff-4568-8dc1-ff36d8f6f2b4" playOrder="24">
+      <navLabel>
+        <text>CHAPITRE II</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-106"/>
+    </navPoint>
+    <navPoint id="u8e461fd6-8fa1-416c-8fbc-7dd0da827585" playOrder="25">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-141"/>
+    </navPoint>
+    <navPoint id="ue41faa5a-47f0-496a-852f-9969f7f1d965" playOrder="26">
+      <navLabel>
+        <text>LIVRE III</text>
+      </navLabel>
+      <content src="index1_split_004.html"/>
+    </navPoint>
+    <navPoint id="uda9277db-61ee-425a-8ac4-d58817b2507b" playOrder="27">
+      <navLabel>
+        <text>ÉPILOGUE</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-223"/>
+    </navPoint>
+  </navMap>
+</ncx>
