@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Gallimard</dc:publisher>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Leduc,Violette</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:54:40.843000+00:00"/>
+    <dc:title>Thérèse et Isabelle</dc:title>
+    <dc:date>2012-03-14T13:13:14+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f916e74d-5268-4ae9-94a6-19329ed02931</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

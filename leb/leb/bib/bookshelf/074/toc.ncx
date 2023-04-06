@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="f916e74d-5268-4ae9-94a6-19329ed02931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Thérèse et Isabelle</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u17d2baed-3674-43e5-a0b7-8783ec62f8d4" playOrder="5">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="ua0cb9699-5163-4fe4-b0a8-96f99ca47e64" playOrder="6">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u0f5a3283-0375-431b-8a24-a43bf22c7c1d" playOrder="7">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u23b6e6ca-8ec8-493f-a8ef-99c6186dd8b6" playOrder="8">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="ufc4095d8-1934-4015-8187-9d42b300751a" playOrder="9">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="u611f40de-945b-4e15-856d-166b27c638e0" playOrder="10">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="ue2ba1f7a-9c24-419d-898b-f7cf353c3257" playOrder="11">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="ufd023433-9236-42e5-9551-9ddc2af7d20c" playOrder="12">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u4d4033c2-dfac-4cc7-b8e7-c23a75b994d7" playOrder="13">
+      <navLabel>
+        <text>[9]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u9fccac16-db7c-4088-93dd-18d565071b93" playOrder="14">
+      <navLabel>
+        <text>[10]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="udfab07de-9e99-4731-84f1-76e233b3038f" playOrder="15">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="uda07bedd-2663-4a8a-b28a-22c7ae34068a" playOrder="16">
+      <navLabel>
+        <text>[12]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="ua8f8cffd-4d93-477a-a337-11b092371847" playOrder="17">
+      <navLabel>
+        <text>[13]</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="ue6cbfb84-b47a-46de-a017-484482db3d28" playOrder="1">
+      <navLabel>
+        <text>Page titre</text>
+      </navLabel>
+      <content src="index1.html"/>
+    </navPoint>
+    <navPoint id="u7904e134-fefa-4c09-ad6e-d249ef5f5f45" playOrder="2">
+      <navLabel>
+        <text>Dédicace</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u8076be56-4896-4554-9b17-caad9604f5b5" playOrder="3">
+      <navLabel>
+        <text>Thérèse et Isabelle</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="ub1bd2e2e-1e5a-4e7a-bb99-4778c7f789d2" playOrder="4">
+      <navLabel>
+        <text>Postface</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-28"/>
+    </navPoint>
+  </navMap>
+</ncx>

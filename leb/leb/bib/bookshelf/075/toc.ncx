@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="2f6b9800-517a-42cf-bf64-bc6c002d7f40" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>L'élégance Du Hérisson</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uebe0dea7-7dbc-4532-a86e-e173701e35b7" playOrder="1">
+      <navLabel>
+        <text>Marx</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u04bf7dc3-99ad-4ffa-a766-89e2ac58e7fa" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u29aa664f-21b3-47b8-99d4-4b2d47339e5b" playOrder="3">
+      <navLabel>
+        <text>Qui sème le désir</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u1ec84379-9262-4d62-906f-d24a0d2f674b" playOrder="4">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u4d4fe534-f7ff-4580-87f8-5cc0df769a12" playOrder="5">
+      <navLabel>
+        <text>Les miracles de l'Art</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="ufaf71af0-f88b-44df-bb37-9ca6e350ee79" playOrder="6">
+      <navLabel>
+        <text>Camélias</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u3333e134-fd22-4ead-96b7-426b6cf48c73" playOrder="7">
+      <navLabel>
+        <text>Une aristocrate</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="ubdff122d-3ddb-46c4-881f-c1cefb36744a" playOrder="8">
+      <navLabel>
+        <text>De guerres et de colonies</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u2b71dce5-420d-4360-9cea-8c027a3e9c6a" playOrder="9">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u0730bda8-674a-45e1-a05b-bef0c2a345b1" playOrder="10">
+      <navLabel>
+        <text>Le caniche comme totem</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="ud37ef208-afd5-425d-8510-d33169439b61" playOrder="11">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u13f4584f-5b14-4f6e-8904-c19cf51b397f" playOrder="12">
+      <navLabel>
+        <text>Refusant le combat</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u67c0db1d-7162-4dcb-8397-6a54dc040880" playOrder="13">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="ubbdfab49-f2cf-4c1a-a3b2-86d82e4589dd" playOrder="14">
+      <navLabel>
+        <text>Triste condition</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u1014aab7-625c-4b04-9f06-efbb280f30e7" playOrder="15">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u579f9083-148b-4beb-a9c2-bb8841635d5c" playOrder="16">
+      <navLabel>
+        <text>Robes de bure</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u341a8dc4-4cba-456d-8005-66fbfe28aac4" playOrder="17">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="ue01c27d1-dbf8-4436-8009-4c24aed6e8d8" playOrder="18">
+      <navLabel>
+        <text>Dans le Sud confédéré</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="uda181dbd-c155-4870-b8c5-1bf8c32b449c" playOrder="19">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="u6d554128-4525-48a2-8043-3b1dbe62ca38" playOrder="20">
+      <navLabel>
+        <text>Prophète des élites modernes</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u55c1adc6-f73f-4eac-a89a-74094381df7e" playOrder="21">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u8db5e4ab-e161-4ea2-a868-b115721f4333" playOrder="22">
+      <navLabel>
+        <text>Octobre rouge</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u0c005594-8b02-4fa2-ba18-66b97718977d" playOrder="23">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u11ec0f95-c7d1-4bbe-bea2-970a233032a7" playOrder="24">
+      <navLabel>
+        <text>Un chat nommé Grévisse</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="u9a2dd741-bcbc-4ff1-b12c-c8274eace74a" playOrder="25">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-40"/>
+    </navPoint>
+    <navPoint id="uc0778d6f-27d3-472d-8a01-df0fa71e5616" playOrder="26">
+      <navLabel>
+        <text>Désolation des révoltes mongoles</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="u9a35966d-e2eb-49b4-8905-0d316211b496" playOrder="27">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="uf75f4f6f-e3c1-4731-9508-d417a239babb" playOrder="28">
+      <navLabel>
+        <text>Comédie fantôme</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="u1cb24091-147c-46f3-97bf-a0d82e40cd33" playOrder="29">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-44"/>
+    </navPoint>
+    <navPoint id="ub677e573-b188-4b61-9c9c-4632f8d4ce5d" playOrder="30">
+      <navLabel>
+        <text>Eternité</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-45"/>
+    </navPoint>
+    <navPoint id="u5176ec92-1894-41d1-b3b8-29836b7e4945" playOrder="31">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-46"/>
+    </navPoint>
+    <navPoint id="uc91682c1-2881-47eb-9e8a-56b1ac89b50d" playOrder="32">
+      <navLabel>
+        <text>Alors, l'ancien Japon</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="uc3a31593-0907-403f-8be0-c186f17aed48" playOrder="33">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u28279f18-a4bf-480b-a8a7-3160cf2005c7" playOrder="34">
+      <navLabel>
+        <text>Devoir des riches</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-49"/>
+    </navPoint>
+    <navPoint id="u1699fa9d-d14c-40ed-8ce8-092ed35b4f20" playOrder="35">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-50"/>
+    </navPoint>
+    <navPoint id="u7ab434fb-e519-4553-a986-a3d5c2e5b61c" playOrder="36">
+      <navLabel>
+        <text>Le spleen de Constitution</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-51"/>
+    </navPoint>
+    <navPoint id="ued4a113b-0c43-474d-bb3b-556c9cccf6d5" playOrder="37">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-52"/>
+    </navPoint>
+    <navPoint id="u9ebd604c-3f95-43f2-bdcd-ac8675b36629" playOrder="38">
+      <navLabel>
+        <text>Un cul de perdrix</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="ub20b2283-cfba-411f-a8f9-dee817ffaae2" playOrder="39">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u86ba169f-b668-4f9b-834a-621740f74f11" playOrder="40">
+      <navLabel>
+        <text>Riabinine</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="ue9452ea8-26d8-4040-b28f-366651fe4637" playOrder="41">
+      <navLabel>
+        <text>De la grammaire</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="u9ec4643e-1203-406d-b38f-0ac832eb0909" playOrder="42">
+      <navLabel>
+        <text>Infinitésimale</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-58"/>
+    </navPoint>
+    <navPoint id="u8cd0aeba-eaab-45f2-88f0-1e6c1995f309" playOrder="43">
+      <navLabel>
+        <text>Dans un moment de grâce</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-60"/>
+    </navPoint>
+    <navPoint id="u6c93733a-1e3c-4c1b-a0c4-8e9e7bdf7f17" playOrder="44">
+      <navLabel>
+        <text>Sous l'écorce</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-62"/>
+    </navPoint>
+    <navPoint id="u12d39254-b993-4026-95c0-f42fec943a77" playOrder="45">
+      <navLabel>
+        <text>Brisure et continuité</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-64"/>
+    </navPoint>
+    <navPoint id="u84541150-7f77-4112-a78b-54aa80c59aca" playOrder="46">
+      <navLabel>
+        <text>Une impression agréable</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="ue12d4292-19e6-4859-b1b3-f329dc4c74a1" playOrder="47">
+      <navLabel>
+        <text>Wabi</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-68"/>
+    </navPoint>
+    <navPoint id="udf0ba038-9cd5-478b-85bd-16c31030f29c" playOrder="48">
+      <navLabel>
+        <text>Pluie d'été</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-69"/>
+    </navPoint>
+    <navPoint id="u82a1794d-6ee4-4bd7-862e-eaddced38ed4" playOrder="49">
+      <navLabel>
+        <text>Clandestine</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="u44c11682-76b4-475b-8e70-e7e91719840d" playOrder="50">
+      <navLabel>
+        <text>La grande œuvre du sens</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-73"/>
+    </navPoint>
+  </navMap>
+</ncx>

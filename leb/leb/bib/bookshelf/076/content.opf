@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Dans un monde où la magie existe sans que le commun des mortels en ait conscience, les sorcières disposent d’importants pouvoirs. Julianne fait partie de ces élues. Ce don, loin d’être une bénédiction, met constamment sa vie en danger. Traquée en permanence, Julianne mène une vie solitaire pour protéger les personnes qu’elle aime. Sara, quant à elle, est une jeune femme tout ce qu’il y a de plus normal. Détective privé à New York, sa petite agence commence à rencontrer le succès. Lorsque le destin réunit Julianne et Sara à nouveau, leur passé commun les rattrape et bouleverse leurs certitudes. Malgré leurs désaccords, elles devront unir leurs forces pour survivre…</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Isabelle B. Price et Edwine Morin</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:54:49.516000+00:00"/>
+    <dc:title>L'Héritage du Pouvoir - Retrouvailles - Tome 1</dc:title>
+    <dc:date>2015-09-14T13:37:48+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8d070a8a-5bb1-4321-9a60-b508dd9194a9</dc:identifier>
+    <dc:subject>ebook lesbien</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000001.jpg" id="added35" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="000004.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="000006.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="000007.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="000008.jpg" id="added34" media-type="image/jpeg"/>
+    <item href="000009.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="000010.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="000011.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="000012.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="000013.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="000014.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000015.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="000016.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="000017.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="000018.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="000019.jpg" id="added32" media-type="image/jpeg"/>
+    <item href="000020.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="000021.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="000022.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="000023.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="000024.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="000025.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="000026.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000027.jpg" id="added36" media-type="image/jpeg"/>
+    <item href="000028.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="000029.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="000030.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="000031.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="000032.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="000033.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="000034.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="000035.jpg" id="added33" media-type="image/jpeg"/>
+    <item href="000036.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

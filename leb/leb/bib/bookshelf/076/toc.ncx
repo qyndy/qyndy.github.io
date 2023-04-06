@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="8d070a8a-5bb1-4321-9a60-b508dd9194a9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>L'Héritage du Pouvoir - Retrouvailles - Tome 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u12a19489-091c-4cc2-92b6-8fea3862eca5" playOrder="1">
+      <navLabel>
+        <text>Préface de l’éditeur</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
