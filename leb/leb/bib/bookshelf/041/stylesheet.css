@@ -1,0 +1,132 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre10 {
+    font-size: 1.28571em
+    }
+.calibre11 {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre12 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre13 {
+    color: #f00
+    }
+.calibre14 {
+    height: 1px;
+    vertical-align: baseline;
+    width: 1px
+    }
+.calibre15 {
+    display: block;
+    margin: 0 0 0 2em
+    }
+.calibre16 {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.calibre17 {
+    color: #c06
+    }
+.calibre18 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre19 {
+    display: block;
+    text-align: justify;
+    text-indent: 3em;
+    margin: 1em 0 0
+    }
+.calibre2 {
+    display: block;
+    text-align: center;
+    text-indent: 3em;
+    margin: 0
+    }
+.calibre20 {
+    display: block;
+    height: 0;
+    border: currentColor none 0;
+    margin: 0
+    }
+.calibre21 {
+    display: block;
+    text-align: center;
+    text-indent: 3em;
+    margin: 1em 0 0
+    }
+.calibre22 {
+    color: #00f
+    }
+.calibre3 {
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    height: 1em;
+    border: currentColor none 0;
+    margin: 0
+    }
+.calibre5 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre6 {
+    display: block;
+    text-align: justify;
+    text-indent: 3em;
+    margin: 0
+    }
+.calibre7 {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre8 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre9 {
+    font-size: 0.77778em
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }
+.underline {
+    text-decoration: underline
+    }

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;A 34 ans, Eaith songe enfin à quitter le nid familial, mais ses parents, fervents catholiques, ne voient pas cela d'un très bon œil. Même avec un emploi honorable, professeur d'histoire à l'université de Chicago, on ne quitte le toit paternel que pour se marier. De son côté, Sydney s'apprête à se présenter aux élections sénatoriales d'Illinois et fait de son mieux pour avoir une conduite irréprochable. La rencontre de ces deux femmes va mettre à mal leur tentative de respectabilité, telle qu'on la leur impose. Mais comme toujours, l'amour finira par triompher.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Kallmaker, Karin" opf:role="aut">Kallmaker, Karin</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:17:08.840000+00:00"/>
+    <dc:title>Libera me</dc:title>
+    <dc:date>2003-08-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">dc232f6e-4320-4a20-a2e2-28bd824375fd</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

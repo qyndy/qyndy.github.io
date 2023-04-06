@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Flammarion</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;Peut-on supporter d'un mari avare et volage qu'il vous empoisonne la vie ? Non : on le tue. Peut-on, lorsqu'on est belle à se damner, supporter de vivre au sein d'une famille de nazillons misérable et malodorante dans les friches de la Lorraine ? Non: on profite de sa beauté pour s'en sortir. Angèle la meurtrière, Annabelle la prostituée de luxe ont dit non. Elles se rencontrent : coup de foudre. Elles disent alors oui, oui à l'amour, la déraison, la passion. Oui, la femme est clairement l'avenir de la femme. Si ce n'est qu'un flic enquête sur le meurtre du mari d'Angèle. Une comédie réjouissante qui mêle fantaisie policière, romance et pornographie débridée.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Héléna Marienské</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:35.470000+00:00"/>
+    <dc:title>Fantaisie-sarabande</dc:title>
+    <dc:date>2013-10-15T03:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">06b5ea99-d11c-432d-8e21-4a91c764c496</dc:identifier>
+    <dc:subject>2016-10-27T13:36:24.079000-03:00 JF</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

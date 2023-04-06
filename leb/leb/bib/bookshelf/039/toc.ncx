@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="06b5ea99-d11c-432d-8e21-4a91c764c496" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Fantaisie-sarabande</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u454db3d1-4848-49a4-ab9d-60b031b7ed0d" playOrder="1">
+      <navLabel>
+        <text>Du même auteur</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="uc0e1c629-9309-4e68-9d81-8cf6de955657" playOrder="2">
+      <navLabel>
+        <text>A.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="u62e1823e-dc34-4f78-ba97-8df48488b9ad" playOrder="3">
+      <navLabel>
+        <text>A. 2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-68"/>
+    </navPoint>
+    <navPoint id="u4d8e60ff-e301-46ef-be62-5ea8247be7ed" playOrder="4">
+      <navLabel>
+        <text>Over</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-69"/>
+    </navPoint>
+    <navPoint id="u3efb1f7f-6f54-424e-9072-8d85f401830a" playOrder="5">
+      <navLabel>
+        <text>Halo</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-70"/>
+    </navPoint>
+    <navPoint id="ubf3d515b-43de-4929-b896-4673be1a399a" playOrder="6">
+      <navLabel>
+        <text>Corpus</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="uce895d1e-55e0-49bc-a3a6-13b8d42956fd" playOrder="7">
+      <navLabel>
+        <text>–10</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-72"/>
+    </navPoint>
+    <navPoint id="u63741524-dc76-407d-9fac-a9f9f78b335f" playOrder="8">
+      <navLabel>
+        <text>Lug</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-73"/>
+    </navPoint>
+    <navPoint id="u82cfce6f-e9a4-4a41-93d3-493acace38ec" playOrder="9">
+      <navLabel>
+        <text>OP. 21</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-74"/>
+    </navPoint>
+    <navPoint id="ue0d10dc9-c35c-436f-a60e-af1ae3a9801e" playOrder="10">
+      <navLabel>
+        <text>Paria</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-75"/>
+    </navPoint>
+    <navPoint id="uf6e18d70-25ab-40d2-bcac-0fc277181f25" playOrder="11">
+      <navLabel>
+        <text>Proko</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-76"/>
+    </navPoint>
+    <navPoint id="u77c0a30d-feaf-48d1-97c0-27661696de8a" playOrder="12">
+      <navLabel>
+        <text>Nez</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-77"/>
+    </navPoint>
+    <navPoint id="u7ace09a5-7be5-4201-a33a-0e1effa46990" playOrder="13">
+      <navLabel>
+        <text>Fred</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-78"/>
+    </navPoint>
+    <navPoint id="ue5e3245d-5f0b-4589-9e5e-85ce8926880e" playOrder="14">
+      <navLabel>
+        <text>CG</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-79"/>
+    </navPoint>
+    <navPoint id="uddfd6537-fd4b-4bcc-aebc-acdb96a86e7b" playOrder="15">
+      <navLabel>
+        <text>USB</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-80"/>
+    </navPoint>
+    <navPoint id="u00a81f35-dae4-44e9-861e-cba9fccba6e8" playOrder="16">
+      <navLabel>
+        <text>Stop</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-81"/>
+    </navPoint>
+    <navPoint id="ubefcd328-9699-4009-958c-b4d11a0d3ca1" playOrder="17">
+      <navLabel>
+        <text>200</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-82"/>
+    </navPoint>
+    <navPoint id="u2803cbdd-a301-4905-aaa9-68136e5c683a" playOrder="18">
+      <navLabel>
+        <text>Splassh</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-83"/>
+    </navPoint>
+    <navPoint id="u290650a8-7716-4ccf-85e8-f83ffaeee1e1" playOrder="19">
+      <navLabel>
+        <text>P.C.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-84"/>
+    </navPoint>
+    <navPoint id="uc48b6c7c-d8eb-48c1-863c-f62314d650a9" playOrder="20">
+      <navLabel>
+        <text>R. V.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-85"/>
+    </navPoint>
+    <navPoint id="ud2d04a97-c2fb-4b38-878e-478baadd29e6" playOrder="21">
+      <navLabel>
+        <text>Chips</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-86"/>
+    </navPoint>
+    <navPoint id="ue6eab73d-245e-4bfa-95d0-e03fe37ad8d0" playOrder="22">
+      <navLabel>
+        <text>Nack</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-87"/>
+    </navPoint>
+    <navPoint id="u632e7b40-a5f9-4e43-9afb-335a6c6b75a1" playOrder="23">
+      <navLabel>
+        <text>Prius</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-88"/>
+    </navPoint>
+    <navPoint id="ua28b5318-6bb8-4e45-809c-6537896c4987" playOrder="24">
+      <navLabel>
+        <text>S. G.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-89"/>
+    </navPoint>
+    <navPoint id="uc212a491-9ad7-4862-bd96-22ae6ae10460" playOrder="25">
+      <navLabel>
+        <text>Siret</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-90"/>
+    </navPoint>
+    <navPoint id="uee511262-52d9-4697-933f-3a86883f98ea" playOrder="26">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-91"/>
+    </navPoint>
+    <navPoint id="u81785481-91e3-4f1d-8903-e19ec52fd3c8" playOrder="27">
+      <navLabel>
+        <text>Ira</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-92"/>
+    </navPoint>
+    <navPoint id="u374dc141-ef2a-4e3d-a729-b79ea054fc1d" playOrder="28">
+      <navLabel>
+        <text>Cash</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-93"/>
+    </navPoint>
+    <navPoint id="u140d345f-29d2-45fc-9993-4b3f0a5f061c" playOrder="29">
+      <navLabel>
+        <text>Art</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-94"/>
+    </navPoint>
+    <navPoint id="u6eb30693-9efb-40b4-9c21-9e3905e0d0c9" playOrder="30">
+      <navLabel>
+        <text>C. B.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-95"/>
+    </navPoint>
+    <navPoint id="u84d6f3bf-7616-4658-afce-ded5a68ca668" playOrder="31">
+      <navLabel>
+        <text>H. P.</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-96"/>
+    </navPoint>
+    <navPoint id="u9c35c02c-2dcb-44e0-aae0-c22f43645f98" playOrder="32">
+      <navLabel>
+        <text>Gang</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-97"/>
+    </navPoint>
+    <navPoint id="u1a3beb78-515e-47d6-aecb-92e2cdc64921" playOrder="33">
+      <navLabel>
+        <text>L.H.O…</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-98"/>
+    </navPoint>
+    <navPoint id="u51882ae2-5b74-4ddd-896a-7ab353796607" playOrder="34">
+      <navLabel>
+        <text>Harakiri</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-99"/>
+    </navPoint>
+    <navPoint id="u0b683474-fde7-421e-a36f-914862536151" playOrder="35">
+      <navLabel>
+        <text>…O.Q. (M. D.)</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="uec397181-7c52-4907-8141-0813637d9660" playOrder="36">
+      <navLabel>
+        <text>Gay4U</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-101"/>
+    </navPoint>
+    <navPoint id="u04898d45-e916-4998-b6dc-e3919c3852fb" playOrder="37">
+      <navLabel>
+        <text>Cut</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-102"/>
+    </navPoint>
+    <navPoint id="u5b3afe90-aaa3-4323-85c9-8e279baf744c" playOrder="38">
+      <navLabel>
+        <text>Ego</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-103"/>
+    </navPoint>
+    <navPoint id="uc464d14a-a494-4516-a871-713d6594fb4d" playOrder="39">
+      <navLabel>
+        <text>Pilar</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-104"/>
+    </navPoint>
+    <navPoint id="u8bdf4e76-4cae-43ca-bfaa-205985972f2f" playOrder="40">
+      <navLabel>
+        <text>3D</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-105"/>
+    </navPoint>
+    <navPoint id="u20cfcd47-cdf0-4e24-b9a2-243d673bf7e4" playOrder="41">
+      <navLabel>
+        <text>Hu</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-106"/>
+    </navPoint>
+    <navPoint id="uc0f3a400-265a-4b1f-b76c-b0a55b500bf6" playOrder="42">
+      <navLabel>
+        <text>A5</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-107"/>
+    </navPoint>
+    <navPoint id="u1bbf7b90-d5ee-4137-8c6a-e9b8d21cbba6" playOrder="43">
+      <navLabel>
+        <text>Nat</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-108"/>
+    </navPoint>
+    <navPoint id="u111df065-4b99-4689-9ad5-3bc261a60532" playOrder="44">
+      <navLabel>
+        <text>3W</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-109"/>
+    </navPoint>
+    <navPoint id="uf1e37ada-5e34-448a-8bb6-1b01998751a0" playOrder="45">
+      <navLabel>
+        <text>S.C.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-110"/>
+    </navPoint>
+    <navPoint id="uc9ce2a34-9246-4256-bbdc-fa33c822e1d2" playOrder="46">
+      <navLabel>
+        <text>Kro</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-111"/>
+    </navPoint>
+    <navPoint id="u2c978bb5-89c0-4459-8641-421bcd33d03b" playOrder="47">
+      <navLabel>
+        <text>ADN</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-112"/>
+    </navPoint>
+    <navPoint id="u3d09f437-5c14-4976-9d86-7f5d12184261" playOrder="48">
+      <navLabel>
+        <text>Ghât</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-113"/>
+    </navPoint>
+    <navPoint id="u402b2f83-fd45-444d-a4e6-b0303c537c4b" playOrder="49">
+      <navLabel>
+        <text>Roc</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-114"/>
+    </navPoint>
+    <navPoint id="u2b15469b-f91c-4ace-96c4-820e5c62a9d2" playOrder="50">
+      <navLabel>
+        <text>R.A.S.</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-115"/>
+    </navPoint>
+  </navMap>
+</ncx>

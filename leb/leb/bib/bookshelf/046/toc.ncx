@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="c6f7238f-cee2-4de6-8183-cffd18e5ac86" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Le prix du sang</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u64dbf0d1-73b8-47b6-84cf-344f4d5fff7a" playOrder="1">
+      <navLabel>
+        <text>Le Prix du Sang</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u2dc35418-f82b-4292-b2e5-f064c600ccfb" playOrder="2">
+      <navLabel>
+        <text>Chapitre un</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="ucc8225bf-927d-43fd-91bd-f96f05fbdef0" playOrder="3">
+      <navLabel>
+        <text>Chapitre deux</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u0c75ceaa-92c6-41a3-bfd2-329c3ea87398" playOrder="4">
+      <navLabel>
+        <text>Chapitre trois</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u77d79817-fe84-4e4b-bc80-ae173444decb" playOrder="5">
+      <navLabel>
+        <text>Chapitre quatre</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="ue6a4899c-e69d-46a8-a6cd-27bd9ab87536" playOrder="6">
+      <navLabel>
+        <text>Chapitre cinq</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u0c42b426-f628-49ad-b62b-1f2acb7c9b54" playOrder="7">
+      <navLabel>
+        <text>Chapitre six</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u2aba9442-2ec6-42cf-8779-c982dff57279" playOrder="8">
+      <navLabel>
+        <text>Chapitre sept</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u0d1f5a6b-6667-41c9-9dfc-ee219c76f4c9" playOrder="9">
+      <navLabel>
+        <text>Chapitre huit</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="uaee08f15-02b2-4d04-a1aa-813499edc760" playOrder="10">
+      <navLabel>
+        <text>Chapitre neuf</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u49134a73-ba52-4711-8bbe-be1d1207bcb4" playOrder="11">
+      <navLabel>
+        <text>Chapitre dix</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="udcd8d553-da19-4844-a371-cdde90e02d10" playOrder="12">
+      <navLabel>
+        <text>Chapitre onze</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u0b36de0c-8d82-4abd-a19d-65134df92cb4" playOrder="13">
+      <navLabel>
+        <text>Chapitre douze</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="u7b5d3c06-1568-4d78-a132-caba7aa2e73a" playOrder="14">
+      <navLabel>
+        <text>Chapitre treize</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="ubd888235-7f01-423b-924c-add9c6820a62" playOrder="15">
+      <navLabel>
+        <text>Chapitre quatorze</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u1ba1c1a0-85f4-4352-bee8-57e285bd3402" playOrder="16">
+      <navLabel>
+        <text>Chapitre quinze</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u46f6b626-e011-4bcb-9672-ea2aa275cf60" playOrder="17">
+      <navLabel>
+        <text>Chapitre seize</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="ud7339a9d-7695-4b68-8d1f-0b60095a10ef" playOrder="18">
+      <navLabel>
+        <text>Chapitre dix-sept</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u1b8eaacf-bda4-4012-892e-a29ec287ffae" playOrder="19">
+      <navLabel>
+        <text>Chapitre dix-huit</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="ubb4b06a6-3490-487e-abbe-156ee574c8de" playOrder="20">
+      <navLabel>
+        <text>Chapitre dix-neuf</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u21f6a04e-7500-4292-be5e-95be43c5e485" playOrder="21">
+      <navLabel>
+        <text>Chapitre vingt</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u18a03143-b2ec-401e-b245-7f6507d41dbb" playOrder="22">
+      <navLabel>
+        <text>Chapitre vingt-et-un</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u969f493b-c99d-4fbc-a8da-1bd1d96bdcad" playOrder="23">
+      <navLabel>
+        <text>Chapitre vingt-deux</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-32"/>
+    </navPoint>
+  </navMap>
+</ncx>

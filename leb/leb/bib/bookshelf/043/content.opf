@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Anaispsyc - TAZ</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;a href="http://www19.zippyshare.com/v/36656306/file.html" class="bbc_link" target="_blank" style="outline: none; color: rgb(83, 131, 148); text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.59375px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 241);"&gt;http://www19.zippyshare.com/v/36656306/file.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Willowra fait partie de l'histoire de Gabrielle. Le grand domaine familial de l'arrière-pays australien a été son royaume avant que son homosexualité ne la pousse à le fuir, laissant derrière elle son frère et ses parents pour se réfugier à Sydney.&lt;/div&gt;&lt;div&gt;Des années plus tard, alors qu'elle vit avec sa compagne Tess, elle se voit obligée d'y retourner. Ce départ coïncide avec les premières difficultés que les deux jeunes femmes rencontrent dans leur couple. &lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Kadyan</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:52.335000+00:00"/>
+    <dc:title>Willowra</dc:title>
+    <dc:date>2013-02-13T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">701cf092-70ae-45bf-8740-0984fb4c45ef</dc:identifier>
+    <dc:subject>Littérature Australienne</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
