@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;Pour Tina, tout était bien programmé : d'abord une situation professionnelle, et accessoirement, une vie sentimentale. Ce qui n'était pas prévu c'est sa rencontre avec Alexandra et leur immédiate attirance. Devant l'inattendu de ses sentiments Tina ne sait comment réagir. Entre le besoin d'afficher son bonheur naissant et celui de ne pas décevoir son entourage, elle est partagée. Aura-t-elle le courage d'affronter le regard des autres ? Vient alors l'heure de la remise en question.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Mallet, Axelle" opf:role="aut">Mallet, Axelle</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:09.266000+00:00"/>
+    <dc:title>Retour de flamme</dc:title>
+    <dc:date>2003-02-14T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3868ef9e-613d-4f1e-a24c-1dbc016a1cef</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="6d98d3de-b589-4e04-96b8-548d3c235ce8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Le puits de solitude</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7acadcb6-2df9-406c-a7b1-452c4d65b2c0" playOrder="47">
+      <navLabel>
+        <text>(1)</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-344"/>
+    </navPoint>
+    <navPoint id="u0a170576-1761-4189-9e55-c5df43503ab7" playOrder="48">
+      <navLabel>
+        <text>(2)</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u1bae1eb5-ed16-491b-88d6-1528f3aa1cea" playOrder="49">
+      <navLabel>
+        <text>(3)</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="ue4cee17c-f80b-45be-88d9-a19e97320667" playOrder="50">
+      <navLabel>
+        <text>(4)</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u65865ccf-e823-4256-b2f5-abea0576b990" playOrder="10">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-335"/>
+    </navPoint>
+    <navPoint id="ud576caf3-5c6b-4910-a01b-81e138414f6e" playOrder="38">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-336"/>
+    </navPoint>
+    <navPoint id="ua7e2d731-159d-4ea5-9993-6867c33130cc" playOrder="43">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-337"/>
+    </navPoint>
+    <navPoint id="u665934da-459c-47a1-a5e9-1387e6cac4b2" playOrder="46">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-338"/>
+    </navPoint>
+    <navPoint id="u937d808b-f48e-4f70-89e5-382562bf5e20" playOrder="1">
+      <navLabel>
+        <text>Livre premier</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="u0b6f3b54-ce77-41bd-86e7-e8c927a33ef9" playOrder="2">
+      <navLabel>
+        <text>CHAPITRE PREMIER</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="ua574dafd-65c3-46bf-942f-3f6539670b9b" playOrder="3">
+      <navLabel>
+        <text>CHAPITRE II</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-60"/>
+    </navPoint>
+    <navPoint id="u4ddb9c2f-3cbe-4a76-86aa-0ae117a8a3be" playOrder="4">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-65"/>
+    </navPoint>
+    <navPoint id="u8883f8b3-c117-4927-a5e8-107354cd00ab" playOrder="5">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="ubb566e6d-8225-43e3-b236-564b9cf30881" playOrder="6">
+      <navLabel>
+        <text>CHAPITRE III</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="uef6ddfd8-402f-4cd1-9b81-d5c1b5b43fe9" playOrder="7">
+      <navLabel>
+        <text>CHAPITRE IV</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-72"/>
+    </navPoint>
+    <navPoint id="ud27f4d34-1688-405e-aa57-7d7949644e07" playOrder="8">
+      <navLabel>
+        <text>CHAPITRE V</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-79"/>
+    </navPoint>
+    <navPoint id="u566824ba-0b82-451c-84b5-dfbbdad874ad" playOrder="9">
+      <navLabel>
+        <text>CHAPITRE VI</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-84"/>
+    </navPoint>
+    <navPoint id="u26210af4-d1d2-41b4-b35f-ba13290e4a5c" playOrder="11">
+      <navLabel>
+        <text>CHAPITRE VII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-90"/>
+    </navPoint>
+    <navPoint id="u0589e38b-f394-41c6-acbf-9b77cfc5626a" playOrder="12">
+      <navLabel>
+        <text>CHAPITRE VIII</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-94"/>
+    </navPoint>
+    <navPoint id="ue1876743-9cf0-4be1-9a98-9d97b299f8fb" playOrder="13">
+      <navLabel>
+        <text>CHAPITRE IX</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-98"/>
+    </navPoint>
+    <navPoint id="u1654bf20-076e-4cf1-93b5-6eb0ce5bf038" playOrder="14">
+      <navLabel>
+        <text>CHAPITRE X</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-103"/>
+    </navPoint>
+    <navPoint id="ufdefb27d-5136-4580-8306-277ce3b25167" playOrder="15">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-104"/>
+    </navPoint>
+    <navPoint id="u7584f38d-f21b-4591-8415-cead9eb7894b" playOrder="16">
+      <navLabel>
+        <text>CHAPITRE XI</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ufad4d0eb-56d9-4e3a-83ae-e5dc5d260539" playOrder="17">
+      <navLabel>
+        <text>CHAPITRE XII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-110"/>
+    </navPoint>
+    <navPoint id="u6c8065f8-519f-403d-86ce-39292bcf8521" playOrder="18">
+      <navLabel>
+        <text>CHAPITRE XIII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-114"/>
+    </navPoint>
+    <navPoint id="ufd36e8fc-c60d-4660-b229-fc418c04acb7" playOrder="19">
+      <navLabel>
+        <text>CHAPITRE XIV</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-118"/>
+    </navPoint>
+    <navPoint id="ud883eaea-536b-45b5-9015-72dae3adc781" playOrder="20">
+      <navLabel>
+        <text>Livre deuxième</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-121"/>
+    </navPoint>
+    <navPoint id="u06dfd255-d5b1-4cc3-957d-6b9c8a89640a" playOrder="21">
+      <navLabel>
+        <text>CHAPITRE XV</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-122"/>
+    </navPoint>
+    <navPoint id="uc17b7fe4-e764-4cf2-9821-ab3de211d01c" playOrder="22">
+      <navLabel>
+        <text>CHAPITRE XVI</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-125"/>
+    </navPoint>
+    <navPoint id="u2f1cda70-c150-44e8-81bb-544963c01929" playOrder="23">
+      <navLabel>
+        <text>CHAPITRE XVII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-131"/>
+    </navPoint>
+    <navPoint id="uac89280d-40e9-45f4-b3a6-b7cfa8a77d85" playOrder="24">
+      <navLabel>
+        <text>CHAPITRE XVIII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-136"/>
+    </navPoint>
+    <navPoint id="u9de5c1de-5a0a-4fab-85aa-27339cb2d535" playOrder="25">
+      <navLabel>
+        <text>CHAPITRE XIX</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="uda94fb50-036e-42ab-b7c7-af278723a362" playOrder="26">
+      <navLabel>
+        <text>CHAPITRE XX</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-141"/>
+    </navPoint>
+    <navPoint id="u1594c2a0-27c0-4c6a-9686-d89402ccc5f0" playOrder="27">
+      <navLabel>
+        <text>CHAPITRE XXI</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-147"/>
+    </navPoint>
+    <navPoint id="u40f8c396-a924-4d14-a03a-056517e34137" playOrder="28">
+      <navLabel>
+        <text>CHAPITRE XXII</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-152"/>
+    </navPoint>
+    <navPoint id="ufaf98347-a4ba-4d42-8ad5-f81bced8a5db" playOrder="29">
+      <navLabel>
+        <text>CHAPITRE XXIII</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-154"/>
+    </navPoint>
+    <navPoint id="u8a5b8a47-15da-4565-9f4d-7ae05d2c5736" playOrder="30">
+      <navLabel>
+        <text>CHAPITRE XXIV</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-159"/>
+    </navPoint>
+    <navPoint id="u3ca625e1-19c6-4fb3-b9bf-318694c0fbeb" playOrder="31">
+      <navLabel>
+        <text>CHAPITRE XXV</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-166"/>
+    </navPoint>
+    <navPoint id="uaceef5dc-515b-40a5-a1a2-fc121dafee28" playOrder="32">
+      <navLabel>
+        <text>CHAPITRE XXVI</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-169"/>
+    </navPoint>
+    <navPoint id="u0fd2b739-2974-4b43-b8df-c0475042fa51" playOrder="33">
+      <navLabel>
+        <text>CHAPITRE XXVII</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="ubde4261a-adec-4853-98c7-f6e66f111f7e" playOrder="34">
+      <navLabel>
+        <text>Livre troisième</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-178"/>
+    </navPoint>
+    <navPoint id="uea4d61a9-9b2f-4436-baa2-c4d92f1cdade" playOrder="35">
+      <navLabel>
+        <text>CHAPITRE XXVIII</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-179"/>
+    </navPoint>
+    <navPoint id="u5e6ea222-f881-4a8a-8f5d-551cdf0685e8" playOrder="36">
+      <navLabel>
+        <text>CHAPITRE XXIX</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-184"/>
+    </navPoint>
+    <navPoint id="u51b40b78-74c5-4cb9-8abf-ede0f1915ba0" playOrder="37">
+      <navLabel>
+        <text>CHAPITRE XXX</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-190"/>
+    </navPoint>
+    <navPoint id="uef4eda65-05bd-4363-8493-ac17f103b8b2" playOrder="39">
+      <navLabel>
+        <text>CHAPITRE XXXI</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-196"/>
+    </navPoint>
+    <navPoint id="uaf68993b-ef77-47d1-9f0f-052cad12a2c8" playOrder="40">
+      <navLabel>
+        <text>CHAPITRE XXXII</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-203"/>
+    </navPoint>
+    <navPoint id="u1b92cf45-0fe9-476c-a809-348439e9102f" playOrder="41">
+      <navLabel>
+        <text>CHAPITRE XXXIII</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-206"/>
+    </navPoint>
+    <navPoint id="uad72bf8f-94d9-4ada-aa1a-c77ebed5bf72" playOrder="42">
+      <navLabel>
+        <text>CHAPITRE XXXIV</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-212"/>
+    </navPoint>
+    <navPoint id="u9cfa1e03-5960-4f26-85fc-3ff9a9b52e85" playOrder="44">
+      <navLabel>
+        <text>Livre quatrième</text>
+      </navLabel>
+      <content src="index1_split_004.html"/>
+    </navPoint>
+    <navPoint id="u943df85b-affa-4e8a-8a11-1d6bbe9fa47a" playOrder="45">
+      <navLabel>
+        <text>CHAPITRE XXXV</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-219"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="3868ef9e-613d-4f1e-a24c-1dbc016a1cef" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Retour de flamme</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ucbb1dc5c-80c8-475b-be68-e5261f9eb651" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-84"/>
+    </navPoint>
+    <navPoint id="u70aba1ac-1e19-4219-a755-91207747b41a" playOrder="1">
+      <navLabel>
+        <text>Janvier 1989</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="ufcdfe812-f13b-4862-a79b-edaa455ffe65" playOrder="2">
+      <navLabel>
+        <text>Samedi 23</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u5a4cd435-a9a8-4c47-a1b2-2225f5b6c8a3" playOrder="3">
+      <navLabel>
+        <text>Dimanche</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u83696e9f-bdb8-4025-98e2-6d76441ab429" playOrder="4">
+      <navLabel>
+        <text>Lundi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="ua4e01b81-769e-40ed-bec7-d552d56e2083" playOrder="5">
+      <navLabel>
+        <text>Mardi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="uc0983866-0ee2-4b26-b12a-ec3dee26ab79" playOrder="6">
+      <navLabel>
+        <text>Mercredi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="ud18eb4d3-a328-4cb1-a6d0-7f4d4df6a6af" playOrder="7">
+      <navLabel>
+        <text>Jeudi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u146195ce-0da3-4a5b-9b58-35989c0bb8e7" playOrder="8">
+      <navLabel>
+        <text>Vendredi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="uf5e442cd-dcc5-41c0-811d-093a855d9181" playOrder="9">
+      <navLabel>
+        <text>Samedi</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="ucb3e9dfc-916b-4a7a-b6b4-11ab83b45c10" playOrder="10">
+      <navLabel>
+        <text>Six ans plus tard</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-52"/>
+    </navPoint>
+    <navPoint id="u42baa4f0-8c02-4ef4-9fc3-e67a5708d7ac" playOrder="11">
+      <navLabel>
+        <text>Vendredi 21 juillet</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-53"/>
+    </navPoint>
+  </navMap>
+</ncx>

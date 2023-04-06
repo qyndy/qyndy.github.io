@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>DANS L'ENGRENAGE</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; text-align: justify; "&gt;&lt;span style="font-family: Palatino; font-size: 14px;"&gt;Si Jo ne parvient pas à se rappeler le début du rêve qui hante ses nuits, elle n'en connaît que trop bien la fin, toujours identique : elle tend désespérément la main vers quelque chose qu'elle ne peut atteindre. &lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: Palatino; font-size: 14px; "&gt;Métaphore claire et cruelle d'une vie décevante, car après l'échec de dix ans de mariage, Jo s'est persuadée que l'amour et le bonheur ne sont pas pour elle. Cherchant à fuir l'apathie qui semble la gagner chaque jour un peu plus, Elle décide de partir pour un long congé sabbatique, dans l'espoir qu'un changement de décor l'aidera à remettre sa vie sur les rails.&lt;/span&gt;&lt;/div&gt;&lt;p style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;&lt;span style="font-family: Palatino; font-size: 14px;"&gt;Elle est loin d'imaginer la rencontre qui va la mener à goûter, pour la première fois, à la passion amoureuse sur les lèvres d'une séduisante inconnue qui aura à cœur de réaliser son rêve le plus secret.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Reve a Nu</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:05.631000+00:00"/>
+    <dc:title>Lyn Denison</dc:title>
+    <dc:date>1997-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">abe3efa9-fa5f-4a10-8999-c4568db915d1</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

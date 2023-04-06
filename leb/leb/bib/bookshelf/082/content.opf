@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM Editions</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description" style="font-family: georgia;text-indent: 1.2em;text-align: justify;"&gt;27 ans... cheveux courts... Alice trimbale sa vie sans complexe du nord au sud, au gré des saisons, des jobs et des histoires d'amour. Lorsqu'elle croise l'énigmatique Barbara elle est fascinée, attirée, intriguée. Doit-elle s'arrêter un instant pour résoudre le mystère et succomber ou poursuivre son chemin ...&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Bailly, Cécile" opf:role="aut">Bailly, Cécile</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:17.861000+00:00"/>
+    <dc:title>Malice</dc:title>
+    <dc:date>1998-12-31T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">45f8ea61-2b8b-4437-869c-f12c2c17a2c3</dc:identifier>
+    <dc:subject>Romance</dc:subject>
+    <dc:subject>F/F</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Elena n'aurait jamais imaginé que sa fille de 15 ans la surprendrait dans le lit de Louise, son amante. C'est pourtant ce qui s'est produit. Depuis, entre culpabilité et irrésistible besoin d'être elle-même, elle se débat. Quant à Louise, elle fait profil bas et prend ce qu'Elena parvient à lui offrir. Mais dans ce jeu de dames où l'adolescente semble mener la danse,une inconnue pourrait bien venir jouer les trouble-fêtes. Dans ce cas, qui aura le dernier mot ?&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Mallet, Axelle" opf:role="aut">Mallet, Axelle</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:13.852000+00:00"/>
+    <dc:title>le choix de la reine</dc:title>
+    <dc:date>2009-04-30T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">42527b8b-727a-4a1d-932f-97195686b0f9</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

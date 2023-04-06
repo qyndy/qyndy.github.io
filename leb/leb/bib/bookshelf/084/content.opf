@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Milady</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;Massachussetts, années 1960. Billie et Eva ont du mal à se contenter du bonheur en sourdine que connaissent les mères au foyer. Malmenées par leurs maris, elles ne puisent aucun réconfort dans les joies de la vie domestique et se soutiennent pour faire face à l’adversité. Pour la première fois, elles trouvent quelqu’un avec qui partager leurs tourments, quelqu’un qui les comprend et leur redonne le goût de vivre. L’amitié qui les unit laisse bientôt place à des sentiments plus profonds. Et peut-être même à l’envie de tout recommencer. Mais ces deux femmes éprises de liberté peuvent-elles vraiment vivre un tel amour au grand jour ?&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Greenwood, T." opf:role="aut">Greenwood, T.</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:28.220000+00:00"/>
+    <dc:title>Mémoires d'elles</dc:title>
+    <dc:date>2014-11-20T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1e211835-83b7-4630-94b9-ac16eb11090a</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

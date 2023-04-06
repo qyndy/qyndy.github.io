@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>DANS L'ENGRENAGE</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div style="text-align: justify;font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;&lt;span class="Apple-style-span" style="font-family: georgia, palatino; font-size: small; "&gt;Rachel Weston est bien trop occupée pour réfléchir à sa vie, absorbée par ses deux jeunes enfants et le développement de sa jardinerie. &lt;/span&gt;&lt;/div&gt;&lt;span style="font-family: georgia, palatino; font-size: small; "&gt;&lt;div style="text-align: justify;"&gt;Le jour où elle doit embaucher de l'aide, quelle n'est pas sa surprise de voir resurgir dans son bureau une vieille connaissance, Quinn Farrelly, venue se porter candidate ! Il faut dire que douze ans plus tôt, après une adolescence rebelle, la jeune femme a été impliquée dans un mortel accident de voiture qui lui a valu un long séjour en prison. &lt;/div&gt;&lt;/span&gt;&lt;span style="font-family: georgia, palatino; font-size: small; "&gt;&lt;div style="text-align: justify;"&gt;Malgré les mises en garde de son entourage, Rachel donne sa chance à Quinn. Rapidement, elle va découvrir une personnalité plus sensible qu'ombrageuse et n'aura aucun mal à l'apprivoiser, en dépit de sa réputation… Jusqu'à ce que des sentiments troublants s'éveillent entre elles, remuant les eaux insondables de la vie de Quinn.&lt;/div&gt;&lt;/span&gt;&lt;span style="font-family: georgia, palatino; font-size: small; "&gt;&lt;div style="text-align: justify;"&gt;Dans quelle spirale vertigineuse risquent-elles d'être happées ?&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Indomptable</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:01.887000+00:00"/>
+    <dc:title>Lyn Denison</dc:title>
+    <dc:date>2000-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">89d58d95-bd5d-4058-aac4-f7b9beda60a6</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
