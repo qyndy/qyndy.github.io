@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="b46a732d-55bb-4b28-b2fc-384b1350900b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Les sources vives_v2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u90e6b93b-0e33-495d-9bb1-c983ee474eb7" playOrder="1">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-93"/>
+    </navPoint>
+    <navPoint id="u4b5500dd-6e71-4b1e-baa9-235f1dcc23b0" playOrder="2">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-94"/>
+    </navPoint>
+    <navPoint id="u5189931f-7d11-4873-8b5c-0cd898fc4687" playOrder="3">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-95"/>
+    </navPoint>
+    <navPoint id="uea049cf6-c365-4893-b3a5-a4a65c8e075e" playOrder="4">
+      <navLabel>
+        <text>ŒUVRES DE JEANNE GALZY nrf</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-96"/>
+    </navPoint>
+  </navMap>
+</ncx>

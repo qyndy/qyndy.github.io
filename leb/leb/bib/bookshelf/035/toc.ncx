@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="f1983ca9-6dce-4f6b-9441-e6b32c6aed8a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Les démons de la solitude</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0e573cb6-1930-4b7f-85fb-9df9245e6b5d" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uf311bb2f-5218-4b67-8fe1-0b7597c94de9" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u9fd891b7-f091-428d-b8fe-f6147661a9e6" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="uad10a593-203e-4549-9ff5-2f649d2e7706" playOrder="4">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ud9d56820-795f-458e-b1c0-f884ae31baf4" playOrder="5">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u8af183af-8d31-4a5d-8adc-fa710d566f8e" playOrder="6">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uc33a7c4e-83f9-492c-a6cc-48ecd7ddb446" playOrder="7">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-14"/>
+    </navPoint>
+  </navMap>
+</ncx>

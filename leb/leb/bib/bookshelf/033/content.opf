@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Gallimard</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;Troisième volume de la tétralogie «La surprise de vivre», ce récit se déroule entre Paris et la Camargue et relate la vie d'Amédée au début du XIXe&lt;/div&gt;&lt;div&gt;siècle, issue d'une famille protestante, passionnée par l'élevage des chevaux et aimant les femmes.&lt;/div&gt;&lt;div&gt;" La Surprise de vivre offre à un large public, en quatre passionnants volumes (1969-1976), la saga de familles languedociennes, huguenotes et&lt;/div&gt;&lt;div&gt;bourgeoises, entre banque et propriété foncière, fresque sociale aussi bien que radioscopie de passions sulfureuses…"&lt;/div&gt;&lt;div&gt;Michel Boissard, historien&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Galzy, Jeanne" opf:role="aut">Galzy, Jeanne</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:06.330000+00:00"/>
+    <dc:title>la cavaliere_V2</dc:title>
+    <dc:date>1974-02-26T15:57:38+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4b78e500-b2a1-4e6f-8ebc-8732e48f3515</dc:identifier>
+    <dc:subject>roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Gallimard</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="MsoNormal"&gt;&lt;b&gt;Tome1 de la quadrilogie&lt;/b&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;En 1969, venant de lire &lt;i&gt;La Surprise de vivre,&lt;/i&gt;Marguerite Yourcenar écrivait à l’auteur : « Vous m’aviez annoncé surtout une chronique du Montpellier d’autrefois. Comment deviner que le gros manuscrit [...] contenait tant de journées d’été, de nuits tièdes au bord d’une rivière, de siestes brûlantes. Je ne m’attendais pas [...] à une si fiévreuse idylle... L’amour des deux femmes est décrit sans un mot de trop ni de trop peu. »&lt;/p&gt;&lt;p class="MsoNormal"&gt;Cette « fiévreuse idylle », en effet, insérée dans la vie d’une famille huguenote conventionnelle, se développe avec une exquise lenteur si bien que la chute de la belle Éva dans les bras de Hilda Steenes nous soulage d’une tension extrême mais parfaitement délicieuse. Comme Yourcenar, nous pouvons chercher derrière les traits de l’institutrice miss Steenes ceux de Natalie Barney. Pourquoi pas ? Galzy ne fréquenta-t-elle pas aussi le célèbre salon ? Reste que ce roman est celui d’un choix. Prise entre son devoir de femme protestante, riche héritière terrienne et son désir flamboyant pour cette femme qui peu à peu s’installe dans sa vie, Éva va lentement choisir la rébellion face à un destin tout tracé. &lt;i&gt;La Surprise de vivre&lt;/i&gt; est un grand roman à l’ancienne écrit par une vieille dame indigne qui nous invite à vivre, tout simplement.&lt;/p&gt;&lt;p class="MsoNormal"&gt;V2 26022016&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Galzy, Jeanne" opf:role="aut">Galzy, Jeanne</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:15:50.168000+00:00"/>
+    <dc:title>La surprise de vivre_v2</dc:title>
+    <dc:date>1969-02-14T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">5299a936-2a9b-4d21-a3e5-48a474229b47</dc:identifier>
+    <dc:subject>roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

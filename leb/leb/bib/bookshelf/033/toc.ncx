@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="4b78e500-b2a1-4e6f-8ebc-8732e48f3515" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>la cavaliere_V2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ub482e6f9-c6f9-4f16-8ded-be25d67490e9" playOrder="1">
+      <navLabel>
+        <text>Généalogie des familles DESHANDRÈS BASTIDE et PARAZOL</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u148dae86-0967-42e5-9167-0316875bf2a1" playOrder="2">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="u4151c40c-790f-4958-b5b6-2706ff0bb9e1" playOrder="3">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u85759b40-017e-4478-812d-abaf17b8324a" playOrder="4">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-8"/>
+    </navPoint>
+  </navMap>
+</ncx>
