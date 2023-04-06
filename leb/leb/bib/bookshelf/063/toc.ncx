@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="3bfc6706-fe87-4ce5-a508-bd44d8f2a70b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>De guerre, d'amour et de sang v4</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u90be3667-efcd-4102-9648-6daa066f9d77" playOrder="2">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u344693cf-9c61-434b-85a5-146ebf8a487f" playOrder="3">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u4a587d56-22d4-404d-8e58-2625079faed2" playOrder="4">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u2d020973-6ebf-4949-b847-a3ca611535d0" playOrder="5">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u64a28f2a-1005-4894-8b3c-80e545cc7260" playOrder="6">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="ubad54324-d4ae-4c6c-b020-6a1bab4a747b" playOrder="7">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="ue466bd47-b8e8-41be-abd4-70cbabb6e518" playOrder="8">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u2f222c01-24f7-4f99-95d1-effbb6ccf9ba" playOrder="9">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uc066e816-10cf-4431-bd96-9116dc661956" playOrder="1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+  </navMap>
+</ncx>

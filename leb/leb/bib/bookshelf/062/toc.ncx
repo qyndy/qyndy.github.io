@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="048fb4f0-a63b-4e67-947e-ea23431cdc3f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>De guerre, d'amour et de sang v3</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uf1213453-93b9-4c4b-84fd-16b1f89e4e1b" playOrder="11">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="ua873e90b-de80-4f33-88cf-7805c91b7c84" playOrder="12">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u2a879b38-f8d6-4263-9e1a-2817e037fd61" playOrder="13">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="u36b820cb-bb86-4dd2-b63d-e48e65624b2e" playOrder="14">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="ueaeb2c6a-0c70-4758-aff3-6dea86964324" playOrder="15">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="uc61965cb-7087-452d-8bcf-b9787a4a7a59" playOrder="16">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u7b09b808-5367-488b-8537-ced90ad7a476" playOrder="1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u990f3625-878e-4387-ad72-929ef56bad43" playOrder="2">
+      <navLabel>
+        <text>Chapitre 1 : Science sans conscience…</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uf45f4da1-b2d4-47a8-9864-b2669723c951" playOrder="3">
+      <navLabel>
+        <text>Chapitre 2 : Contrariétés</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u149dcd28-7bb5-4f4c-9458-07e302e8e856" playOrder="4">
+      <navLabel>
+        <text>Chapitre 3 : Anemos</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="uece2ff22-3918-48f4-8bad-208dca71c0f0" playOrder="5">
+      <navLabel>
+        <text>Chapitre 4: L’île du Monde</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u25da7bdd-7d5c-403e-9c7d-05ea9040d69a" playOrder="6">
+      <navLabel>
+        <text>Chapitre 5 : Et Dieu créa la femme</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="u86584d3d-ac2b-48e5-aa70-f6fc03005d9a" playOrder="7">
+      <navLabel>
+        <text>Chapitre 6 : Intimité</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u27c0a04f-0f45-48b1-ad08-44e00b1f0c00" playOrder="8">
+      <navLabel>
+        <text>Chapitre 7 : Indécente</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u823f17d8-38a5-49d2-a9f6-76dc01e043f4" playOrder="9">
+      <navLabel>
+        <text>Chapitre 8 : Avant la guerre…</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="uc17dd98c-984e-49b1-b2bf-9026066a9452" playOrder="10">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-21"/>
+    </navPoint>
+  </navMap>
+</ncx>

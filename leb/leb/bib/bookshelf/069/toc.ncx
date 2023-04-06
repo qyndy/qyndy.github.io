@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="5f58f511-d6ee-4ad0-8131-3f48b00ef7d5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Il était une fois la Reine et la Voleuse (French Edition)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9407474c-5383-4fdd-b60d-b3f784558605" playOrder="1">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="u7ddd19f9-7d28-47d0-b448-c109f4f972d5" playOrder="2">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u5636f4ef-8257-4a04-8d4e-3264ce4bddbd" playOrder="3">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u55b196bf-159f-4409-8d59-b1b217252772" playOrder="4">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="uf270c270-0a7b-4a52-bbce-4b36ea3a7bb9" playOrder="5">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-2"/>
+    </navPoint>
+  </navMap>
+</ncx>

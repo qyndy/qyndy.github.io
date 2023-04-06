@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>STEDITIONS</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Kristen Adams est morte il y a six mois. Arrachée à sa ville natale, Livermore Falls dans le Maine, Faith, sa compagne et amante la conduit à New York pour des raisons qu'elle ignore encore.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Au fil des mois, Kristen voit des souvenirs lui apparaître et comp  rend qu'elle n'est pas seulement une adolescente de vingt ans mais que sa vie a débuté il y a plus de 1000 ans...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Elle est ce qu'on appelle une "Anĭmas", un vampire au sang pur, tout comme sa soeur Faith et son frère Erik. De sa première vie, tous la surnommaient Sarah, née en 936 dans le Comté de Northumbrie en Angleterre.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Malone, Kyrian" opf:role="aut">Malone, Kyrian</dc:creator>
+    <dc:creator opf:file-as="Malone, Kyrian" opf:role="aut">Leigh, Jamie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:53:06.494000+00:00"/>
+    <dc:title>De guerre, d'amour et de sang - Tome 2</dc:title>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2f137a24-559f-44eb-8bc9-a5485f706593</dc:identifier>
+    <dc:subject>bit lit</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

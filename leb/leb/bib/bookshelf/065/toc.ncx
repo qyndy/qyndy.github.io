@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="58d984d5-b40f-485b-9bc6-a43dc8bf6f68" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>De guerre, d'amour et de sang V6</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ueb43ef6e-3ca3-4b8e-902d-7847f71ec3ec" playOrder="1">
+      <navLabel>
+        <text>Démarrer</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
