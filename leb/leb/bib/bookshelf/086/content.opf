@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM Éditions</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description" style="font-family: georgia;text-indent: 1.2em;text-align: justify;"&gt;Cody vit à Wellington et Annabel est originaire de Boston. Alors que chacune voit soudain sa vie prendre une tournure inattendue, les deux femmes vont se rencontrer aux îles Cook. Dans un tel décor, leur avenir devrait s'annoncer radieux, mais il faut se méfier des cieux du Pacifique, des visites imprévues et des méandres du destin. Cody et Annabel vont-elles vraiment pouvoir profiter de ce coin de paradis ?&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Fulton, Jennifer" opf:role="aut">Fulton, Jennifer</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:38.204000+00:00"/>
+    <dc:title>Un coin de paradis</dc:title>
+    <dc:date>2013-05-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6b3f78d8-c432-4947-89c4-4606fc33ecae</dc:identifier>
+    <dc:subject>Romance</dc:subject>
+    <dc:subject>F/F</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

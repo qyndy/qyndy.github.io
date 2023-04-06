@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>DANS L'ENGRENAGE</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249); display: inline !important; float: none;"&gt;"Que faire, quand on a soigneusement programmé sa vie et que soudain, tout bascule ?&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249); display: inline !important; float: none;"&gt;Quinn Maguire est une prodige de la chirurgie traumatologique formée à Manhattan, mais elle accepte un poste de simple médecin urgentiste dans un hôpital de Philadelphie, à la grande surprise de sa nouvelle responsable, le Dr Honor Blake, dont la méfiance s'éveille.&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249); display: inline !important; float: none;"&gt;Les exigences de leurs responsabilités les contraindront à dépasser leurs réticences mutuelles, qui seront bientôt remplacées par l'admiration, la confiance... l'attirance? Si Quinn est retenue par la nécessité de cacher son secret, la véritable raison qui l'empêche d'opérer, Honor n'en a pas moins d'entraves. Et la principale a la forme de l'alliance qu'elle porte, et qui l'attache à la mère de sa fille.&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: proxima-nova, Adelle, alternate-gothic-no-3-d, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(249, 249, 249); display: inline !important; float: none;"&gt;Dans l'effervescence qui règne aux Urgences, les deux femmes doivent affronter la fragilité de la vie humaine, ses mystères et, surtout, ce que le cœur peut receler comme périls – et promesses."&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Radclyffe</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:49.825000+00:00"/>
+    <dc:title>A coeur perdu</dc:title>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6d403545-d888-4c16-a501-c5b72d15084f</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

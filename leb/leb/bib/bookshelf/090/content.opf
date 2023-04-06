@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Labrys éd.</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Cameron Roberts se voit attribuer la mission la plus déprimante de sa carrière d'agent du Secret Service : surveiller la fille du président des Etats-Unis. Habituée aux missions d'infiltration sur des terrains autrement plus dangereux que les milieux artistiques new-yorkais, elle s'attend à devoir faire du baby-sitting. Mais Blair Powell n'a de cesse d'échapper à ses chiens de garde pour courir les boîtes de nuit et tenter d'oublier entre les bras de femmes d'un soir le lourd tribut qu'elle doit payer à la carrière politique de son père. La mission de Cameron est de la protéger malgré elle et de garder dans l'ombre son secret.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Radclyffe,</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:55:54.287000+00:00"/>
+    <dc:title>L'Honneur Avant Tout</dc:title>
+    <dc:date>2001-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">14121cf8-07e1-442d-92a6-c31d1eefe845</dc:identifier>
+    <dc:subject>Intelligence Service</dc:subject>
+    <dc:subject>Lesbians</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
