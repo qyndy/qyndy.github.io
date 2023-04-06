@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>H&amp;O</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="text-align: justify;"&gt;Un ange est mort. C'est du moins ce que pense Kate Delafield, détective du LAPD, en découvrant le corps de Dory Quillin sur le parking du Nightwood Bar, un établissement lesbien de Los Angeles. Mais la jeune fille au visage innocent n'était peut-être pas si pure. Drogue, prostitution, troubles de la personnalité semblaient aussi faire partie de sa vie. Pour débusquer son assassin, la détective devra fouiller dans le passé de Dory et affronter son entourage. Pour cela, elle ne pourra compter sur personne: ni sur les parents de la victime, qui l'ont rejetée depuis longtemps, ni sur les habituées du Nightwood Bar, pour qui la police symbolise l'oppression machiste. Seule, l'énigmatique et troublante Andrea viendra à son secours. Mais ses motivations pour séduire Kate sont-elles vraiment innocentes?&lt;/p&gt;&lt;p style="text-align: justify;"&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Forrest, Katherine V." opf:role="aut">Forrest, Katherine V.</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:17:31.179000+00:00"/>
+    <dc:title>Meutre au Night Wood Bar</dc:title>
+    <dc:date>2001-02-15T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fcd3792c-e4ea-430c-8804-3260a37284ce</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="66dcd206-a726-4633-bfea-e9426439d390" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Au grand jour</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u0495cdba-da98-4634-8c56-a70dd61d75cc" playOrder="12">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-61"/>
+    </navPoint>
+    <navPoint id="u36650fed-16cc-407b-a5f4-d0a041fb80c1" playOrder="13">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-62"/>
+    </navPoint>
+    <navPoint id="uaad44831-d073-4337-af3d-9b4933fcd718" playOrder="14">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-63"/>
+    </navPoint>
+    <navPoint id="u16b292e3-aa62-4965-8a28-7914c1782dcc" playOrder="15">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-64"/>
+    </navPoint>
+    <navPoint id="u5e39cb85-ef1b-4d5a-bcec-4cbac421939b" playOrder="16">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-65"/>
+    </navPoint>
+    <navPoint id="u87586f70-0776-4dcd-a66a-379465f3de36" playOrder="17">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="ufb3b0de3-bed1-4fd0-a461-c2dc9aca968d" playOrder="18">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-44"/>
+    </navPoint>
+    <navPoint id="u3b7537e4-7bb7-4579-a8f2-5890416386c3" playOrder="19">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-45"/>
+    </navPoint>
+    <navPoint id="ufeab85b7-681c-42c3-95fc-ceaa9077f8a2" playOrder="20">
+      <navLabel>
+        <text>[9]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-46"/>
+    </navPoint>
+    <navPoint id="u1496f04c-c9a5-436b-a41b-cca9a5743beb" playOrder="21">
+      <navLabel>
+        <text>[10]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="u9ce48671-dba2-4505-a346-a162b258ca5c" playOrder="22">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u52201be3-dab7-43cc-ac4c-972e19af96fe" playOrder="23">
+      <navLabel>
+        <text>[12]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-49"/>
+    </navPoint>
+    <navPoint id="u5f7e24ac-c4b2-4171-94a7-fc67cba43e24" playOrder="24">
+      <navLabel>
+        <text>[13]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-50"/>
+    </navPoint>
+    <navPoint id="u2b2a5be8-9666-470d-8912-fbc82149cf4d" playOrder="25">
+      <navLabel>
+        <text>[14]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-51"/>
+    </navPoint>
+    <navPoint id="u1f06950c-2b46-4f34-a591-d5da8281e559" playOrder="26">
+      <navLabel>
+        <text>[15]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u37207dc0-1868-474d-bc47-4e95e3c86d87" playOrder="27">
+      <navLabel>
+        <text>[16]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="uea931884-4f76-4bc8-b895-dd1b0c21307d" playOrder="28">
+      <navLabel>
+        <text>[17]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="u1b853c25-a456-4f51-9065-4b498ca40084" playOrder="29">
+      <navLabel>
+        <text>[18]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-57"/>
+    </navPoint>
+    <navPoint id="u4a46ee2f-6b28-4ae4-b03f-c9497b9804f7" playOrder="30">
+      <navLabel>
+        <text>[19]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-58"/>
+    </navPoint>
+    <navPoint id="u38b2ce1a-1447-41c6-9bee-a1540adfce8e" playOrder="31">
+      <navLabel>
+        <text>[20]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-59"/>
+    </navPoint>
+    <navPoint id="u5e9edae0-97d1-4fe8-bee4-cf991264c553" playOrder="32">
+      <navLabel>
+        <text>[21]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="uadb07ce3-91fa-4db7-8ec3-c49e68f1d1dc" playOrder="33">
+      <navLabel>
+        <text>[22]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u0a01510f-16c8-457b-82f8-223572bf51e0" playOrder="34">
+      <navLabel>
+        <text>[23]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="uea58c614-edbe-4985-8728-99f3c771fb33" playOrder="35">
+      <navLabel>
+        <text>[24]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u9b0844d3-1df7-4c85-9708-bc622b9cf25f" playOrder="1">
+      <navLabel>
+        <text>1 Le vers est dans le fruit</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u40ed372a-7a3d-4466-88b4-9b0d317fe226" playOrder="2">
+      <navLabel>
+        <text>2 À la recherche d’un toit</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="ued339942-b633-42aa-b341-752485faba3a" playOrder="3">
+      <navLabel>
+        <text>3 Au-delà des apparences</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ud53e675b-3bd9-4e8e-8e44-344cd41ac804" playOrder="4">
+      <navLabel>
+        <text>4 Il y a un truc</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u47048104-a416-4f9a-8c4c-f95098c7e298" playOrder="5">
+      <navLabel>
+        <text>5 Retour du naturel</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="u39cce8cb-7b5b-4f09-9d5b-77561c28539c" playOrder="6">
+      <navLabel>
+        <text>6 Dérapage contrôlé</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ube1a4652-1e65-48f3-b5c3-0b07546d2189" playOrder="7">
+      <navLabel>
+        <text>7 Festivités</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u9662894d-cac4-484e-920a-87e8c0162f95" playOrder="8">
+      <navLabel>
+        <text>9 Révélations</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u2a41b705-6868-4333-8173-981117588f2c" playOrder="9">
+      <navLabel>
+        <text>9 Enfin</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="u4ce01aaa-dd29-460a-adea-712119b7af09" playOrder="10">
+      <navLabel>
+        <text>10 C’est dit</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="ue67d4632-bbbf-48b0-bbab-43bb6cd09547" playOrder="11">
+      <navLabel>
+        <text>10 Tout est bien qui finit bien</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-40"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="28870d55-0855-4df0-a779-dcb16adb33fd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Meurtre par tradition</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u5b7db96a-0f70-4a46-bf42-123c2043955f" playOrder="26">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u13ac62c9-2f83-4224-b4ea-feb412e326fc" playOrder="27">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-30"/>
+    </navPoint>
+    <navPoint id="u8625046f-bb7c-40d4-9cd5-029a224a8189" playOrder="28">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="u146d9b5d-46e7-4ee1-8f1b-acbc58de07db" playOrder="29">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-32"/>
+    </navPoint>
+    <navPoint id="u1c5433da-a49c-4ee0-9483-958d0e682bda" playOrder="30">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="udaf0b0e6-59eb-4e31-8026-7e068663d597" playOrder="31">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-34"/>
+    </navPoint>
+    <navPoint id="uf90cd39c-27cb-4992-84ce-8ee14e1f9b42" playOrder="32">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u3ee74f05-2abe-4685-a345-32a7789480e1" playOrder="33">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-36"/>
+    </navPoint>
+    <navPoint id="u7039627e-f2f6-42f1-a7a4-46424cf392bf" playOrder="34">
+      <navLabel>
+        <text>[9]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u29721403-1533-488e-85d5-1c6f933c2cdd" playOrder="35">
+      <navLabel>
+        <text>[10]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-38"/>
+    </navPoint>
+    <navPoint id="u78195e88-cf6e-41a4-804c-b9e469774b1c" playOrder="36">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="u7f047b45-8bc7-4134-902e-7e8db992d4ce" playOrder="1">
+      <navLabel>
+        <text>Première partie</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ue81a1198-92c4-4ae1-9561-223304cb514e" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u1041c0fe-36d1-4d3c-be0b-be1559fc663a" playOrder="3">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u8cc32ecc-5ec6-4944-a92c-db0aa8e05ec6" playOrder="4">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="u315c024b-74e2-4b1e-871e-cd6fa752f265" playOrder="5">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u7bdbf48b-1ed7-4324-92cc-f43e85c84b5a" playOrder="6">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ub5951a10-23aa-4a3f-ac85-a20eff38eaf4" playOrder="7">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u59ed86b0-56d0-41be-87a2-a276106fbb99" playOrder="8">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="ue831f9eb-2326-49c8-96ed-d5e59c367e69" playOrder="9">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uf4272e2a-8212-47cf-93a3-b9ead1fb12b2" playOrder="10">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u459f7756-138a-46cd-91e8-cc1c7b4065a9" playOrder="11">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u50420644-41ad-4141-b1dd-0e446a2dea39" playOrder="12">
+      <navLabel>
+        <text>Seconde partie</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="u1ade7b97-6c76-41c9-8926-d3e38d424d27" playOrder="13">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-15"/>
+    </navPoint>
+    <navPoint id="ubfd9e890-3b19-4ef5-b8bd-a5c0d14ed063" playOrder="14">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-16"/>
+    </navPoint>
+    <navPoint id="u37670464-bf20-4410-b8d8-a47d48873b4d" playOrder="15">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-17"/>
+    </navPoint>
+    <navPoint id="u8add3fa0-c83e-48ca-a7da-35b686535293" playOrder="16">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-18"/>
+    </navPoint>
+    <navPoint id="u1e0a4c04-b6fb-4792-b1cb-70011290dd5c" playOrder="17">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="ub40ba9c5-27aa-4713-a7fa-a4ae20d8bc15" playOrder="18">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="ud991c7be-4f58-40c2-998f-5b4b3bb56754" playOrder="19">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-21"/>
+    </navPoint>
+    <navPoint id="u031ce885-93e7-4563-925b-b4f43250d916" playOrder="20">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="u26f583b3-525f-4f62-9e41-45b3596df1a7" playOrder="21">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u866306ef-ee55-4819-9c32-fb6a292af27f" playOrder="22">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-24"/>
+    </navPoint>
+    <navPoint id="u0332269b-3fb8-4037-b1ca-5e4649938625" playOrder="23">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u086f3fc3-69cd-4c39-b7d1-e6908578b937" playOrder="24">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-26"/>
+    </navPoint>
+    <navPoint id="ue81083ab-beff-40e1-a3dc-a5928586772e" playOrder="25">
+      <navLabel>
+        <text>Épilogue</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-27"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;div&gt;&lt;p align="justify"&gt;Lorsque son amie Vivian lui propose de l’accompagner quelques jours au lac  Tahoe pour s’évader après une rupture douloureuse, Diana est loin de se douter  que le ravissant chalet où elle est accueillie en même temps que quelques  inconnues sera le décor de rencontres passionnées.&lt;/p&gt;&lt;p align="justify"&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Forrest,Katherine V.</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:17:26.343000+00:00"/>
+    <dc:title>Le vin étrange</dc:title>
+    <dc:date>2012-04-15T16:09:34+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">63b79355-9fc1-40a5-ac63-6b3493ca1bcc</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>KTM</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;La rencontre entre Rayann et Louisa était inespérée : l'une cherchait un travail et un toit après une rupture sentimentale, l'autre quelqu'un pour la seconder dans sa librairie en échange d'une chambre au-dessus de la boutique. Rapidement, la cohabitation devient un défi pour Rayann : comment résister au charme de la libraire qui a l'âge de sa mère ? Le mieux serait de se changer les idées dans les bras de la séduisante Zoraida. Du côté de Louisa, l'attirance pour cette femme, si jeune et si sûre d'elle, ravive un passé heureux mais difficile. Leur improbable histoire parviendra-t-elle à s'épanouir malgré le regard sceptique et désapprobateur de leur entourage ?&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Kallmaker, Karin" opf:role="aut">Kallmaker, Karin</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:17:12.709000+00:00"/>
+    <dc:title>Au grand jour</dc:title>
+    <dc:date>2009-09-30T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">66dcd206-a726-4633-bfea-e9426439d390</dc:identifier>
+    <dc:subject>Roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

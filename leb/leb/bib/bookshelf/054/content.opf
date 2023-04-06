@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>H&amp;O</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;A 23 ans, le charmant Teddie Crawford a tout pour être heureux : un restaurant prospère, de nombreux amis et une joie de vivre communicative. Pourtant, au moment où Kate fait sa connaissance, il est allongé dans la cuisine de son établissement, baignant dans son propre sang, transpercé de près d'une quarantaine de coups de couteau. Très rapidement, l'enquête s'oriente vers la personne de Kyle Jensen, un jeune homme que la victime a dragué dans un bar gay. S'agit-il d'une " petite fiesta " qui aura mal tourné, comme le croit Ed Taylor, ou a-t-on affaire à un crime homophobe, comme le soupçonne rapidement Kate ? Et s'il s'agissait tout simplement d'un cas de légitime défense ? Le procès qui s'ensuivra sera pour Kate Delafield le plus éprouvant qu'elle ait jamais connu et pourrait bien bouleverser sa vie privée autant que professionnelle. Basé sur un fait divers réel, ce roman est une véritable radiographie de la façon dont les homosexuels étaient traités par la police et la justice américaine à un moment charnière de l'histoire de la " libération gay ". Après Meurtre au Nightwood Bar, il a valu à Katherine V. Forrest, pour la deuxième fois de sa carrière, un " Lambda Book Award ".&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Forrest, Katherine V." opf:role="aut">Forrest, Katherine V.</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:17:39.946000+00:00"/>
+    <dc:title>Meurtre par tradition</dc:title>
+    <dc:date>2002-03-14T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">28870d55-0855-4df0-a779-dcb16adb33fd</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
