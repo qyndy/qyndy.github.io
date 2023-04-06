@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>J.Farenzci et fils</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; "&gt;&lt;span style="font-size: 12pt; font-family: Georgia, serif; "&gt;Jeanne Galzy fut une des premières femmes professeurs à enseigner dans une école de garçons.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; "&gt;&lt;span style="font-size: 12pt; line-height: 18px; font-family: Georgia, serif; "&gt;En 1919 elle publie « La femme chez les garçons » où elle parle de sa récente expérience en tant que professeur.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; "&gt;&lt;span style="font-size: 12pt; line-height: 18px; font-family: Georgia, serif; "&gt;Dans ce livre, « L’initiatrice aux mains vides », elle relate à nouveau l’histoire d’une professeur (avec une teinte&lt;span&gt;  &lt;/span&gt;auto bibliographique ?)&lt;span&gt;  &lt;/span&gt;mais cette fois dans un lycée de jeunes filles.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; "&gt;&lt;span style="font-size: 12pt; line-height: 18px; font-family: Georgia, serif; "&gt;Roman de la psychologie du désir désespéré d’enfant.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="margin-bottom: 0.0001pt; "&gt;&lt;span style="font-size: 12pt; line-height: 18px; font-family: Georgia, serif; "&gt;L’éditeur décrivant en 1934 cet ouvrage comme « Livre Moderne Illustré » n’avait probablement&lt;span&gt; &lt;/span&gt;pas imaginé qu’ il le resterait encore 80 ans plus tard. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Galzy, Jeanne" opf:role="aut">Galzy, Jeanne</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T17:16:20.276000+00:00"/>
+    <dc:title>L'initiatrice aux mains vides_v2</dc:title>
+    <dc:date>1934-01-10T16:03:22+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">cb2096b4-310f-4f2d-9fdc-79a3766d4ccd</dc:identifier>
+    <dc:subject>roman</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added16" media-type="image/jpeg"/>
+    <item href="000001.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added23" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added10" media-type="image/jpeg"/>
+    <item href="000004.jpg" id="added12" media-type="image/jpeg"/>
+    <item href="000005.jpg" id="added21" media-type="image/jpeg"/>
+    <item href="000006.jpg" id="added13" media-type="image/jpeg"/>
+    <item href="000007.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000009.jpg" id="added25" media-type="image/jpeg"/>
+    <item href="000010.jpg" id="added14" media-type="image/jpeg"/>
+    <item href="000011.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000012.jpg" id="added19" media-type="image/jpeg"/>
+    <item href="000013.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="000014.jpg" id="added15" media-type="image/jpeg"/>
+    <item href="000015.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000016.jpg" id="added17" media-type="image/jpeg"/>
+    <item href="000017.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="000018.jpg" id="added22" media-type="image/jpeg"/>
+    <item href="000019.jpg" id="added27" media-type="image/jpeg"/>
+    <item href="000020.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="000021.jpg" id="added18" media-type="image/jpeg"/>
+    <item href="000022.jpg" id="added31" media-type="image/jpeg"/>
+    <item href="000023.jpg" id="added11" media-type="image/jpeg"/>
+    <item href="000024.jpg" id="added26" media-type="image/jpeg"/>
+    <item href="000025.jpg" id="added29" media-type="image/jpeg"/>
+    <item href="000026.jpg" id="added20" media-type="image/jpeg"/>
+    <item href="000027.jpg" id="added30" media-type="image/jpeg"/>
+    <item href="000028.jpg" id="added9" media-type="image/jpeg"/>
+    <item href="000029.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="000030.jpg" id="added24" media-type="image/jpeg"/>
+    <item href="000031.jpg" id="added28" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

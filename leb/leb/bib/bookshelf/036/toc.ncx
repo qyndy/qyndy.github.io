@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="cb2096b4-310f-4f2d-9fdc-79a3766d4ccd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>L'initiatrice aux mains vides_v2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u7bd2f5ed-9dc9-455e-821c-b2c462afcb29" playOrder="1">
+      <navLabel>
+        <text>Démarrer</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
