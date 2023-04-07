@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="b0506ed6-ad83-4772-8dea-f1ebf721e701" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sang et Honneur</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ue3d14daf-9551-4899-99f2-52b63a58e891" playOrder="1">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="ua065e110-671c-4255-95ea-7c910ccf3f8a" playOrder="2">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u3b25ee07-90eb-40e3-8da7-577fd0c5534c" playOrder="3">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="ub6bd5059-4576-4da8-ab8e-7b1c579e703b" playOrder="4">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u8f0de719-b555-4013-9e15-59893b50d5c4" playOrder="5">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="ue1dfa262-ba0b-4220-a979-0ee34389526c" playOrder="6">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u643a18b7-5269-49f1-bd36-fe1f802b2e05" playOrder="7">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u7ddd8793-45cd-4e64-9203-f762a47f15d0" playOrder="8">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-12"/>
+    </navPoint>
+  </navMap>
+</ncx>

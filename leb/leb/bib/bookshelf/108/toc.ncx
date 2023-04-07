@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="e3e9a9fd-608b-47cf-bc71-7f8f53d5e2cf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Affinités</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u65b08bd9-9baa-4efe-b794-693be5759243" playOrder="44">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="ubd5f434c-31c0-44ca-924f-7940eae3a568" playOrder="45">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="ua137853f-ec81-41f6-9858-e8beee7bfaf7" playOrder="46">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="uef1b620e-c283-449e-bbf4-ece5668fe05c" playOrder="47">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-139"/>
+    </navPoint>
+    <navPoint id="uf78cf36a-86b8-472d-872a-e2233a6514a4" playOrder="48">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="uc94ed720-14f2-46a7-bd19-a3339adf8600" playOrder="49">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="udec7b461-a130-4773-acc8-8ebb20553cf0" playOrder="1">
+      <navLabel>
+        <text>Couv</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u9434a95b-1ffb-4819-8fd6-0d422b1c144d" playOrder="1">
+      <navLabel>
+        <text>Sur l'auteur</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u39ca5165-8c12-4aad-9ef2-aaa930521af4" playOrder="2">
+      <navLabel>
+        <text>SARAH WATERS</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="u468aae58-7a89-438b-8fcc-c3014b95b458" playOrder="3">
+      <navLabel>
+        <text>Couverture : The kiss of peace, 1865/ Julia Margaret Cameron</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-72"/>
+    </navPoint>
+    <navPoint id="u4af129d0-7ed4-4adf-9fca-bc99cb6b31c4" playOrder="4">
+      <navLabel>
+        <text>3 août 1873</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-73"/>
+    </navPoint>
+    <navPoint id="u1b37557e-d2dd-436f-911a-e138f8c7dc91" playOrder="5">
+      <navLabel>
+        <text>Première partie</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-74"/>
+    </navPoint>
+    <navPoint id="ue9b271cf-d0e3-41fb-abca-82cd03491746" playOrder="6">
+      <navLabel>
+        <text>24 septembre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-75"/>
+    </navPoint>
+    <navPoint id="u7d7fa94b-0387-43a7-ae25-3b7de43aa28c" playOrder="7">
+      <navLabel>
+        <text>2 septembre 1872</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-76"/>
+    </navPoint>
+    <navPoint id="u281ac0bb-fce9-44bb-a1bb-e06ad2f90113" playOrder="8">
+      <navLabel>
+        <text>30 septembre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-77"/>
+    </navPoint>
+    <navPoint id="ub280b204-a8ec-4f3d-953c-979aa4a7ac00" playOrder="9">
+      <navLabel>
+        <text>30 septembre 1872</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-78"/>
+    </navPoint>
+    <navPoint id="u63877086-4672-44fa-8647-420305f7b305" playOrder="10">
+      <navLabel>
+        <text>4 octobre 1872</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-79"/>
+    </navPoint>
+    <navPoint id="u1bec9d68-1baf-472e-af88-c33e88d52fa7" playOrder="11">
+      <navLabel>
+        <text>2 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-80"/>
+    </navPoint>
+    <navPoint id="u762413df-96eb-4c31-9bf9-de9041b0d275" playOrder="12">
+      <navLabel>
+        <text>6 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-81"/>
+    </navPoint>
+    <navPoint id="u4100ea19-ed42-4a2c-8e10-caeae35259a3" playOrder="13">
+      <navLabel>
+        <text>12 octobre 1872</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-82"/>
+    </navPoint>
+    <navPoint id="uc1ed5e16-6cff-4ff8-96b3-739781516f7b" playOrder="14">
+      <navLabel>
+        <text>15 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-83"/>
+    </navPoint>
+    <navPoint id="ua611d22b-8172-45a9-bdcf-8b12ceb8a633" playOrder="15">
+      <navLabel>
+        <text>16 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-84"/>
+    </navPoint>
+    <navPoint id="uffe1216e-9fb5-43b5-8271-6ee4a9fe6746" playOrder="16">
+      <navLabel>
+        <text>3 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-85"/>
+    </navPoint>
+    <navPoint id="u3cc07607-6826-4df2-b19d-edd84453e704" playOrder="17">
+      <navLabel>
+        <text>6 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="uf94e869c-fef4-4351-afe6-ec09816eb7cf" playOrder="18">
+      <navLabel>
+        <text>13 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-87"/>
+    </navPoint>
+    <navPoint id="u80a2cc7a-c643-4bd3-ad9e-77fce3eb3acd" playOrder="19">
+      <navLabel>
+        <text>17 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-88"/>
+    </navPoint>
+    <navPoint id="ud5114c48-8148-4200-87e2-ac6aad3d7b19" playOrder="20">
+      <navLabel>
+        <text>17 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-89"/>
+    </navPoint>
+    <navPoint id="ucd593eed-3d3e-4931-a70b-e9de298f640e" playOrder="21">
+      <navLabel>
+        <text>25 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-90"/>
+    </navPoint>
+    <navPoint id="ub989e8f0-a54e-4a24-a1c8-5f9b5ccab291" playOrder="22">
+      <navLabel>
+        <text>21 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-91"/>
+    </navPoint>
+    <navPoint id="u83a58870-a247-4799-87e3-73478195704d" playOrder="23">
+      <navLabel>
+        <text>26 novembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-92"/>
+    </navPoint>
+    <navPoint id="u0fc07ae7-32cf-441b-b378-4887a79b89b0" playOrder="24">
+      <navLabel>
+        <text>Deuxième partie</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-93"/>
+    </navPoint>
+    <navPoint id="uaf808994-630b-4cff-b56d-bd1a361eddc7" playOrder="25">
+      <navLabel>
+        <text>23 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-94"/>
+    </navPoint>
+    <navPoint id="u137f6b9e-379c-4223-b6ec-fc4139c96b55" playOrder="26">
+      <navLabel>
+        <text>9 décembre 1872</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-95"/>
+    </navPoint>
+    <navPoint id="ua42cad72-6400-411c-bdda-a0b2f3e9f976" playOrder="27">
+      <navLabel>
+        <text>28 octobre 1874</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="u1db4218b-4891-4c85-8a7a-a3210d10e059" playOrder="28">
+      <navLabel>
+        <text>17 décembre 1872</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-97"/>
+    </navPoint>
+    <navPoint id="uc80f78a7-67d5-4251-bc0e-e74182f614a3" playOrder="29">
+      <navLabel>
+        <text>19 décembre 1872</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-98"/>
+    </navPoint>
+    <navPoint id="u80fc5f29-4c04-4574-82c8-ab07cde8cd02" playOrder="30">
+      <navLabel>
+        <text>8 janvier 1873</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-99"/>
+    </navPoint>
+    <navPoint id="u000684cc-d3aa-48e2-a023-f1986528d23b" playOrder="31">
+      <navLabel>
+        <text>2 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-100"/>
+    </navPoint>
+    <navPoint id="u97e91dcc-78d5-49d1-a668-9a8ca8b32c4d" playOrder="32">
+      <navLabel>
+        <text>25 janvier 1873</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-101"/>
+    </navPoint>
+    <navPoint id="u890cfeff-ad7b-4df4-97bc-9f119987b35d" playOrder="33">
+      <navLabel>
+        <text>26 janvier 1873</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-102"/>
+    </navPoint>
+    <navPoint id="ub1c0b320-8363-4300-956e-7df9b6c29f1e" playOrder="34">
+      <navLabel>
+        <text>Troisième partie</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-103"/>
+    </navPoint>
+    <navPoint id="ue98090f5-99fb-4693-9fb4-64175d138afa" playOrder="35">
+      <navLabel>
+        <text>5 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-104"/>
+    </navPoint>
+    <navPoint id="u1d866703-d481-4844-ad58-eb9c3b3ca93c" playOrder="36">
+      <navLabel>
+        <text>10 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="u791213b4-8e32-4fdc-a305-44ad83a45204" playOrder="37">
+      <navLabel>
+        <text>14 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-106"/>
+    </navPoint>
+    <navPoint id="u373fa676-ac01-424a-be21-c0a68573fe51" playOrder="38">
+      <navLabel>
+        <text>20 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-107"/>
+    </navPoint>
+    <navPoint id="u969c4bb9-a927-4e8b-8018-10a60455131a" playOrder="39">
+      <navLabel>
+        <text>10 mars 1873</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-108"/>
+    </navPoint>
+    <navPoint id="u11d05d55-3116-4707-989f-bb2aed908513" playOrder="40">
+      <navLabel>
+        <text>21 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-109"/>
+    </navPoint>
+    <navPoint id="u42d1092b-1b25-4bb0-ab3f-0ee995bfa5d7" playOrder="41">
+      <navLabel>
+        <text>23 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-110"/>
+    </navPoint>
+    <navPoint id="u5b5d5a1a-b628-4886-ba0b-05abc18e0748" playOrder="42">
+      <navLabel>
+        <text>24 novembre 1874</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-111"/>
+    </navPoint>
+    <navPoint id="u18a30427-9638-4968-8bad-09bfe13b4db1" playOrder="43">
+      <navLabel>
+        <text>2 avril 1873</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-112"/>
+    </navPoint>
+  </navMap>
+</ncx>

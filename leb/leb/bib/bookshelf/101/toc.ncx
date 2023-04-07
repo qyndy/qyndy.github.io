@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="6535cea9-757f-4765-a510-fe2c6fd86b8d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Coeur contre coeur ; Les lois de l'amour</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uaf8dd718-f465-4c13-b09f-a958c0187015" playOrder="1">
+      <navLabel>
+        <text>1.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="u02b96b93-a1d5-48cc-9502-03a85810f58b" playOrder="2">
+      <navLabel>
+        <text>2.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u02cd203b-6dfd-4bb4-a0bf-c6848510ba35" playOrder="3">
+      <navLabel>
+        <text>3.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u45019b17-d26b-4fc2-9c85-4e18b85b7641" playOrder="4">
+      <navLabel>
+        <text>4.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="ube3b23f7-e63e-473a-8633-8ac0b335890c" playOrder="5">
+      <navLabel>
+        <text>5.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="ue4dd7403-927c-4b3d-adf5-004aad0d6b75" playOrder="6">
+      <navLabel>
+        <text>6.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="uafc0884a-ab12-4215-b0a5-e216fc35afe5" playOrder="7">
+      <navLabel>
+        <text>7.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u0e44d252-b38b-4f7a-a1a9-8e2f7232cec1" playOrder="8">
+      <navLabel>
+        <text>8.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uf0d7d549-1394-45b3-abac-63df196ef8bf" playOrder="9">
+      <navLabel>
+        <text>9.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="ua84dbc26-2ca4-4531-98b5-123e8af0d2d0" playOrder="10">
+      <navLabel>
+        <text>10.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u837959f4-7cd5-40d8-b164-926c420933d1" playOrder="11">
+      <navLabel>
+        <text>Epilogue.</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-11"/>
+    </navPoint>
+  </navMap>
+</ncx>

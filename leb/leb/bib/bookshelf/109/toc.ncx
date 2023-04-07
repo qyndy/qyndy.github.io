@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="33670271-1af1-49dd-9fd8-540c47d9f2e2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Du bout des doigts</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u24af60d4-9998-4f76-9391-d045a7889fb4" playOrder="22">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="ub2f255b7-9db5-4ec5-b86b-999d6a1902f3" playOrder="20">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="ud7a877de-73d2-41f2-8533-4e72f2a058c9" playOrder="21">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="u9b180400-f5e5-4a59-b573-1f6e1a756c7a" playOrder="23">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="u24d89f4c-5b17-486d-99fc-2b21ea28e4a9" playOrder="1">
+      <navLabel>
+        <text>Couv</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u358f04bb-b732-465b-ae23-df5e2f9cd04e" playOrder="1">
+      <navLabel>
+        <text>Sur l'auteur</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="uf16563dd-7843-452d-a5a0-6d54a9bddade" playOrder="2">
+      <navLabel>
+        <text>SARAH WATERS</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u93f10549-1b77-4c67-acd6-42af71a4abe2" playOrder="3">
+      <navLabel>
+        <text>PREMIÈRE PARTIE</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-20"/>
+    </navPoint>
+    <navPoint id="ub076040c-934b-4ffb-a1b1-220cfc2fa3d2" playOrder="4">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-25"/>
+    </navPoint>
+    <navPoint id="u667ec12b-1282-416a-8b42-23b8129ed568" playOrder="5">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="u5094c592-10ff-4ec5-ae18-34ea4cd18090" playOrder="6">
+      <navLabel>
+        <text>DEUXIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-27"/>
+    </navPoint>
+    <navPoint id="u41b6b22a-2848-4b7b-9900-6983d0e29d85" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="u4623c617-d61d-455c-b635-ef8ad6c7c4ad" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_003.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="ua8f38d5a-3756-4da0-9892-e610ffdd42ae" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_004.html"/>
+    </navPoint>
+    <navPoint id="u5a3473f6-7aa5-4283-99e9-8068e8c63166" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_004.html#calibre_link-31"/>
+    </navPoint>
+    <navPoint id="ud0c1897e-3eb7-43d1-80e4-5b638da7f4bf" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_005.html"/>
+    </navPoint>
+    <navPoint id="ueccc58ca-c474-41fe-b4ec-3daffcfcaa06" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_005.html#calibre_link-33"/>
+    </navPoint>
+    <navPoint id="u7140b364-26cf-406b-995c-2fb2c47256ae" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_006.html"/>
+    </navPoint>
+    <navPoint id="ue75dd0e5-68a4-4fcd-8e2d-3ffe62826ae6" playOrder="14">
+      <navLabel>
+        <text>TROISIÈME PARTIE</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-35"/>
+    </navPoint>
+    <navPoint id="u5988ef2a-fc68-4cc5-85bc-39631a711ff5" playOrder="15">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_007.html"/>
+    </navPoint>
+    <navPoint id="u920f62c8-33d0-4c04-9692-0d330f0ca81f" playOrder="16">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-37"/>
+    </navPoint>
+    <navPoint id="u307d378a-bb10-4b35-885b-289d15f654cc" playOrder="17">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_008.html"/>
+    </navPoint>
+    <navPoint id="ueb85d4c6-fa62-4e20-a4ee-6425e5989216" playOrder="18">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="u9e4ae818-d1cf-4ad9-9a4a-65fca74ee6ac" playOrder="19">
+      <navLabel>
+        <text>Note de l'auteur</text>
+      </navLabel>
+      <content src="index1_split_008.html#calibre_link-40"/>
+    </navPoint>
+  </navMap>
+</ncx>
