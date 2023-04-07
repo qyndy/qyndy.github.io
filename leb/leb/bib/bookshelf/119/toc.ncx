@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="3bd92caa-fef7-41c4-afe4-f5639cf4e242" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Séduction &amp; tentation Norah et Lucilla - 3</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ubb9eb2c8-74e1-4fa8-9f79-c5801cdb3c27" playOrder="1">
+      <navLabel>
+        <text>1. Réveil difficile</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uc85db822-e545-4209-ba51-df3d44a4949d" playOrder="2">
+      <navLabel>
+        <text>2. Confidence pour confidence</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-9"/>
+    </navPoint>
+    <navPoint id="u38ea7c36-a283-4085-84d9-d2532169072a" playOrder="3">
+      <navLabel>
+        <text>3. Onde de choc</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u9be6499b-7cd5-4ff6-96be-a6a7ab73ab94" playOrder="4">
+      <navLabel>
+        <text>4. Renaissance</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u1dd05d19-d84d-4069-ae0b-745c973f934e" playOrder="5">
+      <navLabel>
+        <text>5. La Dolce Vita</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-12"/>
+    </navPoint>
+  </navMap>
+</ncx>
