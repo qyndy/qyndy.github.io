@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Fleuve Noir</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Rien ne va plus pour Lauren Laurano : après le meurtre de Ruthie, tante de son amie Elissa, et le départ impromptu de sa compagne Kip, voici que réapparaît Charlie West, l'un des deux violeurs qui hantent son passé. Pour couronner le tout, Cecchi, son meilleur ami et seul contact dans la police se débat entre la vie et la mort. Et, surtout, la belle Alex a décidé de lui faire la cour par courrier électronique interposé&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Scoppettone, Sandra" opf:role="aut">Scoppettone, Sandra</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:13:06.289000+00:00"/>
+    <dc:title>Toute la mort devant nous</dc:title>
+    <dc:date>1997-08-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ade02ba7-c870-4ec3-bb34-af7d6b18b4e1</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

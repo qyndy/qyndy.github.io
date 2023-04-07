@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Editions addictives</dc:publisher>
+    <dc:description>Norah, étudiante en journalisme, vient de décrocher un stage dans le prestigieux magazine de mode Fashionable. La jeune femme est au comble du bonheur : son job est idéal, elle adore la vie effrénée de Paris et elle emménage avec Rémi, son amour de lycée.
+Tout serait parfait s’il n’y avait pas Lucilla, la rigoureuse PDG de Fashionable, qui l’intrigue autant qu’elle la fascine. Lucilla est arrivée au top de l’échelle sociale, elle est respectée et inaccessible. Mais elle est surtout incroyablement sexy. La superbe Italienne fait naître chez Norah des pensées inavouables et des fantasmes inconnus qui la bouleversent.
+Et quand les deux femmes cèdent à la tentation, ce sont toutes les certitudes de Norah qui volent en éclats !
+Un roman d'apprentissage et une passion brûlante… où le désir se conjugue au féminin.
+***
+Séduction et tentation : Norah &amp; Lucilla, volume 2/3.
+Séduction et tentation : Norah &amp; Lucilla est une réédition de la série Milliardaire et séductrice de Tessa Bergen.</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Tessa Bergen</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:13:23.449000+00:00"/>
+    <dc:title>Séduction &amp; tentation : Norah et Lucilla - Tome 2</dc:title>
+    <dc:date>2016-05-01T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a94974f8-15f5-4bd6-8c75-4fa7c35c642d</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000000.jpg" id="added3" media-type="image/jpeg"/>
+    <item href="000001.jpg" id="added4" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added5" media-type="image/jpeg"/>
+    <item href="000003.jpg" id="added6" media-type="image/jpeg"/>
+    <item href="000004.jpg" id="added7" media-type="image/jpeg"/>
+    <item href="000005.jpg" id="added8" media-type="image/jpeg"/>
+    <item href="000006.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="000008.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="index1.html" id="html" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html"/>
+  </spine>
+  <guide/>
+</package>

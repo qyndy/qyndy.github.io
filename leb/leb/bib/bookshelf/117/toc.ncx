@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="0d9864e8-aeb7-46a9-ad04-f0a19182bcaf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Séduction et tentation : Norah et Lucilla - 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uccc01e3f-7594-459c-a710-13bb7c51c814" playOrder="1">
+      <navLabel>
+        <text>1. Fashion victime</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u4120ad51-7a5e-4c1b-b9a0-89ef674e2603" playOrder="2">
+      <navLabel>
+        <text>2. Perturbations atmosphériques</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="uef4fac7d-a2da-4e23-bc7e-92f821a924ff" playOrder="3">
+      <navLabel>
+        <text>3. Amuse-bouche</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-12"/>
+    </navPoint>
+    <navPoint id="u9201a0be-be01-4695-9553-3e302727360d" playOrder="4">
+      <navLabel>
+        <text>4. Diamants sur canapé</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-13"/>
+    </navPoint>
+    <navPoint id="uab5681ed-ece8-41aa-90e3-c15c60a8d5fd" playOrder="5">
+      <navLabel>
+        <text>5. Le prix du désir</text>
+      </navLabel>
+      <content src="index1.html#calibre_link-14"/>
+    </navPoint>
+  </navMap>
+</ncx>

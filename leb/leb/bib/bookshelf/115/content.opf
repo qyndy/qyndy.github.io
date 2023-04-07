@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Fleuve Noir</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Lauren Laurano, plus ou moins réconciliée avec sa compagne Kip, change de décor et se met au vert. Un suicide qui n'en est pas un, des "accidents" dont ont été autrefois victimes des enfants, et c'est toute la communauté d'une bourgade de Long Island qui va être passée au crible de la sagacité de notre détective.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Scoppettone, Sandra" opf:role="aut">Scoppettone, Sandra</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:13:11.609000+00:00"/>
+    <dc:title>Long Island blues</dc:title>
+    <dc:date>1999-08-14T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">52420f90-40c3-4fd2-9eae-b471d5372626</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

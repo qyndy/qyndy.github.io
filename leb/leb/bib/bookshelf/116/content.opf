@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Reines de Coeur</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p style="text-align: justify;"&gt;&lt;b&gt;&lt;font color="#ff0000"&gt;V2 PINEA ATELIER&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Alexia Tyler, actrice américaine de renommée internationale, a fait un coming out marquant il y a quelques années. Nouvellement célibataire, elle est sous les feux des projecteurs depuis sa récente rupture, qui a fait le bonheur des paparrazzi. Quoi de mieux pour la presse à scandale qu’une actrice trompée par sa compagne lors d’un tournage à l’étranger ?&lt;/p&gt; &lt;p style="text-align: justify;"&gt;Lors d’une soirée de charité en l’honneur d’une association LGBT, elle fait la rencontre d’une étrange jeune femme. Quand, par un heureux hasard, elles se retrouvent sur un terrain de football quelques jours plus tard, leur vie prend une nouvelle tournure…&lt;/p&gt; &lt;p style="text-align: justify;"&gt;Mais sont-elles toutes les deux prêtes à aimer à nouveau ?&lt;/p&gt; &lt;p style="text-align: justify;"&gt;&lt;em&gt;Seconde Chance est le premier roman lesbien écrit par Marie Parson. Elle y dresse avec finesse et humour le portrait de femmes à la fois fortes et maladroites.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Parson,Marie</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:13:16.507000+00:00"/>
+    <dc:title>Seconde Chance</dc:title>
+    <dc:date>2015-11-21T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9a1f16a6-c25d-458f-a3ae-8c76c73ae31a</dc:identifier>
+    <dc:subject>romance lesbienne</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added2" media-type="image/jpeg"/>
+    <item href="000002.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

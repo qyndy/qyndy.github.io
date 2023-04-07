@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="022e0a1d-7c99-4c65-ad8c-2b3df5988473" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ronde de Nuit</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ua9b40827-9b78-40a2-ac76-8b3875f872c2" playOrder="9">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-14"/>
+    </navPoint>
+    <navPoint id="u3a52361d-3a68-4cab-b971-8b581af0efb7" playOrder="10">
+      <navLabel>
+        <text>*</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-19"/>
+    </navPoint>
+    <navPoint id="u91a06670-246d-4913-acd8-1ef726cf8029" playOrder="11">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-22"/>
+    </navPoint>
+    <navPoint id="uc4ddf89d-d6fd-4193-9b86-7132f6c4cb45" playOrder="12">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-23"/>
+    </navPoint>
+    <navPoint id="u5941be37-033b-4c90-9263-d3e99e3a640f" playOrder="1">
+      <navLabel>
+        <text>Couv</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u0ddfd27e-5692-47b5-8faa-f78315a27942" playOrder="1">
+      <navLabel>
+        <text>Sur l'auteur</text>
+      </navLabel>
+      <content src="index1_split_000.html"/>
+    </navPoint>
+    <navPoint id="u0e867c1e-568c-4c35-8d6c-c1c3a2482a4c" playOrder="2">
+      <navLabel>
+        <text>Titre</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-28"/>
+    </navPoint>
+    <navPoint id="ue2660cfc-1fb6-4579-9952-28e449177429" playOrder="3">
+      <navLabel>
+        <text>1947</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-29"/>
+    </navPoint>
+    <navPoint id="u32b0bbcc-0a4f-4405-8890-fffc4e54296d" playOrder="4">
+      <navLabel>
+        <text>1944</text>
+      </navLabel>
+      <content src="index1_split_003.html"/>
+    </navPoint>
+    <navPoint id="u52a4fb4d-89c5-416a-910b-2962c1b10fe4" playOrder="5">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_005.html"/>
+    </navPoint>
+    <navPoint id="uea5d0a42-c4b5-4802-a671-d209ecd04153" playOrder="6">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_006.html"/>
+    </navPoint>
+    <navPoint id="u46b0ddef-c4ea-4d06-8cd2-6b074fc49578" playOrder="7">
+      <navLabel>
+        <text>1941</text>
+      </navLabel>
+      <content src="index1_split_006.html#calibre_link-39"/>
+    </navPoint>
+    <navPoint id="u717a379b-928f-4b81-9359-9ae2997af341" playOrder="8">
+      <navLabel>
+        <text>Remerciements</text>
+      </navLabel>
+      <content src="index1_split_007.html#calibre_link-41"/>
+    </navPoint>
+  </navMap>
+</ncx>

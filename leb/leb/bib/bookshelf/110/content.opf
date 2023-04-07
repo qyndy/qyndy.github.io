@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Dans un Londres écrasé par le feu du Blitz se cache une autre guerre, celle des amours illicites, des trahisons et des espoirs brisés. Quel fantôme du passé hante Helen qui subit, désemparée, le lent délitement de sa liaison interdite avec Julia ? Pour quelles raisons Kay erre-t-elle désormais, inconsolable, dans les rues de la ville ? Pourquoi Viv, une jeune femme douce et glamour, ne parvient-elle pas à quitter son amant, un ancien soldat marié et père de famille ? La guerre a brassé ces destins qui avancent à tâtons pour reprendre leurs marques. Et pour beaucoup d'entre eux, la voie du bonheur dans un monde enfin apaisé va être aussi dangereuse qu'un tapis de bombes. 
+
+« Avec Ronde de nuit, Sarah Waters, libérée des passions subversives dont elle a arpenté tous les chemins, excelle dans une saga parfaitement ficelée, un roman de guerre où l'amour et les secrets surgissent du brouillard, entre les bombes. » 
+Astrid Eliard, Le Figaro 
+
+Traduit de l'anglais par Alain Defossé 
+"Domaine étranger" dirigé par Jean-Claude Zylberstein</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Waters,Sarah</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:12:43.482000+00:00"/>
+    <dc:title>Ronde de Nuit</dc:title>
+    <dc:date>2016-12-31T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">022e0a1d-7c99-4c65-ad8c-2b3df5988473</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="000001.jpg" id="added1" media-type="image/jpeg"/>
+    <item href="index1_split_000.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_005.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_006.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_007.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
