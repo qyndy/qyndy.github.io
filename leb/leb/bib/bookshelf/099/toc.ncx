@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fra">
+  <head>
+    <meta content="1bbc4378-ac38-437a-8bd5-06098a818696" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tokyo Mirage</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u762ab611-83b6-430b-9bc6-5b7f8a9b7144" playOrder="19">
+      <navLabel>
+        <text>[1]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-59"/>
+    </navPoint>
+    <navPoint id="u5b3d51e3-302a-46df-9cf5-78f4923f2093" playOrder="20">
+      <navLabel>
+        <text>[2]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-60"/>
+    </navPoint>
+    <navPoint id="ud417028c-7666-4582-ad87-ef38e8328d6e" playOrder="21">
+      <navLabel>
+        <text>[3]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-61"/>
+    </navPoint>
+    <navPoint id="u2bb0cd92-ff56-47c9-a418-0670305f0d32" playOrder="22">
+      <navLabel>
+        <text>[4]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-62"/>
+    </navPoint>
+    <navPoint id="u22448dbe-3868-4f69-a0ce-8abaf9505d36" playOrder="23">
+      <navLabel>
+        <text>[5]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-63"/>
+    </navPoint>
+    <navPoint id="u3e07bb62-b726-40f3-b9fd-ae52c7577bc0" playOrder="24">
+      <navLabel>
+        <text>[6]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-64"/>
+    </navPoint>
+    <navPoint id="u61b76eb5-a76c-4245-a073-6941de6b6be8" playOrder="25">
+      <navLabel>
+        <text>[7]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-65"/>
+    </navPoint>
+    <navPoint id="u146b42ae-65ec-4a4e-acc0-5f54b60534df" playOrder="26">
+      <navLabel>
+        <text>[8]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-66"/>
+    </navPoint>
+    <navPoint id="u84989247-b683-40c9-a683-bcb9bf612c49" playOrder="27">
+      <navLabel>
+        <text>[9]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-67"/>
+    </navPoint>
+    <navPoint id="uf9740278-63f0-4e5c-81c7-63601351992a" playOrder="28">
+      <navLabel>
+        <text>[10]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-68"/>
+    </navPoint>
+    <navPoint id="ub6faed02-2b01-454a-b6ae-bf9d5388e786" playOrder="29">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-69"/>
+    </navPoint>
+    <navPoint id="ua200a523-e05d-4723-ac5e-10c5e33845d1" playOrder="30">
+      <navLabel>
+        <text>[12]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-70"/>
+    </navPoint>
+    <navPoint id="u716580e0-3ba0-418b-8bca-e44e19249948" playOrder="31">
+      <navLabel>
+        <text>[13]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-71"/>
+    </navPoint>
+    <navPoint id="ub8ac75c6-cd55-468f-924c-9e89e9aa8df9" playOrder="32">
+      <navLabel>
+        <text>[14]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-72"/>
+    </navPoint>
+    <navPoint id="u83888f3a-40c4-414f-95c6-8773ebe26a9d" playOrder="33">
+      <navLabel>
+        <text>[15]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-73"/>
+    </navPoint>
+    <navPoint id="u5c4648e7-de42-4824-a240-7c51bb9a8569" playOrder="34">
+      <navLabel>
+        <text>[16]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-74"/>
+    </navPoint>
+    <navPoint id="u6bdd75f1-b883-4ffc-9765-52643065f74a" playOrder="35">
+      <navLabel>
+        <text>[17]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-75"/>
+    </navPoint>
+    <navPoint id="u795b5bf3-264c-438c-b1b7-d98666fa57dd" playOrder="36">
+      <navLabel>
+        <text>[18]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-1"/>
+    </navPoint>
+    <navPoint id="u9c9d453f-bde6-4a21-b918-a9bc3ecb1ffa" playOrder="37">
+      <navLabel>
+        <text>[19]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-2"/>
+    </navPoint>
+    <navPoint id="u535c279c-0aa6-4066-b4de-2b830f43e391" playOrder="38">
+      <navLabel>
+        <text>[20]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-3"/>
+    </navPoint>
+    <navPoint id="u6a088810-0391-464c-afa0-7da6246e7506" playOrder="39">
+      <navLabel>
+        <text>[21]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-4"/>
+    </navPoint>
+    <navPoint id="uf5404bfb-c8d0-443b-a094-7d448a3370cc" playOrder="40">
+      <navLabel>
+        <text>[22]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-5"/>
+    </navPoint>
+    <navPoint id="u9f540652-1222-4873-aabc-0dd1e4035905" playOrder="41">
+      <navLabel>
+        <text>[23]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-6"/>
+    </navPoint>
+    <navPoint id="ub2b15643-4eb9-46e6-a87f-f45d20c26cb5" playOrder="42">
+      <navLabel>
+        <text>[24]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-7"/>
+    </navPoint>
+    <navPoint id="u983d8696-14a7-4dbf-aefd-aff7acd37f70" playOrder="43">
+      <navLabel>
+        <text>[25]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-8"/>
+    </navPoint>
+    <navPoint id="uf49abd7e-f3bb-4cae-9a42-a03256178eb9" playOrder="44">
+      <navLabel>
+        <text>[26]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-10"/>
+    </navPoint>
+    <navPoint id="u0b6bcb54-4971-4c1d-b5e5-625d7bfa9454" playOrder="45">
+      <navLabel>
+        <text>[27]</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-11"/>
+    </navPoint>
+    <navPoint id="u9c0df41d-67ab-444c-a03c-5ef8d4c78d10" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-40"/>
+    </navPoint>
+    <navPoint id="u4e2b1171-0e38-4933-bfc8-02a55c698155" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-41"/>
+    </navPoint>
+    <navPoint id="u77d8a12e-41e4-4a73-956f-6190371a19e2" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-42"/>
+    </navPoint>
+    <navPoint id="u28f9a35c-a192-495b-a356-bb0e9ac71154" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="index1_split_000.html#calibre_link-43"/>
+    </navPoint>
+    <navPoint id="uf0386c7a-7d56-4d05-9a3e-5782326ae4de" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="index1_split_001.html"/>
+    </navPoint>
+    <navPoint id="ucc52672f-61c0-432b-8dd9-1a8974409eb8" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-45"/>
+    </navPoint>
+    <navPoint id="uc277c625-f7f3-4f6a-add9-ab3a9d3fe2e2" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-46"/>
+    </navPoint>
+    <navPoint id="ue12f15ba-c8e7-4c78-8834-8496151a34ad" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-47"/>
+    </navPoint>
+    <navPoint id="ud09cc0cd-ed2a-47a1-be0b-c55e2488cded" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="index1_split_001.html#calibre_link-48"/>
+    </navPoint>
+    <navPoint id="u7dd64dd8-3b26-45df-ba8f-46bbc0d012d8" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="index1_split_002.html"/>
+    </navPoint>
+    <navPoint id="ub4eb7784-caad-4ca0-8026-40d30d5d24d1" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-50"/>
+    </navPoint>
+    <navPoint id="u06b8996f-b316-44fc-a4fc-4ffca060b095" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-51"/>
+    </navPoint>
+    <navPoint id="uf6ad0114-7214-4738-9e15-a8f271e6683d" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-52"/>
+    </navPoint>
+    <navPoint id="uc14e818c-00ff-4c4a-9caa-7ab6d68664b8" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-53"/>
+    </navPoint>
+    <navPoint id="u556b01ae-59e2-4219-bf70-88d8f2e4ad0d" playOrder="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-54"/>
+    </navPoint>
+    <navPoint id="u880d6290-6df3-408a-9f69-7812c75e210f" playOrder="16">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-55"/>
+    </navPoint>
+    <navPoint id="u666f31b7-6b17-4190-bd90-a7ecff3b4275" playOrder="17">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-56"/>
+    </navPoint>
+    <navPoint id="u077aaf2f-c618-4390-99c7-ce501ff4edf1" playOrder="18">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="index1_split_002.html#calibre_link-57"/>
+    </navPoint>
+  </navMap>
+</ncx>
