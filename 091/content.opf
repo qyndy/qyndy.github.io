@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Labrys éd.</dc:publisher>
+    <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Blair Powell, fille du président des Etats-Unis, et Cameron Roberts, agent du Secret Service alors responsable de sa protection, sont tombées amoureuses. Cependant, lorsque Cameron est grièvement blessée par la balle d'un psychopathe en protégeant Blair, celle-ci refuse qu'elle reste à la tête de l'équipe chargée de sa sécurité. Mais le président des Etats-Unis en décide autrement et rappelle Cameron à son poste quand la menace qui pèse sur sa fille se fait plus pressante. L'affrontement entre elles est inévitable et leur relation n'y survivra peut-être pas.&lt;/p&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Radclyffe</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:11:06.731000+00:00"/>
+    <dc:title>Les Liens De L'Honneur</dc:title>
+    <dc:date>2002-01-01T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">649300e1-0101-4b83-acf7-3e453115fbfa</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

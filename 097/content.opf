@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Junko Go est jeune, belle, brillante, et flic. Elle vit aux Etats-Unis, mais ses parents sont japonais : un visage oriental, des réflexes américains. Et une passion pour les armes à feu... Elle revient dans son pays d'origine pour une mission de coopération entre services de sécurité et retrouve son père, chef de la police de Tokyo. Le soir même de son arrivée, un terrible attentat a lieu dans le métro. Suivi de crimes atroces. Un par jour... Junko se lance dans l'enquête. Sectes, manipulations politiques, tueurs psychotiques, les pistes s'emmêlent, se brouillent, lui font côtoyer les secrets du pouvoir avant de la plonger dans les quartiers les plus chauds, peuplés de personnages effarants... Jusqu'à ce qu'elle sente que le tueur, trop bien informé, a décidé de resserrer sa menace... autour d'elle.</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Anne Rambach</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:11:40.551000+00:00"/>
+    <dc:title>Tokyo Chaos</dc:title>
+    <dc:date>2015-06-03T13:21:35+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">daf7e2fc-71f9-4236-b5ab-a904b1d75fb5</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_004.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_005.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>

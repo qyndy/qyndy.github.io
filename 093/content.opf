@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Labrys Editions</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; text-align: justify; "&gt;Cameron Roberts croit enfin pouvoir vivre son amour pour Blair Powell, la femme qu'elle aime et qu'elle protège en tant qu'agent du Secret Service. Mais après un moment de répit à Paris où Blair a endossé son rôle de fille du président des Etats-Unis, le retour à New York signe le début d'un décompte mortel.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span class="Apple-style-span" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;&lt;div style="text-align: justify;"&gt;Tout semble calme et pourtant, dans l'ombre, une attaque d'une ampleur inégalée se prépare.&lt;/div&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;&lt;div style="text-align: justify;"&gt;Les traîtres et les « patriotes » tissent petit à petit une toile inextricable dans laquelle Blair doit tomber. Un piège dont Cameron ne sait rien et contre lequel elle ne peut rien. Le désastre qui guette son pays et la femme qu'elle aime s'abattra sur elles sans que personne ne puisse le prévenir à la fin de cet été 2001..                                            &lt;/div&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fr</dc:language>
+    <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Radclyffe,</dc:creator>
+    <meta name="calibre:timestamp" content="2023-04-03T18:11:22.019000+00:00"/>
+    <dc:title>Garde D'Honneur</dc:title>
+    <dc:date>2009-11-30T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8d252b08-e653-4770-b351-985b418e8205</dc:identifier>
+    <dc:subject>Policier</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="index1_split_000.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="index1_split_001.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index1_split_002.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index1_split_003.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide/>
+</package>
